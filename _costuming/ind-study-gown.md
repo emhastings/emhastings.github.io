@@ -1,5 +1,6 @@
 ---
 title: "Independent Study Gown"
+author: Creative
 excerpt: "Details about Elizabethan noblewoman's outfit made in 2013 independent study."
 header:
   teaser: http://emhastings.github.io/images/gown/gown.jpg
