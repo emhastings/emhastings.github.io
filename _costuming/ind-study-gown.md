@@ -28,8 +28,8 @@ I made this court gown outfit as part of an independent study in 2013 at the end
 * [Facebook photo album](https://www.facebook.com/media/set/?set=a.432146646877542.1073741825.100002466328041&amp;type=1&amp;l=1c4cc4c189)
 * Blog posts with construction details and photos: [1](http://realmsoflegend.blogspot.com/2013/06/rain-and-renaissance-regalia.html), [2](http://realmsoflegend.blogspot.com/2013/06/more-independent-study-gown-pictures.html)
 * [Underpinnings essay](https://emhastings.github.io/files/underpinnings.pdf)
-* [Gown bibliography](https://emhastings.github.io/files/gown-sources.pdf)
-* [Unpublished submission to Knox's _Catch Magazine_]((https://emhastings.github.io/files/catch.pdf))
+* [Gown bibliography](https://emhastings.github.io/files/gown-sources.pdf) (did not write a full paper for gown)
+* [Unpublished submission to Knox's _Catch Magazine_](https://emhastings.github.io/files/catch.pdf)
 * Presentations of the project:
   * [Final presentation for independent study](https://emhastings.github.io/talks/2013-05-30-costume-presentation)
   * [Horizons](https://emhastings.github.io/talks/2014-02-11-costume-horizons)
