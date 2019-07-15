@@ -27,7 +27,7 @@ gallery:
     alt: "Fashion plate for the outfit"
 ---
 
-I made this working-class outfit as part of an independent study in 2016 at the end of my time at Knox College, to bookend the earlier project. I conducted extensive research on the dress of English working-class from the 1560s-1580s, and constructed pieces from the skin out with materials and techniques that were as historically accurate as I could afford.  The outfit included a smock, kirtle, apron, jacket, coif, and stockings. I am also wearing a purchases hat and shoes.
+I made this working-class outfit as part of an independent study in 2016 at the end of my time at Knox College, to bookend the earlier project. I conducted extensive research on the dress of English working-class from the 1560s-1580s, and constructed pieces from the skin out with materials and techniques that were as historically accurate as I could afford.  The outfit included a smock, kirtle, sleeves, apron, jacket, forehead cloth, coif, and stockings. I am also wearing a purchased hat and shoes.
 
 {% include gallery caption="Images 1-5 by Peter Bailley, 6 and teaser by Kay Ryan" %}
 
