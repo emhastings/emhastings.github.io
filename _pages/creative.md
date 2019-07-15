@@ -6,7 +6,7 @@ author: Creative
 author_profile: true
 excerpt: 
 feature_row:
-  - image_path: https://emhastings.github.io/images/red-smile.jpg
+  - image_path: https://emhastings.github.io/images/gown/sidebyside.png
     alt: "costume"
     title: "Costuming"
     excerpt: "Costume pieces I have designed and/or built."
@@ -31,7 +31,8 @@ feature_row:
 
 Check out my creative work below. I have been making things my entire life, and have been selling some of them [on Etsy](https://realmsoflegend.etsy.com) since 2010. I also design knitting and crochet patterns, which you can find [on Ravelry](https://www.ravelry.com/designers/emily-hastings) or in my Etsy shop. Once upon a time, I wrote a blog for my shop, which you can [check out](http://realmsoflegend.blogspot.com/) if you want a behind-the-scenes look at some of my projects.
 
-You can help my make more cool things by supporting me on Ko-fi:     [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C1P0Z6)  
+You can help my make more cool things by supporting me on Ko-fi:  
+<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#6B8187', 'C0C1P0Z6');kofiwidget2.draw();</script>  
 
 [![Etsy](https://emhastings.github.io/images/etsy.jpg)](https://realmsoflegend.etsy.com)
 
