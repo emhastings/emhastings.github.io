@@ -34,6 +34,7 @@ Check out my creative work below. I have been making things my entire life, and 
 
 You can help my make more cool things by supporting me on Ko-fi:     <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#6B8187', 'C0C1P0Z6');kofiwidget2.draw();</script>  
 
-[![Etsy](https://emhastings.github.io/images/etsy.jpg)](https://realmsoflegend.etsy.com)
-
 {% include feature_row %}
+
+[![Etsy](https://emhastings.github.io/images/etsy.jpg)](https://realmsoflegend.etsy.com)
+#Etsy
