@@ -5,7 +5,7 @@ author_profile: true
 layout: archive
 excerpt: "Working-class outfit made in 2016 independent study."
 header:
-  teaser: http://emhastings.github.io/images/red/outside.jpg
+  teaser: http://emhastings.github.io/images/red/outside.JPG
 gallery:
   - url: http://emhastings.github.io/images/red/red.jpg
     image_path: http://emhastings.github.io/images/red/red-th.jpg
@@ -22,8 +22,8 @@ gallery:
   - url: http://emhastings.github.io/images/red/sock.jpg
     image_path: http://emhastings.github.io/images/red/sock-th.jpg
     alt: "The stockings"
-  - url: http://emhastings.github.io/images/red/plate.png
-    image_path: http://emhastings.github.io/images/red/plate-th.png
+  - url: http://emhastings.github.io/images/red/plate.JPG
+    image_path: http://emhastings.github.io/images/red/plate-th.jpg
     alt: "Fashion plate for the outfit"
 ---
 
