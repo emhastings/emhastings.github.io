@@ -117,7 +117,7 @@ Skills
 
 Service and Leadership
 ======
-* Reviewer for [ACM CSCW](cscw.acm.org/)
+* Reviewer for [ACM CSCW](https://cscw.acm.org/)
 * [Girls Who Code](https://girlswhocode.com/) Facilitator	
   * University of Illinois, 2017
   * Assisted students during weekly club meetings.
