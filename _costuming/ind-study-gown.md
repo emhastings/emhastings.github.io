@@ -3,7 +3,7 @@ title: "Independent Study Gown"
 author: Creative
 author_profile: true
 layout: archive
-excerpt: "Details about Elizabethan noblewoman's outfit made in 2013 independent study."
+excerpt: "Elizabethan noblewoman's outfit made in 2013 independent study."
 header:
   teaser: http://emhastings.github.io/images/gown/sidebyside.png
 gallery:
@@ -29,7 +29,7 @@ gallery:
 
 I made this court gown outfit as part of an independent study in 2013 at the end of my first year at Knox College. I conducted extensive research on the dress of English noblewomen from the 1560s-1570s, and constructed pieces from the skin out with materials and techniques that were as historically accurate as I could afford (although they were by no means perfect).  The outfit included a smock, pair of bodies (corset), Spanish farthingale, bumroll, partlet, petticoat, and gown. In the photos, I am also wearing a hat and caul made by my mom.
 
-{% include gallery caption="First two images by Peter Bailley." %}
+{% include gallery caption="Images 1-3 by Peter Bailley, 5 by Niki Acton" %}
 
 ## Documents and Links:
 * [Facebook photo album](https://www.facebook.com/media/set/?set=a.432146646877542.1073741825.100002466328041&amp;type=1&amp;l=1c4cc4c189)
