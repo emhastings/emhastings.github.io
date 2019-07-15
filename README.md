@@ -8,8 +8,7 @@ TODO:
 * Talks
   * Add links to gown pages
 * Creative
-  * Summary
-  * Maybe look at portfolio layouts?
+  * Costumes: faire outfits (maybe armor on its own), Tempest, Kentucky Cycle, doll hobbit, doll faire, doll noble, green bird, in the next room,  other 2 bodices?
 * Blog
   * Remove default posts
   * Add post about website
