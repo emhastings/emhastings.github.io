@@ -4,10 +4,11 @@ Still under construction.
 
 TODO:
 * Creative
-  * Costumes: faire outfits (maybe armor on its own), doll hobbit, doll faire, doll noble, green bird, in the next room,  other 2 bodices?
+  * Costumes: faire outfits (maybe armor on its own), doll hobbit, doll faire, doll noble, other 2 bodices?
   * Try to find Pisa bodice and take better pics, make page
   * Take picture of Tempest moodboard, better plates
   * Better Tall Tales plates
+  * Add dates, try to sort?
 * Press
   * other knitting article with Bofur hat
 * Blog
