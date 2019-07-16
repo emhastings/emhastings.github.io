@@ -3,7 +3,7 @@ title: "The Tempest"
 author: Creative
 author_profile: true
 layout: archive
-excerpt: "Designs for characters from William Shakespeare's The Tempest"
+excerpt: "Designs for characters from William Shakespeare's The Tempest."
 header:
   teaser: http://emhastings.github.io/images/tempest/island.JPG
 gallery:

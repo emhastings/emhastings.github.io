@@ -3,7 +3,7 @@ title: "Green Bird Bodice"
 author: Creative
 author_profile: true
 layout: archive
-excerpt: "Bodice for Princess Barbarina from Carlo Gozzi's The Green Bird"
+excerpt: "Bodice for Princess Barbarina from Carlo Gozzi's The Green Bird."
 header:
   teaser: http://emhastings.github.io/images/green-bird/bodice.jpg
 gallery:
