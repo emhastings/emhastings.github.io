@@ -16,7 +16,7 @@ gallery:
 
 ---
 
-I designed costumes for JT, young Mary Ann, and Lallie from Robert Schenkkan's _The Kentucky Cycle Part Two: Tall Tales_ as part of a course project for my costume design course at Knox.
+I designed costumes for JT, young Mary Ann, and Lallie from Robert Schenkkan's _The Kentucky Cycle Part Two: Tall Tales_ as part of a course project for my costume design course at Knox in 2012.
 
 {% include gallery caption="" layout=""%}
 

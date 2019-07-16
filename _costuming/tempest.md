@@ -22,9 +22,9 @@ gallery:
 
 ---
 
-I designed costumes for eight characters from William Shakespeare's _The Tempest_ as a final project for my costume design course at Knox.
+I designed costumes for eight characters from William Shakespeare's _The Tempest_ as a final project for my costume design course at Knox in 2012.
 
-{% include gallery caption="" layout=""%}
+{% include gallery caption=""%}
 
 ## Documents and Links:
 * [Notes and inspiration images](http://emhastings.github.io/files/tempest-notes.pdf)
