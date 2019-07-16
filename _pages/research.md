@@ -121,3 +121,7 @@ _Associated Presentations:_
 	{% endif %}
   {% endfor %}</ul>
   
+_Associated Projects:_
+  * [Elizabethan Court Gown](https://emhastings.github.io/costuming/ind-study-gown/)
+  * [Elizabethan Working Class Outfit](https://emhastings.github.io/costuming/red-kirtle/)
+  

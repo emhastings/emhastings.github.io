@@ -3,10 +3,6 @@ My personal website, forked from academicpages/academicpages.github.io.
 Still under construction.
 
 TODO:
-* Research tab
-  * Add links to gown pages once made
-* Talks
-  * Add links to gown pages
 * Creative
   * Costumes: faire outfits (maybe armor on its own), Tempest, Kentucky Cycle, doll hobbit, doll faire, doll noble, green bird, in the next room,  other 2 bodices?
 * Blog

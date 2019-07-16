@@ -6,7 +6,7 @@ permalink: /talks/2014-02-11-costume-horizons
 venue: "Knox College Horizons Celebration of Student Research"
 date: 2014-02-11
 location: "Galesburg, IL"
-excerpt: "See [article on Knox website](https://www.knox.edu/news/students-research-creative-works-in-the-spotlight) for more information.  
+excerpt: "See [article on Knox website](https://www.knox.edu/news/students-research-creative-works-in-the-spotlight) for more information about Horizons, and the [project page](https://emhastings.github.io/costuming/ind-study-gown/) for more about the gown.  
 [Download](https://emhastings.github.io/files/costume-horizons.pdf)"
 tags: [costume]
 ---
@@ -15,7 +15,7 @@ Poster
 Knox College Horizons Celebration of Student Research  
 Galesburg, IL  
 
-See [article on Knox website](https://www.knox.edu/news/students-research-creative-works-in-the-spotlight) for more information.
+See [article on Knox website](https://www.knox.edu/news/students-research-creative-works-in-the-spotlight) for more information about Horizons, and the [project page](https://emhastings.github.io/costuming/ind-study-gown/) for more about the gown.
 
 ![Emily stands by the gown and poster.](https://emhastings.github.io/images/gown-horizons.jpg)
 
