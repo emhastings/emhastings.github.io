@@ -1,5 +1,5 @@
 ---
-title: "The Green Bird Bodice"
+title: "Green Bird Bodice"
 author: Creative
 author_profile: true
 layout: archive
