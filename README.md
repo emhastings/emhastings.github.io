@@ -4,7 +4,7 @@ Still under construction.
 
 TODO:
 * Creative
-  * Costumes: faire outfits (maybe armor on its own), Tempest, Kentucky Cycle, doll hobbit, doll faire, doll noble, green bird, in the next room,  other 2 bodices?
+  * Costumes: faire outfits (maybe armor on its own), doll hobbit, doll faire, doll noble, green bird, in the next room,  other 2 bodices?
   * Try to find Pisa bodice and take better pics
   * Take picture of Tempest moodboard, better plates
   * Better Tall Tales plates
