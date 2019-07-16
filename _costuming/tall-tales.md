@@ -8,15 +8,15 @@ header:
   teaser: http://emhastings.github.io/images/tall-tales/plates.JPG
 gallery:
   - url: http://emhastings.github.io/images/tall-tales/plates.JPG
-    image_path: http://emhastings.github.io/images/tall-tales/plates-th.jpg
+    image_path: http://emhastings.github.io/images/tall-tales/plates-th2.jpg
     alt: "Plates for the three characters"
   - url: http://emhastings.github.io/images/tall-tales/all.JPG
-    image_path: http://emhastings.github.io/images/tall-tales/all-th.jpg
+    image_path: http://emhastings.github.io/images/tall-tales/all-th2.jpg
     alt: "Plates plus inspiration images"
 
 ---
 
-I designed costumes for JT, young Mary Ann, and Lallie from Robert Schenkkan's The Kentucky Cycle Part Two: Tall Tales as part of a course project for my costume design course at Knox.
+I designed costumes for JT, young Mary Ann, and Lallie from Robert Schenkkan's _The Kentucky Cycle Part Two: Tall Tales_ as part of a course project for my costume design course at Knox.
 
 {% include gallery caption="" %}
 
