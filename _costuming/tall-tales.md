@@ -8,10 +8,10 @@ header:
   teaser: http://emhastings.github.io/images/tall-tales/plates.JPG
 gallery:
   - url: http://emhastings.github.io/images/tall-tales/plates.JPG
-    image_path: http://emhastings.github.io/images/tall-tales/plates-th.JPG
+    image_path: http://emhastings.github.io/images/tall-tales/plates-th.jpg
     alt: "Plates for the three characters"
   - url: http://emhastings.github.io/images/tall-tales/all.JPG
-    image_path: http://emhastings.github.io/images/tall-tales/all-th.JPG
+    image_path: http://emhastings.github.io/images/tall-tales/all-th.jpg
     alt: "Plates plus inspiration images"
 
 ---
