@@ -15,13 +15,12 @@ flexgallery:
     url: http://emhastings.github.io/images/tall-tales/all.JPG
     image_path: http://emhastings.github.io/images/tall-tales/all-th.jpg
     alt: "Plates plus inspiration images"
-	end_row: "true"
 
 ---
 
 I designed costumes for JT, young Mary Ann, and Lallie from Robert Schenkkan's _The Kentucky Cycle Part Two: Tall Tales_ as part of a course project for my costume design course at Knox in 2012.
 
-{% include flexgallery caption=""%}
+{% include flexgallery %}
 
 ## Documents and Links:
 * [Mood board](http://emhastings.github.io/files/tall-tales-mood.pdf)
