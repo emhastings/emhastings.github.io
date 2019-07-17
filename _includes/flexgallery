@@ -1,4 +1,4 @@
-{% assign imagefolder = page.imagefolder | default: site.imagefolder | default: "" %}
+{% include base_path %}
 
 {% if include.id %}
   {% assign flexgallery = page[include.id] %}
