@@ -6,7 +6,7 @@ layout: archive
 excerpt: "Designs for characters from Robert Schenkkan's The Kentucky Cycle Part Two: Tall Tales."
 header:
   teaser: http://emhastings.github.io/images/tall-tales/plates.JPG
-gallery:
+flexgallery:
   - aspect: "1.3333"
     url: http://emhastings.github.io/images/tall-tales/plates.JPG
     image_path: http://emhastings.github.io/images/tall-tales/plates-th.jpg
