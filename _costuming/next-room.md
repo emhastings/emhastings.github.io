@@ -11,14 +11,15 @@ flexgallery:
     url: http://emhastings.github.io/images/next-room/bodice4.jpg
     image_path: http://emhastings.github.io/images/next-room/bodice4-th.jpg
     alt: "The bodice onstage"  
-  - aspect: "0.6667"
-    url: http://emhastings.github.io/images/next-room/bodice5.jpg
-    image_path: http://emhastings.github.io/images/next-room/bodice5-th.jpg
-    alt: "The bodice onstage"
   - aspect: "1.5"
     url: http://emhastings.github.io/images/next-room/bodice3.jpg
     image_path: http://emhastings.github.io/images/next-room/bodice3-th.jpg
     alt: "The bodice onstage"  
+	end_row: "true"
+  - aspect: "0.6667"
+    url: http://emhastings.github.io/images/next-room/bodice5.jpg
+    image_path: http://emhastings.github.io/images/next-room/bodice5-th.jpg
+    alt: "The bodice onstage"
   - aspect: "1.0867"
     url: http://emhastings.github.io/images/next-room/bodice.JPG
     image_path: http://emhastings.github.io/images/next-room/bodice-th.jpg
