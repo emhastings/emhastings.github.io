@@ -1,5 +1,7 @@
 My personal website, forked from academicpages/academicpages.github.io.
 
+Thanks to @iyeraravind for the flexgallery include (https://github.com/iyeraravind/aravind-website/blob/master/_includes/flexgallery).
+
 Still under construction.
 
 TODO:
