@@ -6,6 +6,28 @@ categories: self
 header:
    teaser: "/assets/images/reluctant-photographer-640.jpg"
 
+flexgallery:
+  - aspect: "0.6667"
+    url: http://emhastings.github.io/images/next-room/bodice4.jpg
+    image_path: http://emhastings.github.io/images/next-room/bodice4-th.jpg
+    alt: "The bodice onstage"  
+  - aspect: "1.5"
+    url: http://emhastings.github.io/images/next-room/bodice3.jpg
+    image_path: http://emhastings.github.io/images/next-room/bodice3-th.jpg
+    alt: "The bodice onstage"  
+  - aspect: "0.6667"
+    url: http://emhastings.github.io/images/next-room/bodice5.jpg
+    image_path: http://emhastings.github.io/images/next-room/bodice5-th.jpg
+    alt: "The bodice onstage"
+  - aspect: "1.0867"
+    url: http://emhastings.github.io/images/next-room/bodice.JPG
+    image_path: http://emhastings.github.io/images/next-room/bodice-th.jpg
+    alt: "The bodice"
+  - aspect: "0.835"
+    url: http://emhastings.github.io/images/next-room/bodice2.JPG
+    image_path: http://emhastings.github.io/images/next-room/bodice2-th.jpg
+    alt: "The bodice"
+	
 evolve-photo:
   - aspect: "1.3333"
     url: "butterfly-closeup.jpg"
@@ -63,6 +85,8 @@ But it was really when I saw a digital camera in action that I managed to shed m
 Later I became bold enough to look up esoteric terms like ISO, aperture, exposure, depth of field, etc., and I even ended up buying a digital SLR camera, a Nikon D50. At that time, I probably still thought “photography” was an indulgent hobby, but having a DSLR seemed handy since it was just so amazingly quick and accurate at capturing life. It wasn’t until I bought my first smartphone that I wittingly or unwittingly started shedding that final bit of baggage about photography being arty-farty. For a long time, I had my DSLR and I had a somewhat rugged and somewhat good pocket camera. There was no question the DSLR was better but equally there was no question which one could fit in my pocket. From having a great camera for special occasions, my needs were evolving into having a camera for all occasions. Then with my first smartphone, it was amazing — I could click a picture and email it instantaneously. The quality took a few generations to get up to an acceptable level, but there was no denying the transformation that was to come.
 
 {% include flexgallery id="evolve-photo" caption="Evolving photography - using a compact digital camera, a digital SLR and then a smartphone camera (Pictures courtesy of Aravind Iyer)"%}
+
+{% include flexgallery caption="Images 1-3 from the Knox Theatre website, linked below"%}
 
 I stopped thinking about the distinction between serious photography and casual photography, and just accepted that pictures are now a definite part of our communication vocabulary. But ironically, as the image and video quality of our smartphones has reached astonishingly great levels, photography has yet again started to become something of a niche occupation. If you liken a smartphone to a mass market car, then a DSLR and its accoutrements are more akin to a fire engine or a truck crane. Starting from the casual use-cases, smartphone photography has marched forward annexing panorama, high dynamic range, low light, shallow depth of field and zoom, by means of computational photography and clever camera hardware. As a result, it has left fewer and fewer bastions for DSLRs.
 
