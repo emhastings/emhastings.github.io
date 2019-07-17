@@ -19,7 +19,6 @@ flexgallery:
     url: http://emhastings.github.io/images/next-room/bodice5.jpg
     image_path: http://emhastings.github.io/images/next-room/bodice5-th.jpg
     alt: "The bodice onstage"
-	end_row: "true"
   - aspect: "1.0867"
     url: http://emhastings.github.io/images/next-room/bodice.JPG
     image_path: http://emhastings.github.io/images/next-room/bodice-th.jpg
