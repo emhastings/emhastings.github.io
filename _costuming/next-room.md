@@ -6,6 +6,29 @@ layout: archive
 excerpt: "Bodice for Mrs. Givings from Sarah Ruhl's In the Next Room."
 header:
   teaser: http://emhastings.github.io/images/next-room/bodice.JPG
+  
+evolve-photo:
+  - aspect: "1.3333"
+    url: "butterfly-closeup.jpg"
+    image_path: "butterfly-closeup-640.jpg"
+    alt: "Close up of a butterfly"
+  - aspect: "0.75"
+    url: "sky-scraper-reflection.jpg"
+    image_path: "sky-scraper-reflection-640.jpg"
+    alt: "Reflection of skyscrapers in water"
+    end_row: "true"
+  - aspect: "1.5059"
+    url: "boat-bow.jpg"
+    image_path: "boat-bow-640.jpg"
+    alt: "Bow of a boat"
+  - aspect: "0.4891"
+    url: "pasta-salad-wine.jpg"
+    image_path: "pasta-salad-wine-640.jpg"
+    alt: "Pasta, salads and wine"
+  - aspect: "0.5969"
+    url: "alphabet-teethers.jpg"
+    image_path: "alphabet-teethers-640.jpg"
+    alt: "Alphabet-shaped teethers"
 bodice-photo:
   - aspect: "0.6667"
     url: http://emhastings.github.io/images/next-room/bodice4.jpg
@@ -19,7 +42,7 @@ bodice-photo:
     url: http://emhastings.github.io/images/next-room/bodice5.jpg
     image_path: http://emhastings.github.io/images/next-room/bodice5-th.jpg
     alt: "The bodice onstage"
-	end_row: "true"
+	
   - aspect: "1.0867"
     url: http://emhastings.github.io/images/next-room/bodice.JPG
     image_path: http://emhastings.github.io/images/next-room/bodice-th.jpg
@@ -35,6 +58,8 @@ I built this bodice in 2014 for Mrs. Givings in Knox's production of Sarah Ruhl'
 I also built a pair of [combinations](https://www.google.com/search?q=combination+edwardian&rlz=1C1GCEV_en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjL9aizw7jjAhXRAp0JHQuBBI4Q_AUIESgC&biw=1536&bih=722&dpr=1.25) for the show, for Mrs. Daldry if I remember correctly.
 
 {% include flexgallery id="bodice-photo" caption="Images 1-3 from the Knox Theatre website, linked below"%}
+
+{% include flexgallery id="evolve-photo" caption="Evolving photography - using a compact digital camera, a digital SLR and then a smartphone camera (Pictures courtesy of Aravind Iyer)"%}
 
 ## Documents and Links:
 * [Production page](http://knoxtheatre.org/play/In_the_Next_Room_or_the_Vibrator_Play)
