@@ -11,27 +11,22 @@ flexgallery:
     url: http://emhastings.github.io/images/next-room/bodice4.jpg
     image_path: http://emhastings.github.io/images/next-room/bodice4-th.jpg
     alt: "The bodice onstage"  
-    end_row: "false"
   - aspect: "1.5"
     url: http://emhastings.github.io/images/next-room/bodice3.jpg
     image_path: http://emhastings.github.io/images/next-room/bodice3-th.jpg
     alt: "The bodice onstage"  
-	end_row: "true"
   - aspect: "0.6667"
     url: http://emhastings.github.io/images/next-room/bodice5.jpg
     image_path: http://emhastings.github.io/images/next-room/bodice5-th.jpg
     alt: "The bodice onstage"
-    end_row: "false"
   - aspect: "1.0867"
     url: http://emhastings.github.io/images/next-room/bodice.JPG
     image_path: http://emhastings.github.io/images/next-room/bodice-th.jpg
     alt: "The bodice"
-	end_row: "false"
   - aspect: "0.835"
     url: http://emhastings.github.io/images/next-room/bodice2.JPG
     image_path: http://emhastings.github.io/images/next-room/bodice2-th.jpg
     alt: "The bodice"
-    end_row: "true"
 ---
 
 I built this bodice in 2014 for Mrs. Givings in Knox's production of Sarah Ruhl's _In the Next Room, or the Vibrator Play_. It was designed by [Hannah Compton](https://www.hannahcomptondesign.com/) for the production.
