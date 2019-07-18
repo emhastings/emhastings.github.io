@@ -37,6 +37,10 @@ flexgallery:
     url: http://emhastings.github.io/images/doll-noble/cloak.JPG
     image_path: http://emhastings.github.io/images/doll-noble/cloak-th.jpg
     alt: "Doll ouftit"
+  - aspect: "0.7505"
+    url: http://emhastings.github.io/images/doll-noble/cloak2.JPG
+    image_path: http://emhastings.github.io/images/doll-noble/cloak2-th.jpg
+    alt: "Doll ouftit"
     end_row: "true"
 
 ---
