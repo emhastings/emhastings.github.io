@@ -5,7 +5,7 @@ author_profile: true
 layout: archive
 excerpt: "Armor inspired by the light armor sets in Dragon Age: Origins."
 header:
-  teaser: http://emhastings.github.io/images/horse.JPG
+  teaser: http://emhastings.github.io/images/armor/horse.JPG
 flexgallery:
   - aspect: "0.6279"
     url: http://emhastings.github.io/images/armor/cropped-horse.jpg
