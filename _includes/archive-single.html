@@ -17,20 +17,22 @@
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         {% if post.link %}
-            <a href="{{ base_path }}{{ post.url }}"><img src=
-             {% if teaser contains "://" %}
+            <a href="{{post.link}}">
+            <img src=
+            {% if teaser contains "://" %}
                "{{ teaser }}"
-             {% else %}
+            {% else %}
                "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-             {% endif %}
-             alt=""></a>    
+            {% endif %}
+            alt=""> 
+            </a>    
         {% else %}
             <img src=
-                {% if teaser contains "://" %}
-                    "{{ teaser }}"
-                {% else %}
-                    "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-                {% endif %}
+            {% if teaser contains "://" %}
+               "{{ teaser }}"
+            {% else %}
+               "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+            {% endif %}
             alt="">        
         {% endif %}
 
