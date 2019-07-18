@@ -5,7 +5,7 @@ author_profile: true
 layout: archive
 excerpt: "Semi-historical Renaissance faire outfits for 18-inch dolls."
 header:
-  teaser: http://emhastings.github.io/images/faire-maiden/both.JPG
+  teaser: http://emhastings.github.io/images/faire-maiden/both.jpg
 flexgallery:
   - aspect: "1.3333"
     url: http://emhastings.github.io/images/faire-maiden/both.JPG
@@ -52,6 +52,6 @@ flexgallery:
 
 Two styles of Renaissance faire outfits (bodice/skirt and one-piece dress) for 18-inch dolls. I have sold these word-of-mouth, on Etsy, and at a craft show.
 
-{% include gallery caption="" %}
+{% include flexgallery caption="" %}
 
 
