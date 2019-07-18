@@ -16,26 +16,13 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
-        {% if post.link %}
-            <a href="{{post.link}}">
-            <img src=
-            {% if teaser contains "://" %}
-               "{{ teaser }}"
-            {% else %}
-               "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-            {% endif %}
-            alt=""> 
-            </a>    
-        {% else %}
-            <img src=
-            {% if teaser contains "://" %}
-               "{{ teaser }}"
-            {% else %}
-               "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-            {% endif %}
-            alt="">        
-        {% endif %}
-
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
       </div>
     {% endif %}
 
