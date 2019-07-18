@@ -6,7 +6,7 @@ categories: self
 header:
    teaser: "/assets/images/reluctant-photographer-640.jpg"
 
-flexgallery:
+bodice:
   - aspect: "0.6667"
     url: http://emhastings.github.io/images/next-room/bodice4.jpg
     image_path: http://emhastings.github.io/images/next-room/bodice4-th.jpg
@@ -86,7 +86,7 @@ Later I became bold enough to look up esoteric terms like ISO, aperture, exposur
 
 {% include flexgallery id="evolve-photo" caption="Evolving photography - using a compact digital camera, a digital SLR and then a smartphone camera (Pictures courtesy of Aravind Iyer)"%}
 
-{% include flexgallery caption="Images 1-3 from the Knox Theatre website, linked below"%}
+{% include flexgallery id-"bodice" caption="Images 1-3 from the Knox Theatre website, linked below"%}
 
 I stopped thinking about the distinction between serious photography and casual photography, and just accepted that pictures are now a definite part of our communication vocabulary. But ironically, as the image and video quality of our smartphones has reached astonishingly great levels, photography has yet again started to become something of a niche occupation. If you liken a smartphone to a mass market car, then a DSLR and its accoutrements are more akin to a fire engine or a truck crane. Starting from the casual use-cases, smartphone photography has marched forward annexing panorama, high dynamic range, low light, shallow depth of field and zoom, by means of computational photography and clever camera hardware. As a result, it has left fewer and fewer bastions for DSLRs.
 
