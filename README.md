@@ -6,7 +6,6 @@ Still under construction.
 
 TODO:
 * Creative
-  * make pics and titles be links
   * Costumes: 
     * faire outfits (maybe armor on its own), other 2 bodices?, medieval doll, regency doll
     * Add dates, try to sort?

@@ -38,4 +38,4 @@ You can help me make more cool things by supporting me on Ko-fi: <script type='t
 {% include feature_row %}
 
 [![Etsy](https://emhastings.github.io/images/etsy.jpg)](https://realmsoflegend.etsy.com)
-# Etsy
+[# Etsy](https://realmsoflegend.etsy.com)
