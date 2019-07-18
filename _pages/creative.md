@@ -39,4 +39,5 @@ You can help me make more cool things by supporting me on Ko-fi: <script type='t
 
 [![Etsy](https://emhastings.github.io/images/etsy.jpg)](https://realmsoflegend.etsy.com)
 # [Etsy](https://realmsoflegend.etsy.com)
-<p><a href="https://realmsoflegend.etsy.com" class="btn btn--primary"> "Learn More" </a></p>
+Handmade items related to fictional worlds and historical eras.
+<p><a href="https://realmsoflegend.etsy.com" class="btn btn--primary"> Learn More </a></p>
