@@ -1,5 +1,5 @@
 ---
-title: "Faire Maiden Outfits"
+title: "Faire Maiden Doll Outfits"
 author: Creative
 author_profile: true
 layout: archive
@@ -8,7 +8,7 @@ header:
   teaser: http://emhastings.github.io/images/faire-maiden/both.jpg
 flexgallery:
   - aspect: "1.3333"
-    url: http://emhastings.github.io/images/faire-maiden/both.JPG
+    url: http://emhastings.github.io/images/faire-maiden/both.jpg
     image_path: http://emhastings.github.io/images/faire-maiden/both-th.jpg
     alt: "Doll ouftits"  
   - aspect: "0.7505"
@@ -38,7 +38,7 @@ flexgallery:
   - aspect: "1.3333"
     url: http://emhastings.github.io/images/faire-maiden/socks.JPG
     image_path: http://emhastings.github.io/images/faire-maiden/socks-th.jpg
-    alt: "Doll ouftits"  
+    alt: "Doll ouftit"  
   - aspect: "0.7505"
     url: http://emhastings.github.io/images/faire-maiden/chemise.JPG
     image_path: http://emhastings.github.io/images/faire-maiden/chemise-th.jpg
@@ -46,7 +46,7 @@ flexgallery:
   - aspect: "1.3333"
     url: http://emhastings.github.io/images/faire-maiden/pouch.JPG
     image_path: http://emhastings.github.io/images/faire-maiden/pouch-th.jpg
-    alt: "Doll ouftits" 
+    alt: "Doll ouftit" 
     end_row: "true"
 ---
 

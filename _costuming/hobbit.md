@@ -1,5 +1,5 @@
 ---
-title: "Bilbo Baggins"
+title: "Bilbo Baggins Doll Outfit"
 author: Creative
 author_profile: true
 layout: archive
