@@ -13,6 +13,7 @@ TODO:
     * Take picture of Tempest moodboard, better plates
     * Better Tall Tales plates
     * Fix sideways pictures
+    * Make teasers have links
   * Yarn: 
     * divide into designs vs built (eg Eomer hat, avatar blanket, thread, etc
     * projects featured on pattern pages
