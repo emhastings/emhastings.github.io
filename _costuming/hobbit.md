@@ -3,7 +3,7 @@ title: "Bilbo Baggins"
 author: Creative
 author_profile: true
 layout: archive
-excerpt: "Recreation of Bilbo Baggins' costume from The Hobbit for 18" doll."
+excerpt: "Recreation of Bilbo Baggins' costume from The Hobbit for 18-inch doll."
 header:
   teaser: http://emhastings.github.io/images/hobbit/hobbit.JPG
 gallery:
@@ -26,7 +26,7 @@ gallery:
 
 This project was a commission on Etsy from a customer who wanted a version of Bilbo's outfit from The Hobbit: An Unexpected Journey for her 18" doll.  Outfit included coat, waistcoat, shirt, and pants.
 
-{% include gallery %}
+{% include gallery caption="" %}
 
 ## Documents and Links:
 * [Etsy listing](https://www.etsy.com/listing/239471291/reserved-for-omgitssarah-bilbo-outfit?show_sold_out_detail=1)
