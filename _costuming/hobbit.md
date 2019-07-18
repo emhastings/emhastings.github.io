@@ -27,7 +27,7 @@ gallery:
     alt: "Movie Bilbo"
 ---
 
-This project was a commission on Etsy from a customer who wanted a version of Bilbo's outfit from The Hobbit: An Unexpected Journey for her 18" doll.  Outfit included coat, waistcoat, shirt, and pants.
+This project was a commission on Etsy from a customer who wanted a version of Bilbo's outfit from The Hobbit: An Unexpected Journey for her 18-inch doll.  Outfit included coat, waistcoat, shirt, and pants.
 
 {% include gallery caption="Last image from https://lotr.fandom.com/wiki/Bilbo_Baggins" %}
 

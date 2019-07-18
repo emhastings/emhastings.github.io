@@ -6,5 +6,6 @@ author: Creative
 collection: costuming
 entries_layout: grid
 classes: wide
+sort_order: reverse
 ---
 
