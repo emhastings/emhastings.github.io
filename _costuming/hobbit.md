@@ -26,7 +26,7 @@ gallery:
 
 This project was a commission on Etsy from a customer who wanted a version of Bilbo's outfit from The Hobbit: An Unexpected Journey for her 18" doll.  Outfit included coat, waistcoat, shirt, and pants.
 
-{% include gallery%}
+{% include gallery %}
 
 ## Documents and Links:
 * [Etsy listing](https://www.etsy.com/listing/239471291/reserved-for-omgitssarah-bilbo-outfit?show_sold_out_detail=1)
