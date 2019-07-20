@@ -1,7 +1,7 @@
 ---
 title: "Faire: The First 7 Years"
 author: Creative
-date: 2017-06-17
+date: 2017-06-25
 author_profile: true
 layout: archive
 excerpt: "My outfits for the first 7 years I attended Renaissance faires."
@@ -29,6 +29,8 @@ Handmade pieces:
 * Snood
 * Chemise
 * [Bodice](https://emhastings.github.io/costuming/bodices/)
+
+
 
 Bristol Renaissance Faire \| July 22, 2012
 
@@ -93,6 +95,8 @@ Handmade pieces:
 * Necklace
 * Bodice
 * Hobbit feet
+
+
 
 Bristol Renaissance Faire \| Kenosha, WI \| August 6, 2016
 
