@@ -1,6 +1,7 @@
 ---
 title: "Independent Study Working Woman's Outfit"
 author: Creative
+date: 2016-05-25
 author_profile: true
 layout: archive
 excerpt: "Working-class outfit made in 2016 independent study."

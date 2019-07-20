@@ -1,6 +1,7 @@
 ---
 title: "Light Armor"
 author: Creative
+date: 2017-06-24
 author_profile: true
 layout: archive
 excerpt: "Armor inspired by the light armor sets in Dragon Age: Origins."

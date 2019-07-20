@@ -1,6 +1,7 @@
 ---
 title: "Elizabethan Court Gown Doll Outfit"
 author: Creative
+date: 2016-03-01
 author_profile: true
 layout: archive
 excerpt: "Elizabethan court gown outfit for 18-inch dolls."

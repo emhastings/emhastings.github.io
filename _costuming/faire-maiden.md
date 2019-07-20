@@ -1,6 +1,7 @@
 ---
 title: "Faire Maiden Doll Outfits"
 author: Creative
+date: 2013-04-05
 author_profile: true
 layout: archive
 excerpt: "Semi-historical Renaissance faire outfits for 18-inch dolls."

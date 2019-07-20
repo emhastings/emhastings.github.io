@@ -1,6 +1,7 @@
 ---
 title: "Bilbo Baggins Doll Outfit"
 author: Creative
+date: 2015-07-06
 author_profile: true
 layout: archive
 excerpt: "Recreation of Bilbo Baggins' costume from The Hobbit for 18-inch doll."

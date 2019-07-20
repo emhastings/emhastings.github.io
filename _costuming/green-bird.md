@@ -1,6 +1,7 @@
 ---
 title: "Green Bird Bodice"
 author: Creative
+date: 2013-02-28
 author_profile: true
 layout: archive
 excerpt: "Bodice for Princess Barbarina from Carlo Gozzi's The Green Bird."

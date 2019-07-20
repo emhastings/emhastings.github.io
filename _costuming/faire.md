@@ -1,6 +1,7 @@
 ---
 title: "Faire: The First 7 Years"
 author: Creative
+date: 2017-06-17
 author_profile: true
 layout: archive
 excerpt: "My outfits for the first 7 years I attended Renaissance faires."

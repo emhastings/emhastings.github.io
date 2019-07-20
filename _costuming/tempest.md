@@ -1,6 +1,7 @@
 ---
 title: "The Tempest"
 author: Creative
+date: 2012-11-19
 author_profile: true
 layout: archive
 excerpt: "Designs for characters from William Shakespeare's The Tempest."

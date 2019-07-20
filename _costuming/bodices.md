@@ -3,6 +3,7 @@ title: "Renaissance Costume Pieces"
 author: Creative
 author_profile: true
 layout: archive
+date: 2012-07-21
 excerpt: "Two miscellaneous bodices and a skirt."
 header:
   teaser: http://emhastings.github.io/images/bodices/blue-front.JPG

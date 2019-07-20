@@ -1,6 +1,7 @@
 ---
 title: "Medieval Doll Outfit"
 author: Creative
+date: 2015-12-14
 author_profile: true
 layout: archive
 excerpt: "Medieval dress for 18-inch dolls."

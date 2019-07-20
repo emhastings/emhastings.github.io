@@ -1,5 +1,6 @@
 ---
 title: "In the Next Room Bodice"
+date: 2014-02-26
 author: Creative
 author_profile: true
 layout: archive
@@ -36,7 +37,7 @@ I also built a pair of [combinations](https://www.google.com/search?q=combinatio
 
 {% include flexgallery caption="Images 1-3 from the Knox Theatre website, linked below"%}
 
-## Documents and Links:
+a
 * [Production page](http://knoxtheatre.org/play/In_the_Next_Room_or_the_Vibrator_Play)
 
 

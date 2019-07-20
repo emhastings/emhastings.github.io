@@ -1,6 +1,7 @@
 ---
 title: "Independent Study Gown"
 author: Creative
+date: 2013-05-30
 author_profile: true
 layout: archive
 excerpt: "Elizabethan noblewoman's outfit made in 2013 independent study."

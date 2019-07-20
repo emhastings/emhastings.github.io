@@ -1,6 +1,7 @@
 ---
 title: "The Kentucky Cycle: Tall Tales"
 author: Creative
+date: 2012-10-31
 author_profile: true
 layout: archive
 excerpt: "Designs for characters from Robert Schenkkan's The Kentucky Cycle Part Two: Tall Tales."

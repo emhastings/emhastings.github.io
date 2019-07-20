@@ -1,6 +1,7 @@
 ---
 title: "Regency Doll Outfit"
 author: Creative
+date: 2016-08-03
 author_profile: true
 layout: archive
 excerpt: "Bib-front Regency dress for 18-inch dolls."
