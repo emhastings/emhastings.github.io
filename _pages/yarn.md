@@ -16,7 +16,7 @@ sort_by: date
 
 
 <div class="entries-{{ page.entries_layout }}">
-    ## Patterns
+    ## Patterns  
     This is some text about the patterns.
 
     {% for post in site.yarn reversed %}
@@ -29,7 +29,7 @@ sort_by: date
 
 
 <div class="entries-{{ page.entries_layout }}">
-    ## Selected Projects
+    ## Selected Projects  
     This is some text about the projects.
 
     {% for post in site.yarn reversed %}
