@@ -15,26 +15,27 @@ sort_by: date
 
 
 
-<div>
-    <h2>Patterns</h2>  
-    <p>This is some text about the patterns.</p>
 
-    {% for post in site.yarn reversed %}
-        {% if post.tags contains 'pattern' %}
-          {% include archive-single-costume.html sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}
-        {% endif %}
-    {% endfor %}
+<h2>Patterns</h2>  
+<p>This is some text about the patterns.</p>
+
+<div class="entries-{{ page.entries_layout }}">
+{% for post in site.yarn reversed %}
+    {% if post.tags contains 'pattern' %}
+      {% include archive-single-costume.html sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}
+    {% endif %}
+{% endfor %}
 </div>
 
 
+<h2>Selected Projects  </h2>
+<p>This is some text about the projects.<p>
 
-<div>
-    <h2>Selected Projects  </h2>
-    <p>This is some text about the projects.<p>
-
-    {% for post in site.yarn reversed %}
-        {% if post.tags contains 'project' %}
-          {% include archive-single-costume.html sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}
-        {% endif %}
-    {% endfor %}
+<div class="entries-{{ page.entries_layout }}">
+{% for post in site.yarn reversed %}
+    {% if post.tags contains 'project' %}
+      {% include archive-single-costume.html sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}
+    {% endif %}
+{% endfor %}
 </div>
+
