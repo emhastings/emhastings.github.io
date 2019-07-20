@@ -12,11 +12,11 @@ flexgallery:
     url: http://emhastings.github.io/images/green-bird/bodice.jpg
     image_path: http://emhastings.github.io/images/green-bird/bodice-th.jpg
     alt: "The bodice"
-    end_row: "true"
   - aspect: "1.5"
     url: http://emhastings.github.io/images/green-bird/bodice2.jpg
     image_path: http://emhastings.github.io/images/green-bird/bodice2-th.jpg
     alt: "The bodice onstage"  
+    end_row: "true"
   - aspect: "1.5"
     url: http://emhastings.github.io/images/green-bird/bodice3.jpg
     image_path: http://emhastings.github.io/images/green-bird/bodice3-th.jpg
