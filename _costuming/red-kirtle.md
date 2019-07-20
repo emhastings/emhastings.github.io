@@ -4,7 +4,7 @@ author: Creative
 date: 2016-05-25
 author_profile: true
 layout: archive
-excerpt: "Working-class outfit made in 2016 independent study."
+excerpt: "Working-class outfit made in independent study."
 header:
   teaser: http://emhastings.github.io/images/red/outside.JPG
 gallery:

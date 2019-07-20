@@ -7,10 +7,6 @@ Still under construction.
 TODO:
 * Creative
   * Costumes: 
-    * check for patterns
-    * Add dates, try to sort?
-    * Make teasers have links
-    * Fix sideways pictures
     * Try to find Pisa bodice and take better pics, make page
     * Take picture of Tempest moodboard, better plates
     * Better Tall Tales plates

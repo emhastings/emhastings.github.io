@@ -4,7 +4,7 @@ author: Creative
 date: 2013-05-30
 author_profile: true
 layout: archive
-excerpt: "Elizabethan noblewoman's outfit made in 2013 independent study."
+excerpt: "Elizabethan noblewoman's outfit made in independent study."
 header:
   teaser: http://emhastings.github.io/images/gown/sidebyside.png
 gallery:
