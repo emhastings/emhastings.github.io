@@ -33,7 +33,7 @@ flexgallery:
 
 ---
 
-Regency dress for 18-inch dolls, based on [Thimbles and Acorns pattern #1810-01](https://www.pixiefaire.com/collections/thimbles-and-acorns/products/bib-front-regency-dress-18-doll-clothes).
+Regency outfit for 18-inch dolls, based on [Thimbles and Acorns pattern #1810-01](https://www.pixiefaire.com/collections/thimbles-and-acorns/products/bib-front-regency-dress-18-doll-clothes).
 
 {% include flexgallery caption="" %}
 

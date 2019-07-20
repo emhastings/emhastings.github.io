@@ -7,13 +7,13 @@ Still under construction.
 TODO:
 * Creative
   * Costumes: 
-    * faire outfits (maybe armor on its own), other 2 bodices?, medieval doll, regency doll
+    * check for patterns
     * Add dates, try to sort?
+    * Make teasers have links
+    * Fix sideways pictures
     * Try to find Pisa bodice and take better pics, make page
     * Take picture of Tempest moodboard, better plates
     * Better Tall Tales plates
-    * Fix sideways pictures
-    * Make teasers have links
   * Yarn: 
     * divide into designs vs built (eg Eomer hat, avatar blanket, thread, etc
     * projects featured on pattern pages
