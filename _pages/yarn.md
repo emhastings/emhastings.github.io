@@ -16,8 +16,8 @@ sort_by: date
 
 
 <div class="entries-{{ page.entries_layout }}">
-    ## Patterns  
-    This is some text about the patterns.
+    <h2>Patterns</h2>  
+    <p>This is some text about the patterns.</p>
 
     {% for post in site.yarn reversed %}
         {% if post.tags contains 'pattern' %}
@@ -29,8 +29,8 @@ sort_by: date
 
 
 <div class="entries-{{ page.entries_layout }}">
-    ## Selected Projects  
-    This is some text about the projects.
+    <h2>Selected Projects  </h2>
+    <p>This is some text about the projects.<p>
 
     {% for post in site.yarn reversed %}
         {% if post.tags contains 'project' %}
