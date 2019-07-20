@@ -13,8 +13,7 @@ TODO:
   * Yarn: 
     * divide into designs vs built (eg Eomer hat, avatar blanket, thread, etc
     * projects featured on pattern pages
-* Press
-  * other knitting article with Bofur hat
+  * Other:
 * Blog
   * Remove default posts
   * Add post about website

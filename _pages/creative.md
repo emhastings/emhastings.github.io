@@ -16,7 +16,7 @@ feature_row:
   - image_path: https://emhastings.github.io/images/gauntlets.jpg
     alt: "yarn"
     title: "Knitting and Crochet"
-    excerpt: "My yarn designs."
+    excerpt: "My yarn designs and projects."
     url: "/yarn"
     btn_class: "btn--primary"
     btn_label: "Learn more"

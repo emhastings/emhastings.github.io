@@ -17,10 +17,13 @@ author_profile: true
   * [Class of 2016 Legacies \| Knox College](https://www.knox.edu/news/class-of-2016-legacies)
   
 ## Creative
+### Patterns Featured
   * [DIY: 25 Wearable Geek Projects You Can Knit or Crochet \| Geek & Sundry](https://geekandsundry.com/diy-25-wearable-geek-projects-you-can-knit-or-crochet/)
   * [Embrace Your Geekness with 12 Fun Patterns \| Lion Brand Notebook](http://www.lionbrand.com/blog/embrace-your-geekness/)
   * [19 Nerdy Knits You Need to Knit Right Now \| Buzzfeed](https://www.buzzfeed.com/allied5/19-nerdy-knits-you-need-to-knit-right-now-gx9f)
   * [For the Gamers Out There \| Over the Rainbow Yarn](http://overtherainbowyarn.com/for-the-gamers-out-there/)
   * [Gaming Knitting Patterns \| In the Loop Knitting](https://intheloopknitting.com/gaming-knitting-patterns/)
   * [Nerd Fashion - Nerdy Knitting Patterns \| explodedsoda](https://www.explodedsoda.com/2015/01/nerd-fashion-nerdy-knitting-patterns.html)
+### Projects Featured
+  * [Lord of the Rings Inspired Knitting Patterns \| In the Loop Knitting](https://intheloopknitting.com/lord-of-the-rings-knitting-patterns/)
   
