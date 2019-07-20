@@ -6,25 +6,25 @@ author_profile: true
 layout: archive
 excerpt: "Elizabethan noblewoman's outfit made in independent study."
 header:
-  teaser: http://emhastings.github.io/images/gown/sidebyside.png
+  teaser: https://emhastings.github.io/images/gown/sidebyside.png
 gallery:
-  - url: http://emhastings.github.io/images/gown/gown.jpg
-    image_path: http://emhastings.github.io/images/gown/gown-th.jpg
+  - url: https://emhastings.github.io/images/gown/gown.jpg
+    image_path: https://emhastings.github.io/images/gown/gown-th.jpg
     alt: "Emily wearing the gown (minus sleeves)"
-  - url: http://emhastings.github.io/images/gown/360.gif
-    image_path: http://emhastings.github.io/images/gown/360-th.gif
+  - url: https://emhastings.github.io/images/gown/360.gif
+    image_path: https://emhastings.github.io/images/gown/360-th.gif
     alt: "360-degree view of the gown"
-  - url: http://emhastings.github.io/images/gown/gown2.jpg
-    image_path: http://emhastings.github.io/images/gown/gown2-th.jpg
+  - url: https://emhastings.github.io/images/gown/gown2.jpg
+    image_path: https://emhastings.github.io/images/gown/gown2-th.jpg
     alt: "Emily wearing the gown (minus sleeves)"
-  - url: http://emhastings.github.io/images/gown/underpinnings.jpg
-    image_path: http://emhastings.github.io/images/gown/underpinnings-th.jpg
+  - url: https://emhastings.github.io/images/gown/underpinnings.jpg
+    image_path: https://emhastings.github.io/images/gown/underpinnings-th.jpg
     alt: "Underpinnings worn beneath the gown"
-  - url: http://emhastings.github.io/images/gown/catch.jpg
-    image_path: http://emhastings.github.io/images/gown/catch-th.jpg
+  - url: https://emhastings.github.io/images/gown/catch.jpg
+    image_path: https://emhastings.github.io/images/gown/catch-th.jpg
     alt: "Underpinnings worn beneath the gown"
-  - url: http://emhastings.github.io/images/gown/plate.png
-    image_path: http://emhastings.github.io/images/gown/plate-th.png
+  - url: https://emhastings.github.io/images/gown/plate.png
+    image_path: https://emhastings.github.io/images/gown/plate-th.png
     alt: "Fashion plate drawn before constructing the gown"
 ---
 

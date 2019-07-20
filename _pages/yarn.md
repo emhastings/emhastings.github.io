@@ -15,7 +15,7 @@ sort_by: date
 
 
 
-<div class="entries-{{ page.entries_layout }}">
+<div>
     <h2>Patterns</h2>  
     <p>This is some text about the patterns.</p>
 
@@ -28,7 +28,7 @@ sort_by: date
 
 
 
-<div class="entries-{{ page.entries_layout }}">
+<div>
     <h2>Selected Projects  </h2>
     <p>This is some text about the projects.<p>
 

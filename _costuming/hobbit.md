@@ -6,25 +6,25 @@ author_profile: true
 layout: archive
 excerpt: "Recreation of Bilbo Baggins' costume from The Hobbit for 18-inch doll."
 header:
-  teaser: http://emhastings.github.io/images/hobbit/teaser.JPG
+  teaser: https://emhastings.github.io/images/hobbit/teaser.JPG
 gallery:
-  - url: http://emhastings.github.io/images/hobbit/hobbit.JPG
-    image_path: http://emhastings.github.io/images/hobbit/hobbit-th.jpg
+  - url: https://emhastings.github.io/images/hobbit/hobbit.JPG
+    image_path: https://emhastings.github.io/images/hobbit/hobbit-th.jpg
     alt: "The whole outfit"  
-  - url: http://emhastings.github.io/images/hobbit/hobbit2.JPG
-    image_path: http://emhastings.github.io/images/hobbit/hobbit2-th.jpg
+  - url: https://emhastings.github.io/images/hobbit/hobbit2.JPG
+    image_path: https://emhastings.github.io/images/hobbit/hobbit2-th.jpg
     alt: "Vest front"  
-  - url: http://emhastings.github.io/images/hobbit/hobbit3.JPG
-    image_path: http://emhastings.github.io/images/hobbit/hobbit3-th.jpg
+  - url: https://emhastings.github.io/images/hobbit/hobbit3.JPG
+    image_path: https://emhastings.github.io/images/hobbit/hobbit3-th.jpg
     alt: "Vest back"
-  - url: http://emhastings.github.io/images/hobbit/hobbit4.JPG
-    image_path: http://emhastings.github.io/images/hobbit/hobbit4-th.jpg
+  - url: https://emhastings.github.io/images/hobbit/hobbit4.JPG
+    image_path: https://emhastings.github.io/images/hobbit/hobbit4-th.jpg
     alt: "Shirt front"
-  - url: http://emhastings.github.io/images/hobbit/hobbit5.JPG
-    image_path: http://emhastings.github.io/images/hobbit/hobbit5-th.jpg
+  - url: https://emhastings.github.io/images/hobbit/hobbit5.JPG
+    image_path: https://emhastings.github.io/images/hobbit/hobbit5-th.jpg
     alt: "Shirt back"
-  - url: http://emhastings.github.io/images/hobbit/wiki.jpg
-    image_path: http://emhastings.github.io/images/hobbit/wiki-th.jpg
+  - url: https://emhastings.github.io/images/hobbit/wiki.jpg
+    image_path: https://emhastings.github.io/images/hobbit/wiki-th.jpg
     alt: "Movie Bilbo"
 ---
 

@@ -6,25 +6,25 @@ author_profile: true
 layout: archive
 excerpt: "Working-class outfit made in independent study."
 header:
-  teaser: http://emhastings.github.io/images/red/outside.JPG
+  teaser: https://emhastings.github.io/images/red/outside.JPG
 gallery:
-  - url: http://emhastings.github.io/images/red/red.jpg
-    image_path: http://emhastings.github.io/images/red/red-th.jpg
+  - url: https://emhastings.github.io/images/red/red.jpg
+    image_path: https://emhastings.github.io/images/red/red-th.jpg
     alt: "Emily wearing the outfit"
-  - url: http://emhastings.github.io/images/red/red2.jpg
-    image_path: http://emhastings.github.io/images/red/red2-th.jpg
+  - url: https://emhastings.github.io/images/red/red2.jpg
+    image_path: https://emhastings.github.io/images/red/red2-th.jpg
     alt: "Emily wearing the outfit"
-  - url: http://emhastings.github.io/images/red/red3.jpg
-    image_path: http://emhastings.github.io/images/red/red3-th.jpg
+  - url: https://emhastings.github.io/images/red/red3.jpg
+    image_path: https://emhastings.github.io/images/red/red3-th.jpg
     alt: "Emily wearing the outfit"
-  - url: http://emhastings.github.io/images/red/pocket.jpg
-    image_path: http://emhastings.github.io/images/red/pocket-th.jpg
+  - url: https://emhastings.github.io/images/red/pocket.jpg
+    image_path: https://emhastings.github.io/images/red/pocket-th.jpg
     alt: "Reaching the pocket"
-  - url: http://emhastings.github.io/images/red/sock.jpg
-    image_path: http://emhastings.github.io/images/red/sock-th.jpg
+  - url: https://emhastings.github.io/images/red/sock.jpg
+    image_path: https://emhastings.github.io/images/red/sock-th.jpg
     alt: "The stockings"
-  - url: http://emhastings.github.io/images/red/plate.JPG
-    image_path: http://emhastings.github.io/images/red/plate-th.jpg
+  - url: https://emhastings.github.io/images/red/plate.JPG
+    image_path: https://emhastings.github.io/images/red/plate-th.jpg
     alt: "Fashion plate for the outfit"
 ---
 
