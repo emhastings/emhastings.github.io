@@ -6,17 +6,11 @@ author: Creative
 
 collection: yarn
 entries_layout: grid
-classes: wide
 sort_order: reverse
 sort_by: date
 ---
-## Coming soon!
 
-
-
-
-
-<h2>Patterns</h2>  
+<h2>Designs</h2>  
 <p>This is some text about the patterns.</p>
 
 <div class="entries-{{ page.entries_layout }}">
