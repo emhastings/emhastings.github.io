@@ -4,65 +4,116 @@ layout: archive
 permalink: /yarn/
 author: Creative
 
-flexgallery:
-  - aspect: "1.5"
-    url: http://emhastings.github.io/images/green-bird/bodice.jpg
-    image_path: http://emhastings.github.io/images/green-bird/bodice-th.jpg
-    alt: "The bodice"
-  - aspect: "1.5"
-    url: http://emhastings.github.io/images/green-bird/bodice2.jpg
-    image_path: http://emhastings.github.io/images/green-bird/bodice2-th.jpg
-    alt: "The bodice onstage"  
+patterns:
+  - aspect: "1.3333"
+    url: https://emhastings.github.io/images/yarn/gauntlet-knit.jpg
+    image_path: https://emhastings.github.io/images/yarn/gauntlet-knit-th.jpg
+    alt: "Knit gauntlets"
+  - aspect: "1.4403"
+    url: https://emhastings.github.io/images/yarn/bracelet.jpg
+    image_path: https://emhastings.github.io/images/yarn/bracelet.jpg
+    alt: "Goron bracelet"  
     end_row: "true"
-  - aspect: "1.5"
-    url: http://emhastings.github.io/images/green-bird/bodice3.jpg
-    image_path: http://emhastings.github.io/images/green-bird/bodice3-th.jpg
-    alt: "The bodice onstage"  
-  - aspect: "1.5"
-    url: http://emhastings.github.io/images/green-bird/bodice4.jpg
-    image_path: http://emhastings.github.io/images/green-bird/bodice4-th.jpg
-    alt: "The bodice onstage"
+  - aspect: "1.3333"
+    url: https://emhastings.github.io/images/yarn/gauntlet-crochet.jpg
+    image_path: https://emhastings.github.io/images/yarn/gauntlet-crochet-th.jpg
+    alt: "Crochet gauntlets"  
+  - aspect: "1.3333"
+    url: https://emhastings.github.io/images/yarn/maxx.jpg
+    image_path: https://emhastings.github.io/images/yarn/maxx-th.jpg
+    alt: "Maxmillian mitts"
     
-flexgallery2:
-  - aspect: "1.5"
-    url: http://emhastings.github.io/images/green-bird/bodice.jpg
-    image_path: http://emhastings.github.io/images/green-bird/bodice-th.jpg
-    alt: "The bodice"
-  - aspect: "1.5"
-    url: http://emhastings.github.io/images/green-bird/bodice2.jpg
-    image_path: http://emhastings.github.io/images/green-bird/bodice2-th.jpg
-    alt: "The bodice onstage"  
+comingsoon:
+  - aspect: "1.3333"
+    url: https://emhastings.github.io/images/yarn/card.jpg
+    image_path: https://emhastings.github.io/images/yarn/card-th.jpg
+    alt: "Sweater cards"
+  - aspect: "1.3333"
+    url: https://emhastings.github.io/images/yarn/hey-listen.jpg
+    image_path: https://emhastings.github.io/images/yarn/hey-listen-th.jpg
+    alt: "Navi doily"  
+  - aspect: "1.3333"
+    url: https://emhastings.github.io/images/yarn/tahoe-mitt.jpg
+    image_path: https://emhastings.github.io/images/yarn/tahoe-mitt-th.jpg
+    alt: "Fingerless mitt" 
+    end_row: "true"    
+  - aspect: "0.7505"
+    url: https://emhastings.github.io/images/yarn/hogwarts.jpg
+    image_path: https://emhastings.github.io/images/yarn/hogwarts-th.jpg
+    alt: "Hogwarts potholders" 
+  - aspect: "0.7505"
+    url: https://emhastings.github.io/images/yarn/mitt.jpg
+    image_path: https://emhastings.github.io/images/yarn/mitt-th.jpg
+    alt: "Fingerless mitt" 
+  - aspect: "0.7505"
+    url: https://emhastings.github.io/images/yarn/orc.jpg
+    image_path: https://emhastings.github.io/images/yarn/orc-th.jpg
+    alt: "Amigurumi orc"    
+  - aspect: "1.3333"
+    url: https://emhastings.github.io/images/yarn/silver.jpg
+    image_path: https://emhastings.github.io/images/yarn/silver-th.jpg
+    alt: "Silver gauntlets" 
     end_row: "true"
-  - aspect: "1.5"
-    url: http://emhastings.github.io/images/green-bird/bodice3.jpg
-    image_path: http://emhastings.github.io/images/green-bird/bodice3-th.jpg
-    alt: "The bodice onstage"  
-  - aspect: "1.5"
-    url: http://emhastings.github.io/images/green-bird/bodice4.jpg
-    image_path: http://emhastings.github.io/images/green-bird/bodice4-th.jpg
-    alt: "The bodice onstage"
+    
+favorites:
+  - aspect: "0.7505"
+    url: https://emhastings.github.io/images/yarn/hat1.jpg
+    image_path: https://emhastings.github.io/images/yarn/hat1-th.jpg
+    alt: "Eomer shield tam"
+  - aspect: "0.7505"
+    url: https://emhastings.github.io/images/yarn/hat2.jpg
+    image_path: https://emhastings.github.io/images/yarn/hat2-th.jpg
+    alt: "Eomer shield tam"
+  - aspect: "0.7505"
+    url: https://emhastings.github.io/images/yarn/doily.jpg
+    image_path: https://emhastings.github.io/images/yarn/doily-th.jpg
+    alt: "Flower doily"    
+    end_row: "true"      
+  - aspect: "1.3333"
+    url: https://emhastings.github.io/images/yarn/lair.jpg
+    image_path: https://emhastings.github.io/images/yarn/lair-th.jpg
+    alt: "His Golden Lair"  
+  - aspect: "1.3333"
+    url: https://emhastings.github.io/images/yarn/lair2.jpg
+    image_path: https://emhastings.github.io/images/yarn/lair2-th.jpg
+    alt: "His Golden Lair"  
+  - aspect: "1.3333"
+    url: https://emhastings.github.io/images/yarn/avatar.jpg
+    image_path: https://emhastings.github.io/images/yarn/avatar-th.jpg
+    alt: "Avatar blanket" 
+    end_row: "true"   
 
 ---
 
 ## Designs  
-This is some text about the patterns.  
+Check out my published patterns on [Ravelry](https://www.ravelry.com/designers/emily-hastings).
 
-{% for post in site.yarn reversed %}
-    {% if post.tags contains 'pattern' %}
-      {% include archive-single.html %}
-    {% endif %}
-{% endfor %}
+{% include flexgallery id="patterns" caption="My pubished patterns."%}
 
-{% include flexgallery caption="Images 2-4 from the Knox Theatre website, linked below"%}
+* [Link's Gauntlets (knit)](https://www.ravelry.com/patterns/library/links-gauntlets-knitted) <a href="http://www.ravelry.com/badges/redirect?p=links-gauntlets-knitted"><img src="https://api.ravelry.com/badges/projects?p=links-gauntlets-knitted&amp;t=.gif" style="border: none;" /></a>
+* [Goron's Bracelet](https://www.ravelry.com/patterns/library/gorons-bracelet) <a href="http://www.ravelry.com/badges/redirect?p=gorons-bracelet"><img src="https://api.ravelry.com/badges/projects?p=gorons-bracelet&amp;t=.gif" style="border: none;" /></a>
+* [Link's Gauntlets (crochet)](https://www.ravelry.com/patterns/library/links-gauntlets-crochet) <a href="http://www.ravelry.com/badges/redirect?p=links-gauntlets-crochet"><img src="https://api.ravelry.com/badges/projects?p=links-gauntlets-crochet&amp;t=.gif" style="border: none;" /></a>
+* [Maxmillian Cabled Fingerless Mitts](https://www.ravelry.com/patterns/library/maxmillian-cabled-fingerless-mitts) <a href="http://www.ravelry.com/badges/redirect?p=maxmillian-cabled-fingerless-mitts"><img src="https://api.ravelry.com/badges/projects?p=maxmillian-cabled-fingerless-mitts&amp;t=.gif" style="border: none;" /></a>
 
+I am also working on writing patterns for some of my other designs, to be published in the future. Stay tuned!
+
+{% include flexgallery id="comingsoon" caption="Coming soon!"%}
+
+---
 
 ## Selected Projects  
-This is some text about the projects.
+I have over 300 projects [on Ravelry](https://www.ravelry.com/projects/Emily-H)! These are a few of my favorites.
 
-{% for post in site.yarn reversed %}
-    {% if post.tags contains 'project' %}
-      {% include archive-single.html%}
-    {% endif %}
-{% endfor %}
+{% include flexgallery id="favorites" caption=""%}
 
-{% include flexgallery id="flexgallery2" caption="Images 2-4 from the Knox Theatre website, linked below"%}
+* Eomer Shield Tam by KYMaggie: [project](https://www.ravelry.com/projects/Emily-H/eomer-shield-tam), [pattern](https://www.ravelry.com/patterns/library/eomer-shield-tam)
+* Flower Bouquet Doily by American Thread Company: [project](https://www.ravelry.com/projects/Emily-H/flower-bouquet-doily), [pattern](https://www.ravelry.com/patterns/library/flower-bouquet-doily-2)
+* His Golden Lair by Kourtney Robinson: [project](https://www.ravelry.com/projects/Emily-H/his-golden-lair), [pattern](https://www.ravelry.com/patterns/library/his-golden-lair)
+* Avatar: The Four Elements by Kimby77: [project](https://www.ravelry.com/projects/Emily-H/avatar-the-four-elements), [pattern](https://www.ravelry.com/patterns/library/avatar-the-four-elements)
+
+My work is featured on the official Ravelry pages for the following patterns, in addition to my own:
+* [Festive Fireside Ornaments by 10 Hours or Less](https://www.ravelry.com/patterns/library/festive-fireside)
+* [Quencher by Vashti Braha](https://www.ravelry.com/patterns/library/quencher)
+* [Stash Buster Coffee Cup Sleeve by Rhondda Mol](https://www.ravelry.com/patterns/library/stash-buster-coffee-cup-sleeve)
+* [Seasons Change Convertible Slouch by Sonya Blackstone](https://www.ravelry.com/patterns/library/seasons-change-convertible-slouch)
+* [Felted Holiday Snowflake #L0115AD by Lion Brand Yarn](https://www.ravelry.com/patterns/library/felted-holiday-snowflake-l0115ad)
