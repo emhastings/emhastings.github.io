@@ -10,3 +10,4 @@ sort_order: reverse
 sort_by: date
 ---
 
+A selection of designs and projects from my time in Knox's costume shop and beyond.
