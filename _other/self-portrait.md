@@ -1,5 +1,5 @@
 ---
-title: "Profile Self-Portrait"
+title: "Self-Portrait"
 author: Creative
 date: 2019-04-04
 author_profile: true
