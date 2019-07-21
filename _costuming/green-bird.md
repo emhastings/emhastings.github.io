@@ -28,7 +28,7 @@ flexgallery:
 
 ---
 
-I built this bodice in 2013 for Princess Barbarina in Knox's Repertory Term production of Carlo Gozzi's _The Green Bird_. It was designed by [Franzesca Mayer](http://www.franzesca.com/) for the production.  This was my first project as an assistant in the Costume Shop.
+I built this bodice in 2013 for Princess Barbarina in Knox's Repertory Term production of Carlo Gozzi's _The Green Bird_. It was designed by [Franzesca Mayer](http://www.franzesca.com/) for the production and was adapted from Simplicity pattern 4092.  This was my first project as an assistant in the Costume Shop.
 
 {% include flexgallery caption="Images 2-4 from the Knox Theatre website, linked below"%}
 

@@ -16,5 +16,5 @@ TODO:
   * Add post about website
 * Update footer links-- Google Scholar, others?
 * SEO optimizing-- descriptions/excerpts?
-* Update LinkedIn, Handshake, ACM Career Center
-* Add link on FB, Pinterest, Ravelry, Etsy, Twitter?
+* Update LinkedIn, Handshake, ACM Career Center, 
+* Add link on FB, Pinterest, Ravelry, Etsy, Twitter?, ResearchGate, Google Scholar

@@ -40,7 +40,7 @@ gallery:
 
 ---
 
-Some miscellaneous costume pieces for Renaissance faire outfits.
+Some miscellaneous costume pieces for Renaissance faire outfits, made from McCall's patterns 4090 and 4107.
 
 {% include gallery caption="" %}
 

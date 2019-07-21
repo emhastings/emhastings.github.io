@@ -51,7 +51,7 @@ flexgallery:
     end_row: "true"
 ---
 
-Two styles of Renaissance faire outfits (bodice/skirt and one-piece dress) for 18-inch dolls. I have sold these word-of-mouth, on Etsy, and at a craft show.
+Two styles of Renaissance faire outfits (bodice/skirt and one-piece dress) for 18-inch dolls. I have sold these word-of-mouth, on Etsy, and at a craft show. Chemise and 1-piece dress adapted from [Carpatina pattern PAT-001](https://www.carpatina-dolls.com/products/pat001).
 
 {% include flexgallery caption="" %}
 
