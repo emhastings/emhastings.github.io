@@ -104,7 +104,7 @@ I am also working on writing patterns for some of my other designs, to be publis
 ## Selected Projects  
 I have over 300 projects [on Ravelry](https://www.ravelry.com/projects/Emily-H)! These are a few of my favorites.
 
-{% include flexgallery id="favorites" caption=""%}
+{% include flexgallery id="favorites" caption="Some projects."%}
 
 * Eomer Shield Tam by KYMaggie: [project](https://www.ravelry.com/projects/Emily-H/eomer-shield-tam), [pattern](https://www.ravelry.com/patterns/library/eomer-shield-tam)
 * Flower Bouquet Doily by American Thread Company: [project](https://www.ravelry.com/projects/Emily-H/flower-bouquet-doily), [pattern](https://www.ravelry.com/patterns/library/flower-bouquet-doily-2)
@@ -114,6 +114,6 @@ I have over 300 projects [on Ravelry](https://www.ravelry.com/projects/Emily-H)!
 My work is featured on the official Ravelry pages for the following patterns, in addition to my own:
 * [Festive Fireside Ornaments by 10 Hours or Less](https://www.ravelry.com/patterns/library/festive-fireside)
 * [Quencher by Vashti Braha](https://www.ravelry.com/patterns/library/quencher)
-* [Stash Buster Coffee Cup Sleeve by Rhondda Mol](https://www.ravelry.com/patterns/library/stash-buster-coffee-cup-sleeve)
+* [Stash Buster Coffee Cup Sleeve by Rhondda Mol (Oombawka Design)](https://www.ravelry.com/patterns/library/stash-buster-coffee-cup-sleeve)
 * [Seasons Change Convertible Slouch by Sonya Blackstone](https://www.ravelry.com/patterns/library/seasons-change-convertible-slouch)
 * [Felted Holiday Snowflake #L0115AD by Lion Brand Yarn](https://www.ravelry.com/patterns/library/felted-holiday-snowflake-l0115ad)

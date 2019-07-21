@@ -10,15 +10,11 @@ TODO:
     * Try to find Pisa bodice and take better pics, make page
     * Take picture of Tempest moodboard, better plates
     * Better Tall Tales plates
-  * Yarn: 
-    * divide into designs vs built (eg Eomer hat, avatar blanket, thread, etc
-    * projects featured on pattern pages
   * Other:
 * Blog
   * Remove default posts
   * Add post about website
 * Update footer links-- Google Scholar, others?
 * SEO optimizing-- descriptions/excerpts?
-* Remove unecessary files in all folders
 * Update LinkedIn, Handshake, ACM Career Center
 * Add link on FB, Pinterest, Ravelry, Etsy, Twitter?
