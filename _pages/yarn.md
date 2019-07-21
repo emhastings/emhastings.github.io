@@ -65,4 +65,4 @@ This is some text about the projects.
     {% endif %}
 {% endfor %}
 
-{% include flexgallery2 caption="Images 2-4 from the Knox Theatre website, linked below"%}
+{% include flexgallery id="flexgallery2" caption="Images 2-4 from the Knox Theatre website, linked below"%}
