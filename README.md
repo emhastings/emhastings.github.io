@@ -10,7 +10,6 @@ TODO:
     * Try to find Pisa bodice and take better pics, make page
     * Take picture of Tempest moodboard, better plates
     * Better Tall Tales plates
-  * Other:
 * Blog
   * Remove default posts
   * Add post about website
