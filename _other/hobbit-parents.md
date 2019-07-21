@@ -1,22 +1,22 @@
 ---
 title: "Hobbit Parents"
 author: Creative
-date: 2017-06-24
+date: 2018-10-30
 author_profile: true
 layout: archive
 excerpt: "Portraits of my parents in the style of Bungo and Belladonna Baggins."
 header:
-  teaser: https://emhastings.github.io/images/other/both
+  teaser: https://emhastings.github.io/images/other/both.jpg
 flexgallery:
   - aspect: "1.3333"
     url: https://emhastings.github.io/images/other/both.jpg
     image_path: https://emhastings.github.io/images/other/both-th.jpg
     alt: "Portraits"    
-  - aspect: "0.5764"
+  - aspect: "0.7143"
     url: https://emhastings.github.io/images/other/mama.jpg
     image_path: https://emhastings.github.io/images/other/mama-th.jpg
     alt: "Portraits"  
-  - aspect: "0.7505"
+  - aspect: "0.7143"
     url: https://emhastings.github.io/images/other/dad.jpg
     image_path: https://emhastings.github.io/images/other/dad-th.jpg
     alt: "Portraits"     
