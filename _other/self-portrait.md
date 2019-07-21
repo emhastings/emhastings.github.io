@@ -9,4 +9,4 @@ header:
   teaser: https://emhastings.github.io/images/other/self.jpg
 ---
 
-![[Self-Portrait](https://emhastings.github.io/images/other/self-th.jpg)](https://emhastings.github.io/images/other/self.jpg)
+[![Self-Portrait](https://emhastings.github.io/images/other/self-th.jpg)](https://emhastings.github.io/images/other/self.jpg)
