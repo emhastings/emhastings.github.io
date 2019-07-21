@@ -9,4 +9,6 @@ header:
   teaser: https://emhastings.github.io/images/other/self.jpg
 ---
 
+Self-portrait I painted to use for profile pictures.
+
 [![Self-Portrait](https://emhastings.github.io/images/other/self-th.jpg)](https://emhastings.github.io/images/other/self.jpg)

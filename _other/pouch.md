@@ -1,13 +1,15 @@
 ---
 title: "Belt Pouch"
 author: Creative
-date: 2019-04-04
+date: 2016-03-08
 author_profile: true
 layout: archive
 excerpt: "Belt pouch made from upcycled wool sweater."
 header:
   teaser: https://emhastings.github.io/images/other/pouch.jpg
 ---
+
+Belt pouch I sold on Etsy made from an upcycled wool sweater.
 
 [![Pouch](https://emhastings.github.io/images/other/pouch-th.jpg)](https://emhastings.github.io/images/other/pouch.jpg)
 
