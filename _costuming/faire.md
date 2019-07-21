@@ -123,7 +123,7 @@ Olde English Faire \| Hannah City, IL \| June 24, 2017
 Handmade pieces:
 * [Garland](https://emhastings.github.io/costuming/armor/)
 * [Shirt](https://emhastings.github.io/costuming/armor/)
-* [Breastplate](https://emhastings.github.io/costuming/armor/)
+* [Cuirass](https://emhastings.github.io/costuming/armor/)
 * [Pauldrons](https://emhastings.github.io/costuming/armor/)
 * ["Warden's Oath" necklace](https://emhastings.github.io/costuming/armor/)
 * [Tassets/armored skirt](https://emhastings.github.io/costuming/armor/)
