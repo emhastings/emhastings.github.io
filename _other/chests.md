@@ -20,7 +20,7 @@ flexgallery:
 
 ---
 
-Wooden back and chest painted to look like items from The Legend of Zelda: Ocarina of Tiem.
+Wooden bank and chest painted to look like items from The Legend of Zelda: Ocarina of Time.
 
 {% include flexgallery caption="" %}
 

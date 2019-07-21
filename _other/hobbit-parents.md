@@ -28,6 +28,6 @@ Portraits I painted of my parents to look like those of Bungo and Belladonna Bag
 
 {% include flexgallery caption="" %}
 
-<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/78808534@N00/9211398188" title="Bungo Baggins - Belladonna Took"><img src="https://live.staticflickr.com/2833/9211398188_83a5e4566e_b.jpg" width="800" height="533" alt="Bungo Baggins - Belladonna Took"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/78808534@N00/9211398188" title="Bungo Baggins - Belladonna Took"><img src="https://live.staticflickr.com/2833/9211398188_83a5e4566e_z.jpg" width="640" height="426" alt="Bungo Baggins - Belladonna Took"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
