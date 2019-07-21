@@ -95,6 +95,8 @@ Check out my published patterns on [Ravelry](https://www.ravelry.com/designers/e
 * [Link's Gauntlets (crochet)](https://www.ravelry.com/patterns/library/links-gauntlets-crochet) <a href="http://www.ravelry.com/badges/redirect?p=links-gauntlets-crochet"><img src="https://api.ravelry.com/badges/projects?p=links-gauntlets-crochet&amp;t=.gif" style="border: none;" /></a>
 * [Maxmillian Cabled Fingerless Mitts](https://www.ravelry.com/patterns/library/maxmillian-cabled-fingerless-mitts) <a href="http://www.ravelry.com/badges/redirect?p=maxmillian-cabled-fingerless-mitts"><img src="https://api.ravelry.com/badges/projects?p=maxmillian-cabled-fingerless-mitts&amp;t=.gif" style="border: none;" /></a>
 
+<br>
+
 I am also working on writing patterns for some of my other designs, to be published in the future. Stay tuned!
 
 {% include flexgallery id="comingsoon" caption="Coming soon!"%}
@@ -110,6 +112,8 @@ I have over 300 projects [on Ravelry](https://www.ravelry.com/projects/Emily-H)!
 * Flower Bouquet Doily by American Thread Company: [project](https://www.ravelry.com/projects/Emily-H/flower-bouquet-doily), [pattern](https://www.ravelry.com/patterns/library/flower-bouquet-doily-2)
 * His Golden Lair by Kourtney Robinson: [project](https://www.ravelry.com/projects/Emily-H/his-golden-lair), [pattern](https://www.ravelry.com/patterns/library/his-golden-lair)
 * Avatar: The Four Elements by Kimby77: [project](https://www.ravelry.com/projects/Emily-H/avatar-the-four-elements), [pattern](https://www.ravelry.com/patterns/library/avatar-the-four-elements)
+
+<br>
 
 My work is featured on the official Ravelry pages for the following patterns, in addition to my own:
 * [Festive Fireside Ornaments by 10 Hours or Less](https://www.ravelry.com/patterns/library/festive-fireside)
