@@ -6,35 +6,25 @@ author_profile: true
 layout: archive
 excerpt: "Portraits of my parents in the style of Bungo and Belladonna Baggins."
 header:
-  teaser: https://emhastings.github.io/images/armor/horse.JPG
+  teaser: https://emhastings.github.io/images/other/both
 flexgallery:
-  - aspect: "0.6279"
-    url: https://emhastings.github.io/images/armor/cropped-horse.jpg
-    image_path: https://emhastings.github.io/images/armor/cropped-horse-th.jpg
-    alt: "Armor"  
-  - aspect: "0.5764"
-    url: https://emhastings.github.io/images/armor/cropped-standing.jpg
-    image_path: https://emhastings.github.io/images/armor/cropped-standing-th.jpg
-    alt: "Armor"  
-  - aspect: "0.7505"
-    url: https://emhastings.github.io/images/armor/bow.JPG
-    image_path: https://emhastings.github.io/images/armor/bow-th.jpg
-    alt: "Armor"     
-    end_row: "true"
-    
-  - aspect: "0.7505"
-    url: https://emhastings.github.io/images/armor/horse2.JPG
-    image_path: https://emhastings.github.io/images/armor/horse2-th.jpg
-    alt: "Armor"  
   - aspect: "1.3333"
-    url: https://emhastings.github.io/images/armor/horse.JPG
-    image_path: https://emhastings.github.io/images/armor/horse-th.jpg
-    alt: "Armor"  
+    url: https://emhastings.github.io/images/other/both.jpg
+    image_path: https://emhastings.github.io/images/other/both-th.jpg
+    alt: "Portraits"    
+  - aspect: "0.5764"
+    url: https://emhastings.github.io/images/other/mama.jpg
+    image_path: https://emhastings.github.io/images/other/mama-th.jpg
+    alt: "Portraits"  
+  - aspect: "0.7505"
+    url: https://emhastings.github.io/images/other/dad.jpg
+    image_path: https://emhastings.github.io/images/other/dad-th.jpg
+    alt: "Portraits"     
     end_row: "true"
 
 ---
 
-My first armor, made for a Renaissance faire outfit representing my Grey Warden from Dragon Age: Origins.
+Portraits I painted of my parents to look like those of Bungo and Belladonna Baggins hanging above the fireplace of Bag End in the Hobbit and Lord of the Rings movies (see image below by Criatura del Bosque on Flickr).
 
 {% include flexgallery caption="" %}
 
