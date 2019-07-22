@@ -51,7 +51,7 @@ atom_feed:
 logo                     : "images/logo_cropped2.png"
   
 # SEO Related
-google_site_verification :  MqWNuFLEffXbn66vfOLupu00GiN-pSYLymh6iDFo2Lw
+google_site_verification :  Az_sQxg0wbwg2U154lsty5wZZUY_41yOv-GYjcw5G0s
 bing_site_verification   :  28C3FB11948C98E2078FA99AD4F11B0B
 alexa_site_verification  :
 yandex_site_verification :
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Emily M. Hastings"
-  avatar           : "profile_square.jpg"
+  avatar           : "profile_square2.jpg"
   bio              : "4th year Ph.D. student in Computer Science at UIUC."
   location         : "Urbana, Illinois"
   employer         :
