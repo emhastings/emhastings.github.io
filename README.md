@@ -10,9 +10,6 @@ TODO:
     * Try to find Pisa bodice and take better pics, make page
     * Take picture of Tempest moodboard, better plates
     * Better Tall Tales plates
-* Blog
-  * Remove default posts
-  * Add post about website
 * Update footer links-- Google Scholar, others?
 * SEO optimizing-- descriptions/excerpts?
 * Update LinkedIn, Handshake, ACM Career Center, 

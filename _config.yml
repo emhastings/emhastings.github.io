@@ -10,11 +10,11 @@ locale                   : "en-US"
 title                    : "Emily M. Hastings"
 title_separator          : "-"
 name                     : &name "Emily M. Hastings"
-description              : &description "Ph.D. Student at UIUC"
+description              : &description "Emily M. Hastings: Ph.D. Student in Computer Science (Human-Computer Interaction) at the University of Illinois at Urbana-Champaign. Owner of Etsy shop Realms of Legend: Handmade fantasy and historical wares. Designer of costumes and knitting and crochet patterns."
 url                      : https://emhastings.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "emhastings.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "Icon.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -48,11 +48,11 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-logo                     : "images/logo_cropped.png"
+logo                     : "images/logo_cropped2.png"
   
 # SEO Related
 google_site_verification :  MqWNuFLEffXbn66vfOLupu00GiN-pSYLymh6iDFo2Lw
-bing_site_verification   :
+bing_site_verification   :  28C3FB11948C98E2078FA99AD4F11B0B
 alexa_site_verification  :
 yandex_site_verification :
 
@@ -63,7 +63,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  "/images/Icon.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
