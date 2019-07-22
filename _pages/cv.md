@@ -103,9 +103,11 @@ Skills
 * Technical/Academic
   * Microsoft Office, Google App Suite, Windows, Github
   * Programming languages (high proficiency): Java 
-  * Programming languages (some experience): Python, C, SQL, HTML/CSS, Javascript/JQuery, PHP, Android development
+  * Programming languages (some experience): Python, C/C#, SQL, HTML/CSS, Javascript/JQuery, PHP
+  * Some experience with Android app development, game development in Unity
   * Knowledge of research methodologies
   * Knowledge of statistical analysis techniques, R
+  * Knowledge of LaTeX, Markdown
 * Creative
   * Sewing, knitting, crochet, embroidery
   * Costume design
