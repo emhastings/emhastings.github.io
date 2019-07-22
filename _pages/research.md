@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+excerpt: "My overarching research interest lies in using technology to create educational tools, particularly for CS or broader STEM education. Currently, my dissertation research focuses on the use of algorithmic team formation tools in courses implementing team-based approaches to learning. I am also working on a project for my fellowship with NIST on quantifying human skill level from historical data, which is useful both in the context of team formation and in other disciplines such as manufacturing maintenance. I have also previously conducted research outside of CS for my undergraduate minor in Renaissance and Medieval Studies, and I remain interested in similar work and in projects combining CS with other academic fields or creative endeavors (e.g., digital humanities, e-textiles, etc.)."
 ---
 
 My overarching research interest lies in using technology to create educational tools, particularly for CS or broader STEM education. Currently, my dissertation research focuses on the use of algorithmic team formation tools in courses implementing team-based approaches to learning. I am also working on a project for my fellowship with NIST on quantifying human skill level from historical data, which is useful both in the context of team formation and in other disciplines such as manufacturing maintenance.

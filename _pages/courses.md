@@ -3,6 +3,7 @@ layout: archive
 title: "Courses Taken"
 permalink: /courses-taken/
 author_profile: true
+excerpt: "List of courses taken by Emily at Knox College and UIUC."
 ---
 
 

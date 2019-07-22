@@ -5,6 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+excerpt: "Emily M. Hastings Curriculum Vitae. Includes download links for CV and resume."
 ---
 
 {% include base_path %}

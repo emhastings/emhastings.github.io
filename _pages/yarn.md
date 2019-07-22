@@ -3,6 +3,7 @@ title: Knitting and Crochet
 layout: archive
 permalink: /yarn/
 author: Creative
+excerpt: "Information about Emily's knitting and crochet designs and projects."
 
 patterns:
   - aspect: "1.3333"

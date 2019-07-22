@@ -3,6 +3,7 @@ layout: archive
 title: "Press"
 permalink: /press/
 author_profile: true
+excerpt: "Places Emily and her work have been featured around the web."
 ---
 
 ## Academic

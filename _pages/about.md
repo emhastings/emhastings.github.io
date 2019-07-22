@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Emily M. Hastings: Ph.D. Student in Computer Science (Human-Computer Interaction) at the University of Illinois at Urbana-Champaign. Owner of Etsy shop Realms of Legend: Handmade fantasy and historical wares. Designer of costumes and knitting and crochet patterns."
 author_profile: true
 redirect_from: 
   - /about/
