@@ -61,7 +61,7 @@ Handmade pieces:
 ---
 
 ## 2014 ##
-Olde English Faire \| Hannah City, IL \| June 21, 2014
+Olde English Faire \| Hanna City, IL \| June 21, 2014
 
 ![2014](https://emhastings.github.io/images/faire/2014.jpg)
 
@@ -73,7 +73,7 @@ Handmade pieces:
 ---
 
 ## 2015 ##
-Olde English Faire \| Hannah City, IL \| June 27, 2015
+Olde English Faire \| Hanna City, IL \| June 27, 2015
 
 ![2015](https://emhastings.github.io/images/faire/2015.JPG)
 
@@ -85,7 +85,7 @@ Handmade pieces:
 ---
 
 ## 2016 ##
-Olde English Faire \| Hannah City, IL \| June 26, 2016
+Olde English Faire \| Hanna City, IL \| June 26, 2016
 
 ![2016 English](https://emhastings.github.io/images/faire/2016-1.JPG)
 
@@ -116,7 +116,7 @@ Handmade pieces:
 ---
 
 ## 2017 ##
-Olde English Faire \| Hannah City, IL \| June 24, 2017
+Olde English Faire \| Hanna City, IL \| June 24, 2017
 
 ![2017](https://emhastings.github.io/images/faire/2017.JPG)
 
