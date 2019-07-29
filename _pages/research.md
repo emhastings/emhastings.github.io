@@ -18,9 +18,11 @@ I have also previously conducted research outside of CS for my undergraduate min
 _Fall 2016 – Present_  
 _Advisors: [Brian Bailey](http://orchid.cs.illinois.edu/people/bailey/index.html), [Karrie Karahalios](http://social.cs.uiuc.edu/people/karriekarahalios.html), [Darko Marinov](http://mir.cs.illinois.edu/marinov/)_  
 
-Instructors are increasingly adopting team-based learning in their courses in a response to demands from industry. One of the first decisions instructors encounter when adopting this approach is how exactly the teams should be formed. A popular approach supported by the literature is a criteria-based one, where students are grouped into teams according to criteria such as demographics, skills, and working styles. As course enrollments grow, instructors are increasingly turning to algorithmic tools like [CATME](info.catme.org) to implement this team formation approach in their courses. However, not much is known about how to most effectively use these tools to support student learning and promote good teamwork experiences.  
+Instructors are increasingly adopting team-based learning in their courses in a response to demands from industry. One of the first decisions instructors encounter when adopting this approach is how exactly the teams should be formed. A popular approach supported by the literature is a criteria-based one, where students are grouped into teams according to criteria such as demographics, skills, and working styles. As course enrollments grow, instructors are increasingly turning to algorithmic tools like [CATME](https://info.catme.org) to implement this team formation approach in their courses. However, not much is known about how to most effectively use these tools to support student learning and promote good teamwork experiences.  
 
 This line of work examines stakeholder perceptions of algorithmic team formation tools, identifies strengths and weaknesses of current tools, and aims to create a more learner-centered approach to algorithmic team formation, in which students have more control over a previously-inaccessible process.  
+
+See the project on ResearchGate [here](https://www.researchgate.net/project/Learner-Centered-Algorithmic-Team-Formation).
 
 _Associated Presentations:_
   <ul>{% for post in site.talks reversed %}
