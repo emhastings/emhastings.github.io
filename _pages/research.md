@@ -75,7 +75,7 @@ _Advisor: [David Bunde](http://faculty.knox.edu/dbunde/)_
 
 This project was part of an [NSF-funded collaboration](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1044299) to develop materials to teach parallel programming at undergraduate institutions, especially compelling examples to increase student interest.  
 
-My contribution to the project was an adventure game example called "Through the Mines," in which players had to navigate a level full of enemies and obstacles as quickly as possible.The goal of this example was to demonstrate that in this context, since the game had to run slow enough for humans to play, the increased computing power gained from parallelization was better used to increase the difficulty of the game by making enemies smarter.  
+My contribution to the project was an adventure game example called "Through the Mines," in which players had to navigate a level full of enemies and obstacles as quickly as possible. The goal of this example was to demonstrate that in this context, since the game had to run slow enough for humans to play, the increased computing power gained from parallelization was better used to increase the difficulty of the game by making enemies smarter.  
 
 My presentation of this work at Knox's Summer Science Seminar Series won the Best Student Seminar Award for the 2014 season.
 
