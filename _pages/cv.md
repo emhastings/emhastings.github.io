@@ -116,7 +116,7 @@ Skills
 * General
   * Writing and presenting reports
   * English (native language)
-  * Elementary proficiency in French and Latin
+  * Elementary proficiency in French and Latin, can read basic Spanish
 
 Service and Leadership
 ======
@@ -139,7 +139,7 @@ Memberships
 * Student member of the [Association for Computing Machinery (ACM)](https://www.acm.org/)
 * Student member of [ACM Special Interest Group on Human-Computer Interaction](https://sigchi.org/)
 * Member of [Phi Beta Kappa Honor Society](https://www.pbk.org/)
-* Member of UIUC Graduate Society of Women Engineers (GradSWE)
+* Member of [UIUC Graduate Society of Women Engineers (GradSWE)](https://www.societyofwomenengineers.illinois.edu/about-gradswe)
 
 Conferences Attended
 ======
