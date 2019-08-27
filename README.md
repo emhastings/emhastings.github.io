@@ -8,4 +8,7 @@ TODO:
     * Try to find Pisa bodice and take better pics, make page
     * Take picture of Tempest moodboard, better plates
     * Better Tall Tales plates
+* CV
+  * Add NIST publication
+  * Update CV doc with accessibility course
 	

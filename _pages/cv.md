@@ -24,6 +24,7 @@ Education
   * University of Illinois, Urbana-Champaign, IL, 2016-2019
   * Specialization: Human-Computer Interaction
   * Advisors: [Brian Bailey](http://orchid.cs.illinois.edu/people/bailey/index.html), [Karrie Karahalios](http://social.cs.uiuc.edu/people/karriekarahalios.html)
+  * [Thesis](http://hdl.handle.net/2142/104866)
 * **B.A. in Computer Science, summa cum laude**	
   * Knox College, Galesburg, IL, 2012-2016
   * Independent Minor: Renaissance and Medieval Studies
@@ -98,6 +99,12 @@ Awards
 * Ron Asplund Memorial Research Award, Knox College, 2014
 * [National Merit Scholar](https://www.nationalmerit.org/s/1758/interior.aspx?sid=1758&gid=2&pgid=424), Knox College, 2012-2016
 
+Certifications
+======
+* An Introduction to Accessibility and Inclusive Design (with Honors)  
+  * By University of Illinois at Urbana-Champaign on Coursera
+  * [Credentials](https://www.coursera.org/account/accomplishments/verify/MW2CR3TDPMB7)  
+  
 Skills
 ======
 * Technical/Academic
