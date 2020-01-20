@@ -20,6 +20,7 @@ flexgallery:
     url: https://emhastings.github.io/images/pisa/side.jpg
     image_path: https://emhastings.github.io/images/pisa/side-th.jpg
     alt: "Side of the bodice"
+	end_row: "true"
   - aspect: "1.5"
     url: https://emhastings.github.io/images/pisa/sleeve.jpg
     image_path: https://emhastings.github.io/images/pisa/sleeve-th.jpg
