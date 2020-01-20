@@ -25,6 +25,10 @@ flexgallery:
     url: https://emhastings.github.io/images/tempest/other.JPG
     image_path: https://emhastings.github.io/images/tempest/other-th.jpg
     alt: "Trinculo and Boatswain"
+  - aspect: "0.7491"
+    url: https://emhastings.github.io/images/tempest/mood.jpg
+    image_path: https://emhastings.github.io/images/tempest/mood-th.jpg
+    alt: "Mood board"
 
 ---
 

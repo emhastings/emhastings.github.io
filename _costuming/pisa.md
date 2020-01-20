@@ -8,15 +8,15 @@ excerpt: "Replica Italian sottana bodice made during patterning class."
 header:
   teaser: https://emhastings.github.io/images/pisa/front.jpg
 flexgallery:
-  - aspect: "0.6667"
+  - aspect: "0.7505"
     url: https://emhastings.github.io/images/pisa/front.jpg
     image_path: https://emhastings.github.io/images/pisa/front-th.jpg
     alt: "Front of the bodice"
-  - aspect: "0.6667"
+  - aspect: "0.7505"
     url: https://emhastings.github.io/images/pisa/back.jpg
     image_path: https://emhastings.github.io/images/pisa/back-th.jpg
     alt: "Back of the bodice"
-  - aspect: "0.6667"
+  - aspect: "0.7505"
     url: https://emhastings.github.io/images/pisa/side.jpg
     image_path: https://emhastings.github.io/images/pisa/side-th.jpg
     alt: "Side of the bodice"
@@ -25,7 +25,7 @@ flexgallery:
     url: https://emhastings.github.io/images/pisa/sleeve.jpg
     image_path: https://emhastings.github.io/images/pisa/sleeve-th.jpg
     alt: "Close-up of sleeve head"
-  - aspect: "0.6667"
+  - aspect: "0.7505"
     url: https://emhastings.github.io/images/pisa/cuff.jpg
     image_path: https://emhastings.github.io/images/pisa/cuff-th.jpg
     alt: "Close-up of cuff"
