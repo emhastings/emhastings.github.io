@@ -8,7 +8,7 @@ TODO:
     * Better Tempest plates
     * Better Tall Tales plates
 * CV
-  * Add NIST publication
-  * Update CV doc with accessibility course, papers
-  * Add CHI paper
+  * Update CV doc with accessibility course, CHI paper and post to LinkedIn, etc.
+  * Add CHI paper/presentation
+  * Add weSTEM 2020
 * Improve link text/alt text
