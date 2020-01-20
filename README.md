@@ -5,11 +5,10 @@ Thanks to @iyeraravind for the flexgallery include (https://github.com/iyeraravi
 TODO:
 * Creative
   * Costumes: 
-    * Take picture of Tempest moodboard, better plates
+    * Better Tempest plates
     * Better Tall Tales plates
-  * Inktober?
 * CV
   * Add NIST publication
-  * Update CV doc with accessibility course
+  * Update CV doc with accessibility course, papers
   * Add CHI paper
 * Improve link text/alt text

@@ -86,6 +86,7 @@ excerpt: "List of courses taken by Emily at Knox College and UIUC."
 
 ### Curriculum and Instruction
 * CI 437 Educational Game Design
+* CI 550 Methods of Educational Inquiry
 
 ### Educational Psychology
 * EPSY 408 Learning and Human Development with Educational Technology
