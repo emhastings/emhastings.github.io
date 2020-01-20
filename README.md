@@ -5,7 +5,6 @@ Thanks to @iyeraravind for the flexgallery include (https://github.com/iyeraravi
 TODO:
 * Creative
   * Costumes: 
-    * Try to find Pisa bodice and take better pics, make page
     * Take picture of Tempest moodboard, better plates
     * Better Tall Tales plates
   * Inktober?
@@ -13,4 +12,4 @@ TODO:
   * Add NIST publication
   * Update CV doc with accessibility course
   * Add CHI paper
-* Improve link text
+* Improve link text/alt text
