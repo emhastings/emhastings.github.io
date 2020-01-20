@@ -20,7 +20,7 @@ flexgallery:
     url: https://emhastings.github.io/images/pisa/side.jpg
     image_path: https://emhastings.github.io/images/pisa/side-th.jpg
     alt: "Side of the bodice"
-	end_row: "true"
+    end_row: "true"
   - aspect: "1.5"
     url: https://emhastings.github.io/images/pisa/sleeve.jpg
     image_path: https://emhastings.github.io/images/pisa/sleeve-th.jpg
@@ -33,7 +33,7 @@ flexgallery:
     url: https://emhastings.github.io/images/pisa/gown.jpg
     image_path: https://emhastings.github.io/images/pisa/gown-th.jpg
     alt: "The extant dress"
-	end_row: "true"
+    end_row: "true"
 ---
 
 I patterned this bodice with a combination of flat-patterning and draping methods to emulate an extant 16th century Italian sottana (see last image).
