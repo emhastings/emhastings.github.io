@@ -1,7 +1,7 @@
 ---
 title: "Independent Study Gown"
-author: Creative
 date: 2015-03-01
+author: Creative
 author_profile: true
 layout: archive
 excerpt: "Replica Italian sottana bodice made during patterning class."
@@ -33,6 +33,7 @@ flexgallery:
     url: https://emhastings.github.io/images/pisa/gown.jpg
     image_path: https://emhastings.github.io/images/pisa/gown-th.jpg
     alt: "The extant dress"
+	end_row: "true"
 ---
 
 I patterned this bodice with a combination of flat-patterning and draping methods to emulate an extant 16th century Italian sottana (see last image).
