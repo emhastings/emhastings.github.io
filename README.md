@@ -11,4 +11,5 @@ TODO:
   * Update CV doc with accessibility course, CHI paper and post to LinkedIn, etc.
   * Add CHI paper/presentation
   * Add weSTEM 2020
-* Improve link text/alt text
+* Update to end NIST, add Mavis
+* Farnaz portrait?

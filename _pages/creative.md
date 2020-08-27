@@ -4,7 +4,7 @@ title: "Creative"
 permalink: /creative/
 author: Creative
 author_profile: true
-excerpt: "Check out my creative work here. I have been making things my entire life, and have been selling some of them [on Etsy](https://realmsoflegend.etsy.com) since 2010. I also design knitting and crochet patterns, which you can find [on Ravelry](https://www.ravelry.com/designers/emily-hastings) or in my Etsy shop. Once upon a time, I wrote a blog for my shop, which you can [check out](http://realmsoflegend.blogspot.com/) if you want a behind-the-scenes look at some of my projects."
+excerpt: "Check out my creative work here. I have been making things my entire life, and have been selling some of them [on Etsy](https://realmsoflegend.etsy.com) since 2010. I also design knitting and crochet patterns, which you can find [on Ravelry](https://www.ravelry.com/designers/emily-hastings) or in my Etsy shop. Once upon a time, I wrote [a blog for my shop](http://realmsoflegend.blogspot.com/), which you can check out if you want a behind-the-scenes look at some of my projects."
 feature_row:
   - image_path: https://emhastings.github.io/images/gown/sidebyside.png
     alt: "costume"

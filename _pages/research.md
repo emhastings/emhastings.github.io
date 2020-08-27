@@ -22,7 +22,7 @@ Instructors are increasingly adopting team-based learning in their courses in a 
 
 This line of work examines stakeholder perceptions of algorithmic team formation tools, identifies strengths and weaknesses of current tools, and aims to create a more learner-centered approach to algorithmic team formation, in which students have more control over a previously-inaccessible process.  
 
-See the project on ResearchGate [here](https://www.researchgate.net/project/Learner-Centered-Algorithmic-Team-Formation).
+[See the project on ResearchGate here.](https://www.researchgate.net/project/Learner-Centered-Algorithmic-Team-Formation)
 
 _Associated Presentations:_
   <ul>{% for post in site.talks reversed %}
