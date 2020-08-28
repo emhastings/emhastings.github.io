@@ -3,13 +3,13 @@
 Emily Hastings:
   name             : "Emily M. Hastings"
   avatar           : "profile_square.jpg"
-  bio              : "4th year Ph.D. student in Computer Science at UIUC. She/her pronouns."
+  bio              : "5th year Ph.D. student in Computer Science at UIUC. She/her pronouns."
   location         : "Illinois"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9nZlUHkAAAAJ&hl=en"
   email            : "ehstngs2@illinois.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Emily_Hastings5"
   uri              :
   bitbucket        :
   codepen          :
@@ -40,7 +40,7 @@ Emily Hastings:
   
 Creative:
   name             : "Emily M. Hastings"
-  avatar           : "portrait-adjusted.jpg"
+  avatar           : "yarn-crop.PNG"
   bio              : "Grad student. Fantasy nerd. Avid crafter. She/her pronouns."
   location         : "Urbana, Illinois"
   employer         :
