@@ -12,3 +12,4 @@ TODO:
   * Add CHI paper/presentation
 * Farnaz portrait?
 * Update Mavis link in 2021-2022 year
+* Add link to NSF grant when final

@@ -38,6 +38,7 @@ _Associated Publications:_
 	{% endif %}
   {% endfor %}</ul>
 
+---
 
 # Past Projects
 
