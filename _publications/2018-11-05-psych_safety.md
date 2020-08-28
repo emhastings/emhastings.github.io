@@ -6,6 +6,7 @@ excerpt: 'How can instructors group students into teams that interact and learn 
 date: 2018-11-05
 venue: 'Proceedings of the ACM on Human-Computer Interaction - CSCW'
 paperurl: 'https://dl.acm.org/citation.cfm?id=3274337'
+download: 'https://emhastings.github.io/files/structure-or-nurture.pdf'
 citation: 'Hastings, E. M., Jahanbakhsh, F., Karahalios, K., Marinov, D., &amp; Bailey, B. P. (2018). Structure or Nurture?: The Effects of Team-Building Activities and Team Composition on Team Outcomes. Proceedings of the ACM on Human-Computer Interaction, 2(CSCW), 68.'
 tags: [team]
 ---
