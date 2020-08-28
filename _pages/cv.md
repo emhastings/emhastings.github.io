@@ -32,14 +32,15 @@ Education
 
 Research experience
 ======  
-* **Summer 2018 – Present: Guest Researcher/GMSE Fellow**	
-  * National Institute of Standards and Technology, Gaithersburg, MD
-  * Advisors: [Michael Brundage](https://www.nist.gov/people/michael-p-brundage), [Thurston Sexton](https://www.nist.gov/people/thurston-sexton)
-  * Working with the [Knowledge Extraction and Application team](https://www.researchgate.net/project/Knowledge-Extraction-and-Application-for-Smart-Manufacturing) in Engineering Laboratory toward quantifying human skill level from historical data.
 * **Fall 2016 – Present: Research Assistant**	
   * University of Illinois, Urbana-Champaign, IL
   * Advisor: [Brian Bailey](http://orchid.cs.illinois.edu/people/bailey/index.html)
   * Working individually and with a team to investigate issues concerning the use of algorithmic team formation tools
+* **Summer 2018 – 2020: Guest Researcher/GMSE Fellow**	
+  * National Institute of Standards and Technology, Gaithersburg, MD
+  * Advisors: [Michael Brundage](https://www.nist.gov/people/michael-p-brundage), [Thurston Sexton](https://www.nist.gov/people/thurston-sexton)
+  * Worked with the [Knowledge Extraction and Application team](https://www.researchgate.net/project/Knowledge-Extraction-and-Application-for-Smart-Manufacturing) in Engineering Laboratory toward quantifying human skill level from historical data.
+  * Developed a data-driven framework for team formation tasks in the maintenance domain.
 * **January 2018 – May 2019 : Beyond the Black Box Research Team Member**	
   * University of Illinois, Urbana-Champaign, IL
   * Advisors: [Karrie Karahalios](http://social.cs.uiuc.edu/people/karriekarahalios.html) (UIUC), [Christian Sandvig](http://www-personal.umich.edu/~csandvig/) (UMich)
@@ -85,6 +86,7 @@ Talks and Posters
   
 Awards
 ======
+* [Mavis Future Faculty Fellowship](https://publish.illinois.edu/engr-mavis/), University of Illinois, 2020-2021
 * [Graduate Measurement Science and Engineering Fellowship](https://www.nist.gov/iaao/academic-affairs-office/nist-graduate-student-measurement-science-and-engineering-gmse), National Institute of Standards and Technology/Graduate Fellowships for STEM Diversity, 2018-present
 * Inducted into [Phi Beta Kappa](https://www.pbk.org/Requirements), Knox College, 2016
 * [E. Inman Fox Prize](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes), Knox College, 2016
@@ -127,7 +129,7 @@ Skills
 
 Service and Leadership
 ======
-* Reviewer for [ACM CSCW](https://cscw.acm.org/)
+* Reviewer for [ACM CSCW](https://cscw.acm.org/), [Behaviour and Information Technology](https://www.tandfonline.com/toc/tbit20/current)
 * [Girls Who Code](https://girlswhocode.com/) Facilitator	
   * University of Illinois, 2017
   * Assisted students during weekly club meetings.

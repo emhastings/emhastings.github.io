@@ -7,6 +7,7 @@ excerpt: "Places Emily and her work have been featured around the web."
 ---
 
 ## Academic
+  * [Current Mavis Fellows \| University of Illinois Grainger College of Engineering](https://publish.illinois.edu/engr-mavis/people/groups/current-mavis-fellow/)
   * [Fall 2018 Celebration of Excellence Student Awards \| University of Illinois Computer Science Facebook](https://www.facebook.com/pg/CSatIllinois/photos/?tab=album&album_id=10157032088753028&__tn__=-UC-R)
   * [Emily Hastings '16 \| Knox College](https://www.knox.edu/profiles/hastings-emily-16)
   * [Knox College Commencement 2016 \| Knox College](https://www.knox.edu/news/commencement-2016)
