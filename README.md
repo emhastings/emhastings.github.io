@@ -12,3 +12,4 @@ TODO:
 * Farnaz portrait?
 * Update Mavis link in 2021-2022 year
 * Add link to NSF grant when final
+* Fix linking the avatar and site name to the homepage
