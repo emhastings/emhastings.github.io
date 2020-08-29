@@ -6,7 +6,7 @@
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
-        <a href=base_path >
+        <a href="{{ base_path }}" >
 		<img src=
         {% if s.image contains "://" %}
           "{{ s.image }}"
@@ -16,7 +16,7 @@
         alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
 		<\a>
       {% endif %}
-      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
+      {% if s.title %}<h3><a href="{{ base_path }}">{{ s.title }}<\a></h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
     {% endfor %}
     {% if page.sidebar.nav %}
