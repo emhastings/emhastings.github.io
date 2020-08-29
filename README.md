@@ -9,7 +9,6 @@ TODO:
     * Better Tall Tales plates
 * CV
   * Update CV doc with accessibility course, CHI paper and post to LinkedIn, etc.
-  * Add CHI paper/presentation
 * Farnaz portrait?
 * Update Mavis link in 2021-2022 year
 * Add link to NSF grant when final
