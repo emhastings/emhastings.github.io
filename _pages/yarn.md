@@ -62,9 +62,9 @@ favorites:
     image_path: https://emhastings.github.io/images/yarn/hat1-th.jpg
     alt: "Eomer shield tam"
   - aspect: "0.7505"
-    url: https://emhastings.github.io/images/yarn/hat2.jpg
-    image_path: https://emhastings.github.io/images/yarn/hat2-th.jpg
-    alt: "Eomer shield tam"
+    url: https://emhastings.github.io/images/yarn/wardens.jpg
+    image_path: https://emhastings.github.io/images/yarn/wardens-th.jpg
+    alt: "Grey Warden amigurumi"
   - aspect: "0.7505"
     url: https://emhastings.github.io/images/yarn/doily.jpg
     image_path: https://emhastings.github.io/images/yarn/doily-th.jpg
@@ -110,6 +110,7 @@ I have over 300 projects [on Ravelry](https://www.ravelry.com/projects/Emily-H)!
 {% include flexgallery id="favorites" caption="Some projects."%}
 
 * Eomer Shield Tam by KYMaggie: [project](https://www.ravelry.com/projects/Emily-H/eomer-shield-tam), [pattern](https://www.ravelry.com/patterns/library/eomer-shield-tam)
+* Amigurumi Grey Wardens, improvised based on patterns by [Yazmina Nieblas](https://minasscraft.com/en/): [project](https://www.ravelry.com/projects/Emily-H/wardens)
 * Flower Bouquet Doily by American Thread Company: [project](https://www.ravelry.com/projects/Emily-H/flower-bouquet-doily), [pattern](https://www.ravelry.com/patterns/library/flower-bouquet-doily-2)
 * His Golden Lair by Kourtney Robinson: [project](https://www.ravelry.com/projects/Emily-H/his-golden-lair), [pattern](https://www.ravelry.com/patterns/library/his-golden-lair)
 * Avatar: The Four Elements by Kimby77: [project](https://www.ravelry.com/projects/Emily-H/avatar-the-four-elements), [pattern](https://www.ravelry.com/patterns/library/avatar-the-four-elements)
