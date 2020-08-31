@@ -3,7 +3,7 @@ layout: archive
 title: "Courses Taken"
 permalink: /courses-taken/
 author_profile: true
-excerpt: "List of courses taken by Emily at Knox College and UIUC."
+excerpt: "List of courses taken by Emily."
 ---
 
 
@@ -91,4 +91,17 @@ excerpt: "List of courses taken by Emily at Knox College and UIUC."
 ### Educational Psychology
 * EPSY 408 Learning and Human Development with Educational Technology
 * EPSY 590 Mobile Apps for Teaching
+
+### Engineering
+* ENG 591 Engineering Advanced Seminar: Mavis Future Faculty Fellows Academy
+
+
+---
+
+## Other
+
+### Coursera
+* [An Introduction to Accessibility and Inclusive Design (with Honors)](https://www.coursera.org/account/accomplishments/verify/MW2CR3TDPMB7)
+
+
 
