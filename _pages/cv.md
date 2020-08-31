@@ -87,7 +87,7 @@ Talks and Posters
 Awards
 ======
 * [Mavis Future Faculty Fellowship](https://publish.illinois.edu/engr-mavis/), University of Illinois, 2020-2021
-* [Graduate Measurement Science and Engineering Fellowship](https://www.nist.gov/iaao/academic-affairs-office/nist-graduate-student-measurement-science-and-engineering-gmse), National Institute of Standards and Technology/Graduate Fellowships for STEM Diversity, 2018-present
+* [Graduate Measurement Science and Engineering Fellowship](https://www.nist.gov/iaao/academic-affairs-office/nist-graduate-student-measurement-science-and-engineering-gmse), National Institute of Standards and Technology/Graduate Fellowships for STEM Diversity, 2018-2020
 * Inducted into [Phi Beta Kappa](https://www.pbk.org/Requirements), Knox College, 2016
 * [E. Inman Fox Prize](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes), Knox College, 2016
 * [Paul’s Prize in Computer Science](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes), Knox College	, 2016

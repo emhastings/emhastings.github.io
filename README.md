@@ -8,9 +8,8 @@ TODO:
     * Better Tempest plates
     * Better Tall Tales plates
 * CV
-  * Update CV doc with accessibility course, CHI paper and post to LinkedIn, etc.
-* Farnaz portrait?
-* Update Mavis link in 2021-2022 year
+  * Update CV doc with accessibility course, CHI presentation, Mavis and post to LinkedIn, etc.
+* Press- Update Mavis link in 2021-2022 year
 * Add link to NSF grant when final
 * Fix linking the avatar and site name to the homepage
 * Fix CHI talk category?
