@@ -38,6 +38,7 @@ I designed costumes for eight characters from William Shakespeare's _The Tempest
 
 ## Documents and Links:
 * [Notes and inspiration images](https://emhastings.github.io/files/tempest-notes.pdf)
+* [Presentation Notes](https://emhastings.github.io/files/tempest-pres.pdf)
 * [Bibliography](https://emhastings.github.io/files/tempest-sources.pdf)
 
 
