@@ -23,8 +23,8 @@ flexgallery:
     image_path: https://emhastings.github.io/images/card-holder/close2-th.jpg
     alt: "Closeup of embroidery"  
   - aspect: "0.7505"
-    url: https://emhastings.github.io/images/card-holder/close.jpg
-    image_path: https://emhastings.github.io/images/card-holder/close-th.jpg
+    url: https://emhastings.github.io/images/card-holder/close1.jpg
+    image_path: https://emhastings.github.io/images/card-holder/close1-th.jpg
     alt: "Closeup of embroidery"
     end_row: "true"
 
