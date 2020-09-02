@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant for Introduction to Computer Science and Program Design and Methodology"
+title: "Teaching Assistant for *Introduction to Computer Science* and *Program Design and Methodology*"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/knox-cs
