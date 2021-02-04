@@ -16,4 +16,4 @@ I previously earned my B.A. summa cum laude from Knox College in Galesburg, IL w
 
 When not doing research, I [design knitwear](https://www.ravelry.com/designers/emily-hastings) and run a craft business, [Realms of Legend](https://realmsoflegend.etsy.com), for which I create handmade items inspired by fantasy and sci-fi series that I love, as well as past eras of our own world. I also enjoy making things for myself and my family, playing/watching video games, and taking care of a growing army of houseplants.
 
-Download: [CV](https://emhastings.github.io/files/cv.pdf) \| [1-page resume](https://emhastings.github.io/files/resume.pdf) _(Updated September 2020)_
+Download: [CV](https://emhastings.github.io/files/cv.pdf) \| [1-page resume](https://emhastings.github.io/files/resume.pdf) _(Updated February 2021)_
