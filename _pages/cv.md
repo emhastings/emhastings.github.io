@@ -84,8 +84,9 @@ Talks and Posters
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Awards
+Awards and Honors
 ======
+* Invited participant to [Rising Stars in EECS 2020](https://eecs.berkeley.edu/rising-stars-2020)
 * [Mavis Future Faculty Fellowship](https://publish.illinois.edu/engr-mavis/), University of Illinois, 2020-2021
 * [Graduate Measurement Science and Engineering Fellowship](https://www.nist.gov/iaao/academic-affairs-office/nist-graduate-student-measurement-science-and-engineering-gmse), National Institute of Standards and Technology/Graduate Fellowships for STEM Diversity, 2018-2020
 * Inducted into [Phi Beta Kappa](https://www.pbk.org/Requirements), Knox College, 2016
@@ -121,7 +122,7 @@ Skills
   * Sewing, knitting, crochet, embroidery
   * Costume design
   * Patterning and draping
-  * Some experience with digital art software (Krita, Paint.NET, Adobe Photoshop)
+  * Digital art software (Clip Studio Paint, Krita, Paint.NET, Adobe Photoshop)
 * General
   * Writing and presenting reports
   * English (native language)
@@ -129,7 +130,7 @@ Skills
 
 Service and Leadership
 ======
-* Reviewer for [ACM CSCW](https://cscw.acm.org/), [Behaviour and Information Technology](https://www.tandfonline.com/toc/tbit20/current)
+* Reviewer for [ACM CHI](https://chi.acm.org/), [ACM CSCW](https://cscw.acm.org/), [Behaviour and Information Technology](https://www.tandfonline.com/toc/tbit20/current)
 * [Girls Who Code](https://girlswhocode.com/) Facilitator	
   * University of Illinois, 2017
   * Assisted students during weekly club meetings.

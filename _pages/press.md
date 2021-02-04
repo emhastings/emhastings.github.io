@@ -7,6 +7,7 @@ excerpt: "Places Emily and her work have been featured around the web."
 ---
 
 ## Academic
+  * [Illinois CS Sends Four Participants, 28 Faculty Mentors to Rising Stars 2020 \| University of Illinois Computer Science](https://cs.illinois.edu/news/illinois-cs-sends-four-participants-28-faculty-mentors-to-rising-stars-2020)
   * [Current Mavis Fellows \| University of Illinois Grainger College of Engineering](https://publish.illinois.edu/engr-mavis/people/groups/current-mavis-fellow/)
   * [Fall 2018 Celebration of Excellence Student Awards \| University of Illinois Computer Science Facebook](https://www.facebook.com/pg/CSatIllinois/photos/?tab=album&album_id=10157032088753028&__tn__=-UC-R)
   * [Emily Hastings '16 \| Knox College](https://www.knox.edu/profiles/hastings-emily-16)
