@@ -30,7 +30,7 @@ flexgallery:
     image_path: https://emhastings.github.io/images/50s-dress/makeup-th.jpg
     alt: "Hair and makeup"
   - aspect: "0.6481"
-    url: hhttps://emhastings.github.io/images/50s-dress/inspo.jpg
+    url: https://emhastings.github.io/images/50s-dress/inspo.jpg
     image_path: https://emhastings.github.io/images/50s-dress/inspo.jpg
     alt: "The extant dress"
     end_row: "true"
