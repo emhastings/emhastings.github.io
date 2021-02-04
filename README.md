@@ -9,8 +9,6 @@ TODO:
     * Better Tall Tales plates
 * Press- Update Mavis link in 2021-2022 year
 * Rising Stars-- conferences
-* Kali painting
-* 50s dress
 * Mentoring on CV
 * Creative profile pic from dress?
 * Later: weSTEM, Knox talk, NIST paper, certificate
