@@ -7,6 +7,7 @@ date: 2015-10-29
 venue: '2015 IEEE International Conference on Cluster Computing'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/7307604'
 citation: 'Hastings, E., Rincon-Cruz, D., Spehlmann, M., Meyers, S., Xu, A., Bunde, D. P., &amp; Leung, V. J. (2015, September). Comparing global link arrangements for dragonfly networks. In *2015 IEEE International Conference on Cluster Computing* (pp. 361-370). IEEE.'
+citationnital: 'Hastings, E., Rincon-Cruz, D., Spehlmann, M., Meyers, S., Xu, A., Bunde, D. P., &amp; Leung, V. J. (2015, September). Comparing global link arrangements for dragonfly networks. In 2015 IEEE International Conference on Cluster Computing (pp. 361-370). IEEE.'
 tags: [dragonfly]
 ---
 

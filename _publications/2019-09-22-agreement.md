@@ -8,6 +8,7 @@ venue: 'Proceedings of the Annual Conference of the PHM Society 2019'
 paperurl: 'https://phmpapers.org/index.php/phmconf/article/view/791'
 download: 'https://emhastings.github.io/files/agreement-behavior.pdf'
 citation: 'Hastings, E., Sexton, T., Brundage, M. P., &amp; Hodkiewicz, M. (2019). Agreement Behavior of Isolated Annotators for Maintenance Work-Order Data Mining. *Proceedings of the Annual Conference of the PHM Society, 11*(1). https://doi.org/10.36001/phmconf.2019.v11i1.791'
+citationnital: 'Hastings, E., Sexton, T., Brundage, M. P., &amp; Hodkiewicz, M. (2019). Agreement Behavior of Isolated Annotators for Maintenance Work-Order Data Mining. Proceedings of the Annual Conference of the PHM Society, 11(1). https://doi.org/10.36001/phmconf.2019.v11i1.791'
 tags: [nist]
 ---
 

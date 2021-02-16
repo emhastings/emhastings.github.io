@@ -10,5 +10,5 @@ TODO:
 * Press- Update Mavis link in 2021-2022 year
 * Rising Stars-- add to conferences
 * Mentoring on CV
-* Later: weSTEM, Knox talk, NIST paper, certificate
+* Later: weSTEM, Knox talk, certificate
 * teaching philosophy statement

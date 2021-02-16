@@ -53,14 +53,14 @@
     {% endif %}
     
     {% if post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }}</p> 
+      <p>Recommended citation: {{ post.citationnital }}</p> 
 	  {% if post.download %}
       <p><a href=" {{ post.paperurl }} ">Access online here.</a>  <a href=" {{ post.download }} ">Download here.</a></p>
 	  {% else %}
 	  <p><a href=" {{ post.paperurl }} ">Access online here.</a></p>
 	  {% endif %}
     {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
+      <p>Recommended citation: {{ post.citationnital }} </p>
     {% elsif post.paperurl %}
       {% if post.download %}
       <p><a href=" {{ post.paperurl }} ">Access online here.</a>  <a href=" {{ post.download }} ">Download here.</a></p>
