@@ -12,8 +12,8 @@ tags: [team]
 ---
 
 Conference presentation  
-ACM Conference on Computer-Supported Cooperative Work  
-Jersey City, NJ  
+ACM Conference on Computer-Supported Cooperative Work
+Jersey City, NJ
 
 Presentation of [conference paper](https://emhastings.github.io/publication/2018-11-05-psych_safety).
 

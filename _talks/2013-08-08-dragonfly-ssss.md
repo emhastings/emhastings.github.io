@@ -11,7 +11,7 @@ tags: [dragonfly]
 ---
 
 Talk  
-Knox College Summer Science Seminar Series  
-Galesburg, IL  
+Knox College Summer Science Seminar Series
+Galesburg, IL
 
 [Download slides here](https://emhastings.github.io/files/dragonfly-ssss.pptx)

@@ -12,8 +12,8 @@ tags: [knoxcraft]
 ---
 
 Poster  
-Knox College Horizons Celebration of Student Research  
-Galesburg, IL  
+Knox College Horizons Celebration of Student Research
+Galesburg, IL
 
 See [article on Knox website](https://www.knox.edu/news/horizons-event-showcases-student-research-and-creative-projects) for more information.  Also check out the [Knoxcraft website](https://knoxcraft.github.io/#).
 
