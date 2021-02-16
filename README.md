@@ -8,7 +8,6 @@ TODO:
     * Better Tempest plates
     * Better Tall Tales plates
 * Press- Update Mavis link in 2021-2022 year
-* Rising Stars-- add to conferences
 * Mentoring on CV
-* Later: weSTEM, Knox talk, certificate
+* Later: Knox talk, certificate
 * teaching philosophy statement
