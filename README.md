@@ -11,3 +11,4 @@ TODO:
 * Mentoring on CV
 * Later: Knox talk, certificate
 * teaching philosophy statement
+* fix Columbia Denver on conference map
