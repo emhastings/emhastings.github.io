@@ -15,6 +15,11 @@ var addressPoints = [
     -88.207301
   ],
   [
+    "Denver, Colorado",
+    39.7392364,
+    -104.9848623
+  ],
+  [
     "Jersey City, NJ",
     40.7281575,
     -74.0776417
@@ -23,10 +28,5 @@ var addressPoints = [
     "Champaign, IL",
     40.1164205,
     -88.2433829
-  ],
-  [
-    "Denver, Colorado",
-    39.7392364,
-    -104.9848623
   ]
 ];
