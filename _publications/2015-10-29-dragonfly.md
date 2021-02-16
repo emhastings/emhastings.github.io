@@ -6,7 +6,7 @@ excerpt: 'High-performance computing systems are shifting away from traditional 
 date: 2015-10-29
 venue: '2015 IEEE International Conference on Cluster Computing'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/7307604'
-citation: 'Hastings, E., Rincon-Cruz, D., Spehlmann, M., Meyers, S., Xu, A., Bunde, D. P., &amp; Leung, V. J. (2015, September). Comparing global link arrangements for dragonfly networks. In 2015 IEEE International Conference on Cluster Computing (pp. 361-370). IEEE.'
+citation: 'Hastings, E., Rincon-Cruz, D., Spehlmann, M., Meyers, S., Xu, A., Bunde, D. P., &amp; Leung, V. J. (2015, September). Comparing global link arrangements for dragonfly networks. In *2015 IEEE International Conference on Cluster Computing* (pp. 361-370). IEEE.'
 tags: [dragonfly]
 ---
 
@@ -14,4 +14,4 @@ High-performance computing systems are shifting away from traditional interconne
 
 [Access online here](https://ieeexplore.ieee.org/abstract/document/7307604)
 
-Recommended citation: Hastings, E., Rincon-Cruz, D., Spehlmann, M., Meyers, S., Xu, A., Bunde, D. P., & Leung, V. J. (2015, September). Comparing global link arrangements for dragonfly networks. In 2015 IEEE International Conference on Cluster Computing (pp. 361-370). IEEE.
+Recommended citation: Hastings, E., Rincon-Cruz, D., Spehlmann, M., Meyers, S., Xu, A., Bunde, D. P., & Leung, V. J. (2015, September). Comparing global link arrangements for dragonfly networks. In *2015 IEEE International Conference on Cluster Computing* (pp. 361-370). IEEE.

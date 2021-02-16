@@ -7,7 +7,7 @@ date: 2021-02-16
 venue: 'International Journal of Prognostics and Health Management'
 paperurl: 'https://www.phmsociety.org/node/2796'
 download: 'https://emhastings.github.io/files/maintenance-team.pdf'
-citation: 'Reslan, M., Hastings, E., Brundage, M. P., &amp; Sexton, T. (2021). A Data-Driven Framework for Team Formation for Maintenance Tasks. IJPHM, 12, 003.'
+citation: 'Reslan, M., Hastings, E., Brundage, M. P., &amp; Sexton, T. (2021). A Data-Driven Framework for Team Formation for Maintenance Tasks. *IJPHM, 12*, 003.'
 tags: [nist, team]
 ---
 
@@ -17,4 +17,4 @@ Even as maintenance evolves with new technologies, it is still a heavily human-d
 
 [Download author copy here](https://emhastings.github.io/files/maintenance-team.pdf)
 
-Recommended citation: Reslan, M., Hastings, E., Brundage, M. P., & Sexton, T. (2021). A Data-Driven Framework for Team Formation for Maintenance Tasks. IJPHM, 12, 003.
+Recommended citation: Reslan, M., Hastings, E., Brundage, M. P., & Sexton, T. (2021). A Data-Driven Framework for Team Formation for Maintenance Tasks. *IJPHM, 12*, 003.

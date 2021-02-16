@@ -6,7 +6,7 @@ excerpt: 'Teamwork has become increasingly popular in recent years, with more an
 date: 2017-06-27
 venue: 'CGScholar EPSY 408 SU17 Community'
 paperurl: 'https://cgscholar.com/community/profiles/user-28138/publications/143052'
-citation: 'Hastings, Emily. (2017, July 17). Learning Theory Exegesis: Collaborative Learning. CGScholar EPSY 408 SU17 Community. Retrieved from https://cgscholar.com/community/profiles/user-28138/publications/143052.'
+citation: 'Hastings, Emily. (2017, July 17). Learning Theory Exegesis: Collaborative Learning. *CGScholar EPSY 408 SU17 Community*. Retrieved from https://cgscholar.com/community/profiles/user-28138/publications/143052.'
 tags: [other]
 ---
 
@@ -14,4 +14,4 @@ Teamwork has become increasingly popular in recent years, with more and more wor
 
 [Access online here](https://cgscholar.com/community/profiles/user-28138/publications/143052)
 
-Recommended citation: Hastings, Emily. (2017, July 17). Learning Theory Exegesis: Collaborative Learning. CGScholar EPSY 408 SU17 Community. Retrieved from https://cgscholar.com/community/profiles/user-28138/publications/143052.
+Recommended citation: Hastings, Emily. (2017, July 17). Learning Theory Exegesis: Collaborative Learning. *CGScholar EPSY 408 SU17 Community*. Retrieved from https://cgscholar.com/community/profiles/user-28138/publications/143052.
