@@ -86,12 +86,13 @@ Talks and Posters
   
 Awards and Honors
 ======
+* Inducted into [Tau Beta Pi](https://www.tbp.org/recruit/recruitHome.cfm), University of Illinois, 2021
 * Invited participant to [Rising Stars in EECS 2020](https://eecs.berkeley.edu/rising-stars-2020)
 * [Mavis Future Faculty Fellowship](https://publish.illinois.edu/engr-mavis/), University of Illinois, 2020-2021
 * [Graduate Measurement Science and Engineering Fellowship](https://www.nist.gov/iaao/academic-affairs-office/nist-graduate-student-measurement-science-and-engineering-gmse), National Institute of Standards and Technology/Graduate Fellowships for STEM Diversity, 2018-2020
 * Inducted into [Phi Beta Kappa](https://www.pbk.org/Requirements), Knox College, 2016
 * [E. Inman Fox Prize](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes), Knox College, 2016
-* [Paul’s Prize in Computer Science](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes), Knox College	, 2016
+* [Paul’s Prize in Computer Science](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes), Knox College, 2016
 * [Howard A. Wilson Prize in Literary Criticism](https://www.knox.edu/offices/registrar/catalog/awards-and-prizes) (2nd Place), Knox College, 2016
   * ["Lawful as Eating" and as Necessary: Art and Magic in _The Winter's Tale_](https://emhastings.github.io/files/HastingsWilsonPrizeSubmission.pdf)
 * [ASSET Scholar](https://www.knox.edu/academics/research-and-creative-work/student-research-grants/asset-program), Knox College, 2015-2016
@@ -104,6 +105,9 @@ Awards and Honors
 
 Certifications
 ======
+* Certificate in Foundations of Teaching
+  * [By University of Illinois Urbana-Champaign Center for Innovation in Teaching and Learning (CITL)](https://citl.illinois.edu/citl-101/teaching-learning/teaching-certificates/certificate-in-foundations-of-teaching)
+  * [Certificate](https://emhastings.github.io/files/CITLFoundationsCert.pdf) 
 * An Introduction to Accessibility and Inclusive Design (with Honors)  
   * By University of Illinois at Urbana-Champaign on Coursera
   * [Credentials](https://www.coursera.org/account/accomplishments/verify/MW2CR3TDPMB7)  
@@ -117,6 +121,7 @@ Skills
   * Some experience with Android app development, game development in Unity
   * Knowledge of research methodologies
   * Knowledge of statistical analysis techniques, R
+  * Learning management systems: Canvas, Blackboard Learn, Moodle
   * Knowledge of LaTeX, Markdown
 * Creative
   * Sewing, knitting, crochet, embroidery
@@ -149,6 +154,7 @@ Memberships
 * Student member of the [Association for Computing Machinery (ACM)](https://www.acm.org/)
 * Student member of [ACM Special Interest Group on Human-Computer Interaction](https://sigchi.org/)
 * Member of [Phi Beta Kappa Honor Society](https://www.pbk.org/)
+* Member of [Tau Beta Pi Honor Society](https://www.tbp.org/recruit/recruitHome.cfm)
 * Member of [UIUC Graduate Society of Women Engineers (GradSWE)](https://www.societyofwomenengineers.illinois.edu/about-gradswe)
 
 Conferences Attended

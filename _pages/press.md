@@ -7,8 +7,10 @@ excerpt: "Places Emily and her work have been featured around the web."
 ---
 
 ## Academic
+  * [2021 Celebration of College Teaching \| University of Illinois Center for Innovation in Teaching and Learning](https://citl.illinois.edu/docs/default-source/Admin-Resource-Page-Documents/2021-citl-cct-program.pdf?status=Temp&sfvrsn=0.36592467827193964)
+  * [Spring 2021 Celebration of Excellence \| University of Illinois Computer Science](https://cs.illinois.edu/about/awards/celebration)
   * [Illinois CS Sends Four Participants, 28 Faculty Mentors to Rising Stars 2020 \| University of Illinois Computer Science](https://cs.illinois.edu/news/illinois-cs-sends-four-participants-28-faculty-mentors-to-rising-stars-2020)
-  * [Current Mavis Fellows \| University of Illinois Grainger College of Engineering](https://publish.illinois.edu/engr-mavis/people/groups/current-mavis-fellow/)
+  * [Mavis Future Faculty Fellows Academy 2020-2021 Alumni \| University of Illinois Grainger College of Engineering](https://mavis.grainger.illinois.edu/people/groups/2020-2021-alumni/)
   * [Fall 2018 Celebration of Excellence Student Awards \| University of Illinois Computer Science Facebook](https://www.facebook.com/pg/CSatIllinois/photos/?tab=album&album_id=10157032088753028&__tn__=-UC-R)
   * [Emily Hastings '16 \| Knox College](https://www.knox.edu/profiles/hastings-emily-16)
   * [Knox College Commencement 2016 \| Knox College](https://www.knox.edu/news/commencement-2016)

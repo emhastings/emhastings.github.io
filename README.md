@@ -7,8 +7,10 @@ TODO:
   * Costumes: 
     * Better Tempest plates
     * Better Tall Tales plates
-* Press- Update Mavis link in 2021-2022 year
+  * Punchneedle, cross-stitch, weaving
 * Mentoring on CV
-* Later: Knox talk, certificate
+* Later: Knox talk
 * teaching philosophy statement
-* fix Columbia Denver on conference map
+* upload new CV/resume
+* Fix NIST paper link
+* prelim
