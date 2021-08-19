@@ -86,6 +86,7 @@ Talks and Posters
   
 Awards and Honors
 ======
+* [List of Teachers Ranked as Excellent By Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent), University of Illinois, 2021
 * Inducted into [Tau Beta Pi](https://www.tbp.org/recruit/recruitHome.cfm), University of Illinois, 2021
 * Invited participant to [Rising Stars in EECS 2020](https://eecs.berkeley.edu/rising-stars-2020)
 * [Mavis Future Faculty Fellowship](https://publish.illinois.edu/engr-mavis/), University of Illinois, 2020-2021
@@ -109,7 +110,7 @@ Certifications
   * [By University of Illinois Urbana-Champaign Center for Innovation in Teaching and Learning (CITL)](https://citl.illinois.edu/citl-101/teaching-learning/teaching-certificates/certificate-in-foundations-of-teaching)
   * [Certificate](https://emhastings.github.io/files/CITLFoundationsCert.pdf) 
 * An Introduction to Accessibility and Inclusive Design (with Honors)  
-  * By University of Illinois at Urbana-Champaign on Coursera
+  * [By University of Illinois at Urbana-Champaign on Coursera](https://www.coursera.org/learn/accessibility)
   * [Credentials](https://www.coursera.org/account/accomplishments/verify/MW2CR3TDPMB7)  
   
 Skills

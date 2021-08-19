@@ -7,10 +7,11 @@ TODO:
   * Costumes: 
     * Better Tempest plates
     * Better Tall Tales plates
-  * Punchneedle, cross-stitch, weaving
+  * Punchneedle, cross-stitch, weaving, spinning
 * Mentoring on CV
-* Later: Knox talk
+* Knox talk
 * teaching philosophy statement
 * upload new CV/resume
 * Fix NIST paper link
 * prelim
+* press-- Teachers Ranked as Excellent when available
