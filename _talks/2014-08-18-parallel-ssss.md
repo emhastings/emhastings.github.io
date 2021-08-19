@@ -12,7 +12,7 @@ tags: [parallel]
 ---
 
 Talk  
-Knox College Summer Science Seminar Series
+Knox College Summer Science Seminar Series  
 Galesburg, IL
 
 Winner of the Best Student Seminar Award for 2014.

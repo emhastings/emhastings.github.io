@@ -12,7 +12,7 @@ tags: [costume]
 ---
 
 Poster  
-Knox College Horizons Celebration of Student Research
+Knox College Horizons Celebration of Student Research  
 Galesburg, IL
 
 See [article on Knox website](https://www.knox.edu/news/students-research-creative-works-in-the-spotlight) for more information about Horizons, and the [project page](https://emhastings.github.io/costuming/ind-study-gown/) for more about the gown.

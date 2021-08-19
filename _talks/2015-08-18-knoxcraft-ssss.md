@@ -12,7 +12,7 @@ tags: [knoxcraft]
 ---
 
 Talk  
-Knox College Summer Science Seminar Series
+Knox College Summer Science Seminar Series  
 Galesburg, IL
 
 Check out the [Knoxcraft website](https://knoxcraft.github.io/#).
