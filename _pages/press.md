@@ -33,4 +33,5 @@ excerpt: "Places Emily and her work have been featured around the web."
   
 ### Projects Featured
   * [Lord of the Rings Inspired Knitting Patterns \| In the Loop Knitting](https://intheloopknitting.com/lord-of-the-rings-knitting-patterns/)
+  * [CAFAM Granny Squared \| Yarn Bombing Los Angeles](http://cafamgrannysquared.weebly.com/participants.html)
   

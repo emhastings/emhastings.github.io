@@ -68,7 +68,7 @@ Research experience
 
 Teaching
 ======
-  [Teaching Philosophy Statement](https://emhastings.github.io/files/teaching-phil.pdf)
+  _[Teaching Philosophy Statement](https://emhastings.github.io/files/teaching-phil.pdf)_
   
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}

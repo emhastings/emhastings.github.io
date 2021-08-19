@@ -105,7 +105,7 @@ I am also working on writing patterns for some of my other designs, to be publis
 ---
 
 ## Selected Projects  
-I have over 300 projects [on Ravelry](https://www.ravelry.com/projects/Emily-H)! These are a few of my favorites.
+I have over 350 projects [on Ravelry](https://www.ravelry.com/projects/Emily-H)! These are a few of my favorites.
 
 {% include flexgallery id="favorites" caption="Some projects."%}
 
@@ -123,3 +123,7 @@ My work is featured on the official Ravelry pages for the following patterns, in
 * [Stash Buster Coffee Cup Sleeve by Rhondda Mol (Oombawka Design)](https://www.ravelry.com/patterns/library/stash-buster-coffee-cup-sleeve)
 * [Seasons Change Convertible Slouch by Sonya Blackstone](https://www.ravelry.com/patterns/library/seasons-change-convertible-slouch)
 * [Felted Holiday Snowflake #L0115AD by Lion Brand Yarn](https://www.ravelry.com/patterns/library/felted-holiday-snowflake-l0115ad)
+
+I have contributed to the following public art projects:
+* [Yarn Bombing Los Angeles: CAFAM Granny Squared](http://www.yarnbombinglosangeles.com/cafam-granny-squared.html) ([Ravelry project](https://ravel.me/Emily-H/gsfy))
+* [Urbana-Champaign Satellite Reef](https://uiucsatellitecrochetcoralreef.wordpress.com/) ([Ravelry project](https://ravel.me/Emily-H/hpv))
