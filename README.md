@@ -9,7 +9,6 @@ TODO:
     * Better Tall Tales plates
   * Punchneedle, cross-stitch, weaving, spinning
 * Mentoring on CV
-* Knox talk
 * teaching philosophy statement
 * upload new CV/resume
 * Fix NIST paper link
