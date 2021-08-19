@@ -38,6 +38,6 @@ I also built a pair of [combinations](https://www.google.com/search?q=combinatio
 {% include flexgallery caption="Images 1-3 from the Knox Theatre website, linked below"%}
 
 ## Documents and Links:
-* [Production page](https://knoxtheatre.org/play/In_the_Next_Room_or_the_Vibrator_Play)
+* [Production page](https://knoxtheatre.org/project/in-the-next-room-or-the-vibrator-play/)
 
 

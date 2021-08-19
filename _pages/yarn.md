@@ -124,6 +124,8 @@ My work is featured on the official Ravelry pages for the following patterns, in
 * [Seasons Change Convertible Slouch by Sonya Blackstone](https://www.ravelry.com/patterns/library/seasons-change-convertible-slouch)
 * [Felted Holiday Snowflake #L0115AD by Lion Brand Yarn](https://www.ravelry.com/patterns/library/felted-holiday-snowflake-l0115ad)
 
+<br>
+
 I have contributed to the following public art projects:
 * [Yarn Bombing Los Angeles: CAFAM Granny Squared](http://www.yarnbombinglosangeles.com/cafam-granny-squared.html) ([Ravelry project](https://ravel.me/Emily-H/gsfy))
 * [Urbana-Champaign Satellite Reef](https://uiucsatellitecrochetcoralreef.wordpress.com/) ([Ravelry project](https://ravel.me/Emily-H/hpv))

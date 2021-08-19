@@ -33,6 +33,6 @@ I built this bodice in 2013 for Princess Barbarina in Knox's Repertory Term prod
 {% include flexgallery caption="Images 2-4 from the Knox Theatre website, linked below"%}
 
 ## Documents and Links:
-* [Production page](http://knoxtheatre.org/play/The_Green_Bird)
+* [Production page](https://knoxtheatre.org/project/the-green-bird/)
 
 
