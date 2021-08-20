@@ -10,7 +10,7 @@ excerpt: "Emily M. Hastings Curriculum Vitae. Includes download links for CV and
 
 {% include base_path %}
 
-_Download: [Abridged CV](https://emhastings.github.io/files/cv.pdf) \| [1-page resume](https://emhastings.github.io/files/resume.pdf) (Updated February 2021)_  
+_Download: [Abridged CV](https://emhastings.github.io/files/cv.pdf) \| [1-page resume](https://emhastings.github.io/files/resume.pdf) (Updated August 2021)_  
 
 Education
 ======

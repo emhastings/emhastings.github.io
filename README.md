@@ -9,8 +9,6 @@ TODO:
     * Better Tall Tales plates
   * Punchneedle, cross-stitch, weaving, spinning
 * Mentoring on CV
-* teaching philosophy statement
-* upload new CV/resume
-* Fix NIST paper link
-* prelim
+* prelim-- "candidate"
 * press-- Teachers Ranked as Excellent when available
+* fix NIST citation (issue number), check others to be consistent
