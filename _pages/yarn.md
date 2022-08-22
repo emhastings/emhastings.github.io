@@ -87,7 +87,7 @@ favorites:
 ---
 
 ## Designs  
-Check out my published patterns on [Ravelry](https://www.ravelry.com/designers/emily-hastings).
+Check out my published patterns on [Ravelry](https://www.ravelry.com/designers/emily-hastings). Alternatively, you can find my paid patterns on [Etsy](https://www.etsy.com/shop/realmsoflegend/?section_id=25656617) and my free patterns on [Google Drive](https://drive.google.com/drive/folders/1e600uf8s7Bp28uxG8e9fiLrCFPCAqzMb?usp=sharing).
 
 {% include flexgallery id="patterns" caption="My pubished patterns."%}
 
@@ -123,6 +123,10 @@ My work is featured on the official Ravelry pages for the following patterns, in
 * [Stash Buster Coffee Cup Sleeve by Rhondda Mol (Oombawka Design)](https://www.ravelry.com/patterns/library/stash-buster-coffee-cup-sleeve)
 * [Seasons Change Convertible Slouch by Sonya Blackstone](https://www.ravelry.com/patterns/library/seasons-change-convertible-slouch)
 * [Felted Holiday Snowflake #L0115AD by Lion Brand Yarn](https://www.ravelry.com/patterns/library/felted-holiday-snowflake-l0115ad)
+* [Potholder #9470 by The Spool Cotton Company](https://www.ravelry.com/patterns/library/potholder-9470)
+* [Chicken Potholder #S-73 by The Spool Cotton Company](https://www.ravelry.com/patterns/library/chicken-potholder-s-73)
+* [Irish Rose Pot Holder #S-351 by The Spool Cotton Company](https://www.ravelry.com/patterns/library/irish-rose-pot-holder-s-351)
+* [Potholder #212 by American Thread Company](https://www.ravelry.com/patterns/library/pot-holder-212)
 
 <br>
 

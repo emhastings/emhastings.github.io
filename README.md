@@ -13,3 +13,13 @@ TODO:
 * fix NIST citation (issue number), check others to be consistent
 * 412 course improvement team
 * fix broken knoxcraft link
+* mentoring philosophy?
+* SIGCSE paper/presentation
+* New portraits
+* Balsamiq on CV
+* reframe as "academic/artist"?
+* Celebration of excellence on press page https://cs.illinois.edu/about/awards/celebration-2022
+* on job market
+* statements when complete
+* CITL workshop on CV?
+* coral reef press?
