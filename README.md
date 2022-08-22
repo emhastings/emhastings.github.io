@@ -9,6 +9,7 @@ TODO:
     * Better Tall Tales plates
   * Punchneedle, cross-stitch, weaving, spinning
 * Mentoring on CV
-* prelim-- "candidate"
-* press-- Teachers Ranked as Excellent when available
+* press-- Teachers Ranked as Excellent when available  https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent
 * fix NIST citation (issue number), check others to be consistent
+* 412 course improvement team
+* fix broken knoxcraft link

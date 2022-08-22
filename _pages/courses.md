@@ -104,7 +104,7 @@ excerpt: "List of courses taken by Emily."
 * [What You Need to Know: Essentials of Course Design](https://citl.illinois.edu/docs/default-source/workshop-series/2021-teaching-essentials-flyer.pdf?sfvrsn=2) (8 sessions, offered by UIUC CITL) 
 
 ### Coursera
-* [An Introduction to Accessibility and Inclusive Design (with Honors)](https://www.coursera.org/learn/accessibility)) ([certificate](https://www.coursera.org/account/accomplishments/verify/MW2CR3TDPMB7))
+* [An Introduction to Accessibility and Inclusive Design (with Honors)](https://www.coursera.org/learn/accessibility) ([certificate](https://www.coursera.org/account/accomplishments/verify/MW2CR3TDPMB7))
 
 ### LinkedIn Learning
 * [Planning a Career in User Experience](https://www.linkedin.com/learning/planning-a-career-in-user-experience/welcome?u=43607124) ([certificate](https://emhastings.github.io/files/certificates/planningUX.pdf))

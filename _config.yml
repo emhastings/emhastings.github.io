@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Emily M. Hastings"
 title_separator          : "-"
 name                     : &name "Emily M. Hastings"
-description              : &description "Emily M. Hastings: Ph.D. Student in Computer Science (Human-Computer Interaction) at the University of Illinois at Urbana-Champaign. Owner of Etsy shop Realms of Legend: Handmade fantasy and historical wares. Designer of costumes and knitting and crochet patterns."
+description              : &description "Emily M. Hastings: Ph.D. Candidate in Computer Science (Human-Computer Interaction) at the University of Illinois at Urbana-Champaign. Owner of Etsy shop Realms of Legend: Handmade fantasy and historical wares. Designer of costumes and knitting and crochet patterns."
 url                      : https://emhastings.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "emhastings.github.io"
@@ -82,8 +82,8 @@ analytics:
 # Site Author
 author:
   name             : "Emily M. Hastings"
-  avatar           : "profile_square.jpg"
-  bio              : "Ph.D. student in Computer Science at UIUC. She/her pronouns."
+  avatar           : "headshot_2022.jpg"
+  bio              : "Ph.D. Candidate in Computer Science at UIUC (she/her)"
   location         : "Urbana, Illinois"
   employer         :
   pubmed           : 
