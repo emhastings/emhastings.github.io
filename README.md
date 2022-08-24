@@ -9,9 +9,8 @@ TODO:
     * Better Tall Tales plates
   * Punchneedle, cross-stitch, weaving, spinning
 * Mentoring on CV
-* press-- Teachers Ranked as Excellent when available  https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent
 * fix NIST citation (issue number), check others to be consistent
-* 412 course improvement team
+* 412 course improvement team-- added page, still need on CV doc
 * fix broken knoxcraft link
 * mentoring philosophy?
 * SIGCSE paper/presentation

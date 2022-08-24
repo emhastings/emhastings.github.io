@@ -4,7 +4,7 @@ author: Creative
 date: 2016-03-08
 author_profile: true
 layout: archive
-excerpt: "Belt pouch made from upcycled wool sweater."
+excerpt: "Belt pouches made from upcycled wool sweater."
 header:
   teaser: https://emhastings.github.io/images/other/pouch.jpg
   
@@ -27,3 +27,4 @@ Belt pouches I made from an upcycled wool sweater.
 
 ## Documents and Links:
 * [Etsy listing for larger pouch](https://www.etsy.com/listing/286978697/perfect-for-earth-day-dark-green?show_sold_out_detail=1)
+* [Etsy listing for smaller pouch](https://www.etsy.com/listing/679829521/dark-green-upcycled-sweater-wool-belt?click_key=705b26dd9ee36bab40ed7b8339f9b3c974dc629d%3A679829521&click_sum=8b2fe888&ref=shop_home_feat_3)
