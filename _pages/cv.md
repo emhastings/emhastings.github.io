@@ -52,7 +52,7 @@ Research experience
 * **Summer 2015: Research Assistant**	
   * Knox College, Galesburg, IL
   * Advisor: [Jaime Spacco](https://www.knox.edu/academics/majors-and-minors/computer-science/faculty/spacco-jaime)
-  * Worked with a team to develop [Knoxcraft](https://github.com/knoxcraft), a system that allows students to use Java/Python code to build structures in the game Minecraft.
+  * Worked with a team to develop [Knoxel](https://github.com/knoxcraft), a system that allows students to use Java/Python code to build structures in the game Minecraft.
 * **Summer 2014: Research Assistant**	
   * Knox College, Galesburg, IL
   * Advisor: [David Bunde](http://faculty.knox.edu/dbunde/)
@@ -131,6 +131,7 @@ Skills
   * Costume design
   * Patterning and draping
   * Digital art software (Clip Studio Paint, Krita, Paint.NET, Adobe Photoshop)
+  * Rapid prototyping tools (Balsamiq, Figma)
 * General
   * Writing and presenting reports
   * English (native language)
