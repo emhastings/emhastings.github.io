@@ -126,6 +126,7 @@ My work is featured on the official Ravelry pages for the following patterns, in
 * [Potholder #9470 by The Spool Cotton Company](https://www.ravelry.com/patterns/library/potholder-9470)
 * [Chicken Potholder #S-73 by The Spool Cotton Company](https://www.ravelry.com/patterns/library/chicken-potholder-s-73)
 * [Irish Rose Pot Holder #S-351 by The Spool Cotton Company](https://www.ravelry.com/patterns/library/irish-rose-pot-holder-s-351)
+* [Corn on the Cob Potholder #S-81 by The Spool Cotton Company](https://www.ravelry.com/patterns/library/corn-on-the-cob-potholder-s-81)
 * [Potholder #212 by American Thread Company](https://www.ravelry.com/patterns/library/pot-holder-212)
 
 <br>

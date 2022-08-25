@@ -8,7 +8,7 @@ excerpt: "Places Emily and her work have been featured around the web."
 
 ## Academic
   * [2022 Celebration of Excellence \| University of Illinois Computer Science](https://cs.illinois.edu/about/awards/celebration-2022)
-  * [Spring 2021 List of Teachers Ranked as Excellent by Their Students\ | University of Illinois Center for Innovation in Teaching and Learning](https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2021-spring.pdf)
+  * [Spring 2021 List of Teachers Ranked as Excellent by Their Students \| University of Illinois Center for Innovation in Teaching and Learning](https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2021-spring.pdf)
   * [2021 Celebration of College Teaching \| University of Illinois Center for Innovation in Teaching and Learning](https://citl.illinois.edu/docs/default-source/Admin-Resource-Page-Documents/2021-citl-cct-program.pdf?status=Temp&sfvrsn=0.36592467827193964)
   * [Spring 2021 Celebration of Excellence \| University of Illinois Computer Science](https://cs.illinois.edu/about/awards/celebration)
   * [Illinois CS Sends Four Participants, 28 Faculty Mentors to Rising Stars 2020 \| University of Illinois Computer Science](https://cs.illinois.edu/news/illinois-cs-sends-four-participants-28-faculty-mentors-to-rising-stars-2020)

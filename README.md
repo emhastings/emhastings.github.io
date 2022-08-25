@@ -19,5 +19,4 @@ TODO:
 * reframe as "academic/artist"?
 * statements when complete
 * CITL workshop on CV?
-* coral reef press?
 * grad academy somewhere--CV, teaching?
