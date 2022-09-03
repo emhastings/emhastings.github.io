@@ -14,7 +14,7 @@ _Download: [Abridged CV](https://emhastings.github.io/files/cv.pdf) \| [1-page r
 
 Education
 ======
-* **Ph.D. in Computer Science (in progress, expected graduation 2022)**	
+* **Ph.D. in Computer Science (in progress, expected graduation 2023)**	
   * University of Illinois, Urbana-Champaign, IL, 2016-Present
   * Specialization: Human-Computer Interaction
   * Advisors: [Brian Bailey](http://orchid.cs.illinois.edu/people/bailey/index.html), [Karrie Karahalios](http://social.cs.uiuc.edu/people/karriekarahalios.html)

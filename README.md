@@ -20,3 +20,4 @@ TODO:
 * statements when complete
 * CITL workshop on CV?
 * grad academy somewhere--CV, teaching?
+* DIS 2022, fan conference
