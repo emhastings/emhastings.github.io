@@ -17,20 +17,20 @@ Education
 * **Ph.D. in Computer Science (in progress, expected graduation 2023)**	
   * University of Illinois, Urbana-Champaign, IL, 2016-Present
   * Specialization: Human-Computer Interaction
+  * Dissertation Title: Supporting Instructor Decisions on Algorithmic Team Formation through Integrating Stakeholder Voices
   * Advisors: [Brian Bailey](http://orchid.cs.illinois.edu/people/bailey/index.html), [Karrie Karahalios](http://social.cs.uiuc.edu/people/karriekarahalios.html)
-  * Research Interests: algorithmic team formation, crowdsourcing, algorithm awareness, CS education
   * [Courses taken](https://emhastings.github.io/courses-taken/)
 * **M.S. in Computer Science**
   * University of Illinois, Urbana-Champaign, IL, 2016-2019
   * Specialization: Human-Computer Interaction
   * Advisors: [Brian Bailey](http://orchid.cs.illinois.edu/people/bailey/index.html), [Karrie Karahalios](http://social.cs.uiuc.edu/people/karriekarahalios.html)
-  * [Thesis](http://hdl.handle.net/2142/104866)
+  * [Thesis: LIFT: Integrating Stakeholder Voices into Algorithmic Team Formation](http://hdl.handle.net/2142/104866)
 * **B.A. in Computer Science, summa cum laude**	
   * Knox College, Galesburg, IL, 2012-2016
   * Independent Minor: Renaissance and Medieval Studies
   * [Courses taken](https://emhastings.github.io/courses-taken/)
 
-Research experience
+Research Experience
 ======  
 * **Fall 2016 – Present: Research Assistant**	
   * University of Illinois, Urbana-Champaign, IL
@@ -49,7 +49,7 @@ Research experience
   * Knox College, Galesburg, IL
   * Advisor: [Margo Shively](http://knoxtheatre.org/people/Margo_Shively)
   * Researched the everyday dress of Elizabethan English working-class women of the 1560s-70s and built outfit from the skin out using historically accurate techniques and materials.
-* **Summer 2015: Research Assistant**	
+* **Summer 2015 - 2016: Research Assistant**	
   * Knox College, Galesburg, IL
   * Advisor: [Jaime Spacco](https://www.knox.edu/academics/majors-and-minors/computer-science/faculty/spacco-jaime)
   * Worked with a team to develop [Knoxel](https://github.com/knoxcraft), a system that allows students to use Java/Python code to build structures in the game Minecraft.
@@ -66,7 +66,7 @@ Research experience
   * Advisor: [Margo Shively](http://knoxtheatre.org/people/Margo_Shively)
   * Researched the court dress of Elizabethan English noblewomen of the 1560s-70s and built outfit from the skin out using historically accurate techniques and materials.
 
-Teaching
+Teaching Experience
 ======
   _[Teaching Philosophy Statement](https://emhastings.github.io/files/teaching-phil.pdf)_
   
@@ -125,6 +125,7 @@ Skills
   * Knowledge of research methodologies
   * Knowledge of statistical analysis techniques, R
   * Learning management systems: Canvas, Blackboard Learn, Moodle
+  * Citation management software: Endnote, Mendeley
   * Knowledge of LaTeX, Markdown
 * Creative
   * Sewing, knitting, crochet, embroidery
