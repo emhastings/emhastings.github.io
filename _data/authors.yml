@@ -1,14 +1,14 @@
 # Authors
   
 Emily Hastings:
-  name             : "Emily M. Hastings"
-  avatar           : "headshot_2022.jpg"
-  bio              : "Ph.D. candidate in Computer Science at UIUC (she/her)"
-  location         : "Urbana, Illinois"
+  name             : "Emily M. Hastings, Ph.D."
+  avatar           : "uwec.jpg"
+  bio              : "Assistant Professor of Computer Science at the University of Wisconsin-Eau Claire (she/her)"
+  location         : "Eau Claire, WI"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9nZlUHkAAAAJ&hl=en"
-  email            : "ehstngs2@illinois.edu"
+  email            : "hastinem@uwec.edu"
   researchgate     : "https://www.researchgate.net/profile/Emily_Hastings5"
   uri              :
   bitbucket        :
@@ -40,10 +40,10 @@ Emily Hastings:
   publons          : "https://publons.com/researcher/3901577/emily-marie-hastings/"
   
 Creative:
-  name             : "Emily M. Hastings"
+  name             : "Emily M. Hastings, Ph.D."
   avatar           : "saint-cecilia.jpg"
-  bio              : "Grad student. Fantasy nerd. Avid crafter. (she/her)"
-  location         : "Urbana, Illinois"
+  bio              : "Scholar. Artist. Fantasy nerd. (she/her)"
+  location         : "Eau Claire, WI"
   employer         :
   pubmed           : 
   googlescholar    : 

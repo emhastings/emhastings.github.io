@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Emily M. Hastings"
+title                    : "Emily M. Hastings, Ph.D."
 title_separator          : "-"
 name                     : &name "Emily M. Hastings"
-description              : &description "Emily M. Hastings: Ph.D. Candidate in Computer Science (Human-Computer Interaction) at the University of Illinois at Urbana-Champaign. Owner of Etsy shop Realms of Legend: Handmade fantasy and historical wares. Designer of costumes and knitting and crochet patterns."
+description              : &description "Emily M. Hastings, Ph.D: Assistant Professor of Computer Science at the University of Wisconsin-Eau Claire. Owner of Etsy shop Realms of Legend: Handmade fantasy and historical wares. Designer of costumes and knitting and crochet patterns."
 url                      : https://emhastings.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "emhastings.github.io"
@@ -81,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Emily M. Hastings"
-  avatar           : "headshot_2022.jpg"
-  bio              : "Ph.D. Candidate in Computer Science at UIUC (she/her)"
-  location         : "Urbana, Illinois"
+  name             : "Emily M. Hastings, Ph.D."
+  avatar           : "uwec.jpg"
+  bio              : "Assistant Professor of Computer Science at the University of Wisconsin-Eau Claire (she/her)"
+  location         : "Eau Claire, WI"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9nZlUHkAAAAJ&hl=en"
-  email            : "ehstngs2@illinois.edu"
+  email            : "hastinem@uwec.edu"
   researchgate     : "https://www.researchgate.net/profile/Emily_Hastings5"
   uri              :
   bitbucket        :
