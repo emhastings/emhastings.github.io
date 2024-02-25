@@ -5,19 +5,19 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-excerpt: "Emily M. Hastings Curriculum Vitae. Includes download links for CV and resume."
+excerpt: "Emily M. Hastings Curriculum Vitae. Includes download link for CV."
 ---
 
 {% include base_path %}
 
-_Download: [Abridged CV](https://emhastings.github.io/files/cv.pdf) \| [1-page resume](https://emhastings.github.io/files/resume.pdf) (Updated August 2021)_  
+_Download: [Abridged CV](https://emhastings.github.io/files/cv.pdf) (Updated February 2024)_  
 
 Education
 ======
-* **Ph.D. in Computer Science (in progress, expected graduation 2023)**	
+* **Ph.D. in Computer Science**	
   * University of Illinois, Urbana-Champaign, IL, 2016-Present
   * Specialization: Human-Computer Interaction
-  * Dissertation Title: Supporting Instructor Decisions on Algorithmic Team Formation through Integrating Stakeholder Voices
+  * [Dissertation: Supporting Instructor Decisions on Algorithmic Team Formation through Integrating Stakeholder Voices](https://www.ideals.illinois.edu/items/127443)
   * Advisors: [Brian Bailey](http://orchid.cs.illinois.edu/people/bailey/index.html), [Karrie Karahalios](http://social.cs.uiuc.edu/people/karriekarahalios.html)
   * [Courses taken](https://emhastings.github.io/courses-taken/)
 * **M.S. in Computer Science**
@@ -32,13 +32,16 @@ Education
 
 Research Experience
 ======  
-* **Fall 2016 – Present: Research Assistant**	
+* **Fall 2023 – present: Assistant Professor**	
+  * University of Wisconsin-Eau Claire, Eau Claire, WI
+  * Conducting research in the areas of human-computer interaction and computer science education.
+* **Fall 2016 – 2023: Research Assistant**	
   * University of Illinois, Urbana-Champaign, IL
   * Advisor: [Brian Bailey](http://orchid.cs.illinois.edu/people/bailey/index.html)
-  * Working individually and with a team to investigate issues concerning the use of algorithmic team formation tools
+  * Worked individually and with a team to investigate issues concerning the use of algorithmic team formation tools
 * **Summer 2018 – 2020: Guest Researcher/GMSE Fellow**	
   * National Institute of Standards and Technology, Gaithersburg, MD
-  * Advisors: [Michael Brundage](https://www.nist.gov/people/michael-p-brundage), [Thurston Sexton](https://www.nist.gov/people/thurston-sexton)
+  * Advisors: [Michael Brundage](https://www.nist.gov/people/michael-p-brundage), [Rachael Sexton](https://www.nist.gov/people/rachael-sexton)
   * Worked with the [Knowledge Extraction and Application team](https://www.researchgate.net/project/Knowledge-Extraction-and-Application-for-Smart-Manufacturing) in Engineering Laboratory toward quantifying human skill level from historical data.
   * Developed a data-driven framework for team formation tasks in the maintenance domain.
 * **January 2018 – May 2019 : Beyond the Black Box Research Team Member**	
@@ -140,6 +143,7 @@ Skills
 
 Service and Leadership
 ======
+* Registration co-chair for [IEEE EIT 2024](https://www.eit-conference.org/eit2024/index.php)
 * Reviewer for [ACM CHI](https://chi.acm.org/), [ACM CSCW](https://cscw.acm.org/), [Behaviour and Information Technology](https://www.tandfonline.com/toc/tbit20/current)
 * [Girls Who Code](https://girlswhocode.com/) Facilitator	
   * University of Illinois, 2017
@@ -156,8 +160,8 @@ Service and Leadership
   
 Memberships
 ======
-* Student member of the [Association for Computing Machinery (ACM)](https://www.acm.org/)
-* Student member of [ACM Special Interest Group on Human-Computer Interaction](https://sigchi.org/)
+* Member of the [Association for Computing Machinery (ACM)](https://www.acm.org/)
+* Member of [ACM Special Interest Group on Human-Computer Interaction](https://sigchi.org/)
 * Member of [Phi Beta Kappa Honor Society](https://www.pbk.org/)
 * Member of [Tau Beta Pi Honor Society](https://www.tbp.org/recruit/recruitHome.cfm)
 * Member of [UIUC Graduate Society of Women Engineers (GradSWE)](https://www.societyofwomenengineers.illinois.edu/about-gradswe)

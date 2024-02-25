@@ -15,9 +15,10 @@ TODO:
 * grad academy somewhere--teaching?
 * DIS 2022, fan conference
 * STARS https://cs.illinois.edu/broadening-participation-computing/programs/csambassadors (Simran: https://cs.illinois.edu/broadening-participation-computing/programs/csambassadors/participants/43164)
-* Blender
 * Rising Stars poster
 * Scholar link on cv page?
-* Remove ResearchGate project link
 * 465 evals
 * new paper, presentation, CSCW attendence 
+* UWEC page
+* Rachael
+* EIT

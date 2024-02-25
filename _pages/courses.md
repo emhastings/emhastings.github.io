@@ -102,6 +102,7 @@ excerpt: "List of courses taken by Emily."
 
 ### Workshops
 * [What You Need to Know: Essentials of Course Design](https://citl.illinois.edu/docs/default-source/workshop-series/2021-teaching-essentials-flyer.pdf?sfvrsn=2) (8 sessions, offered by UIUC CITL) 
+* [UWEC Teaching Academy for New Faculty](https://www.uwec.edu/center-excellence-teaching-learning/new-faculty-resources/)
 
 ### Coursera
 * [An Introduction to Accessibility and Inclusive Design (with Honors)](https://www.coursera.org/learn/accessibility) ([certificate](https://www.coursera.org/account/accomplishments/verify/MW2CR3TDPMB7))
@@ -110,3 +111,4 @@ excerpt: "List of courses taken by Emily."
 * [Planning a Career in User Experience](https://www.linkedin.com/learning/planning-a-career-in-user-experience/welcome?u=43607124) ([certificate](https://emhastings.github.io/files/certificates/planningUX.pdf))
 * [Learning Canvas](https://www.linkedin.com/learning/learning-canvas-2021/create-and-manage-courses-with-canvas?u=43607124) ([certificate](https://emhastings.github.io/files/certificates/canvas.pdf))
 * [Art and Illustration Careers: First Steps](https://www.linkedin.com/learning/art-and-illustration-careers-first-steps/welcome?u=43607124) ([certificate](https://emhastings.github.io/files/certificates/art.pdf))
+* [Ethics in the Age of Generative AI](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/generative-ai-and-ethics-the-urgency-of-now?u=43607124) ([certificate](https://emhastings.github.io/files/certificates/aiethics.pdf)))) 
