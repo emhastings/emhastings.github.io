@@ -10,14 +10,14 @@ var addressPoints = [
     -95.9383758
   ],
   [
-    "Denver, Colorado",
-    39.7392364,
-    -104.984862
-  ],
-  [
     "Urbana, IL",
     40.1117174,
     -88.207301
+  ],
+  [
+    "Denver, Colorado",
+    39.7392364,
+    -104.984862
   ],
   [
     "Jersey City, NJ",
