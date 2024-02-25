@@ -16,7 +16,6 @@ TODO:
 * DIS 2022, fan conference
 * STARS https://cs.illinois.edu/broadening-participation-computing/programs/csambassadors (Simran: https://cs.illinois.edu/broadening-participation-computing/programs/csambassadors/participants/43164)
 * Rising Stars poster
-* Scholar link on cv page?
 * 465 evals
 * new paper, presentation, CSCW attendence 
 * UWEC page

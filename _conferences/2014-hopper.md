@@ -2,8 +2,8 @@
 title: "Grace Hopper Celebration of Women in Computing 2014"
 collection: conferences
 type: "Conference"
-permalink: /conferences/2014-10-08-hopper
-date: 2014-10-08
+permalink: /conferences/10/8/2014-hopper
+date: 10/8/2014
 location: "Phoenix, AZ"
 excerpt: "Attended Grace Hopper Celebration of Women in Computing 2014"
 ---

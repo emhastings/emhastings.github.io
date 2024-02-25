@@ -15,7 +15,7 @@ _Download: [Abridged CV](https://emhastings.github.io/files/cv.pdf) (Updated Feb
 Education
 ======
 * **Ph.D. in Computer Science**	
-  * University of Illinois, Urbana-Champaign, IL, 2016-Present
+  * University of Illinois, Urbana-Champaign, IL, 2016-2023
   * Specialization: Human-Computer Interaction
   * [Dissertation: Supporting Instructor Decisions on Algorithmic Team Formation through Integrating Stakeholder Voices](https://www.ideals.illinois.edu/items/127443)
   * Advisors: [Brian Bailey](http://orchid.cs.illinois.edu/people/bailey/index.html), [Karrie Karahalios](http://social.cs.uiuc.edu/people/karriekarahalios.html)

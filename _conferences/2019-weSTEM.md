@@ -2,8 +2,8 @@
 title: "Women Empowered in STEM (weSTEM) 2019"
 collection: conferences
 type: "Conference"
-permalink: /conferences/2019-02-23-weSTEM
-date: 2019-02-23
+permalink: /conferences/2/23/2019-weSTEM
+date: 2/23/2019
 location: "Champaign, IL"
 excerpt: "Attended Women Empowered in STEM (weSTEM) 2019"
 ---
