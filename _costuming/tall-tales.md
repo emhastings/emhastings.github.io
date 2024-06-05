@@ -10,7 +10,7 @@ header:
 flexgallery:
   - aspect: "0.7491"
     url: https://emhastings.github.io/images/tall-tales/jt.jpg
-    image_path: https://emhastings.github.io/images/tall-tales/plates-th.jpg
+    image_path: https://emhastings.github.io/images/tall-tales/jt-th.jpg
     alt: "JT"
   - aspect: "0.7491"
     url: https://emhastings.github.io/images/tall-tales/lallie.jpg
