@@ -6,16 +6,25 @@ author_profile: true
 layout: archive
 excerpt: "Designs for characters from Robert Schenkkan's The Kentucky Cycle Part Two: Tall Tales."
 header:
-  teaser: https://emhastings.github.io/images/tall-tales/plates.JPG
+  teaser: https://emhastings.github.io/images/tall-tales/jt.jpg
 flexgallery:
-  - aspect: "1.3333"
-    url: https://emhastings.github.io/images/tall-tales/plates.JPG
+  - aspect: "0.7491"
+    url: https://emhastings.github.io/images/tall-tales/jt.jpg
     image_path: https://emhastings.github.io/images/tall-tales/plates-th.jpg
-    alt: "Plates for the three characters"
-  - aspect: ".75"
-    url: https://emhastings.github.io/images/tall-tales/all.JPG
-    image_path: https://emhastings.github.io/images/tall-tales/all-th.jpg
-    alt: "Plates plus inspiration images"
+    alt: "JT"
+  - aspect: "0.7491"
+    url: https://emhastings.github.io/images/tall-tales/lallie.jpg
+    image_path: https://emhastings.github.io/images/tall-tales/lallie-th.jpg
+    alt: "Lallie"
+	end_row: "true"
+  - aspect: "0.7491"
+    url: https://emhastings.github.io/images/tall-tales/mary-ann.jpg
+    image_path: https://emhastings.github.io/images/tall-tales/mary-ann-th.jpg
+    alt: "Mary Ann"
+  - aspect: "1.3325"
+    url: https://emhastings.github.io/images/tall-tales/mood.jpg
+    image_path: https://emhastings.github.io/images/tall-tales/mood-th.jpg
+    alt: "Mood board"
 
 ---
 

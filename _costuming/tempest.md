@@ -17,8 +17,8 @@ flexgallery:
     image_path: https://emhastings.github.io/images/tempest/miranda-th.jpg
     alt: "Miranda"
   - aspect: "0.7491"
-    url: https://emhastings.github.io/images/tempest/spirits.JPG
-    image_path: https://emhastings.github.io/images/tempest/spirits-th.jpg
+    url: https://emhastings.github.io/images/tempest/spirit.jpg
+    image_path: https://emhastings.github.io/images/tempest/spirit-th.jpg
     alt: "Spirits"
   - aspect: "0.7491"
     url: https://emhastings.github.io/images/tempest/ariel.jpg
