@@ -16,7 +16,7 @@ flexgallery:
     url: https://emhastings.github.io/images/tall-tales/lallie.jpg
     image_path: https://emhastings.github.io/images/tall-tales/lallie-th.jpg
     alt: "Lallie"
-	end_row: "true"
+    end_row: "true"
   - aspect: "0.7491"
     url: https://emhastings.github.io/images/tall-tales/mary-ann.jpg
     image_path: https://emhastings.github.io/images/tall-tales/mary-ann-th.jpg

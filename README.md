@@ -5,7 +5,6 @@ Thanks to @iyeraravind for the flexgallery include (https://github.com/iyeraravi
 TODO:
 * Creative
   * Costumes: 
-    * Better Tall Tales plates
 	* new faire, smock
   * Punchneedle, cross-stitch, weaving, spinning
 * Mentoring on CV
