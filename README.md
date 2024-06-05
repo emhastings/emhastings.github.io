@@ -5,7 +5,6 @@ Thanks to @iyeraravind for the flexgallery include (https://github.com/iyeraravi
 TODO:
 * Creative
   * Costumes: 
-    * Better Tempest plates
     * Better Tall Tales plates
   * Punchneedle, cross-stitch, weaving, spinning
 * Mentoring on CV
@@ -18,3 +17,5 @@ TODO:
 * 465 evals
 * new paper, presentation
 * UWEC page
+* New course pages
+* EIT conference on confs, cv

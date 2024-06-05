@@ -6,25 +6,41 @@ author_profile: true
 layout: archive
 excerpt: "Designs for characters from William Shakespeare's The Tempest."
 header:
-  teaser: https://emhastings.github.io/images/tempest/island.JPG
+  teaser: https://emhastings.github.io/images/tempest/prospero.JPG
 flexgallery:
-  - aspect: "1.3333"
-    url: https://emhastings.github.io/images/tempest/island.JPG
-    image_path: https://emhastings.github.io/images/tempest/island-th.jpg
-    alt: "Prospero and Miranda"
-  - aspect: "1.3333"
+  - aspect: "0.7491"
+    url: https://emhastings.github.io/images/tempest/prospero.JPG
+    image_path: https://emhastings.github.io/images/tempest/prospero-th.jpg
+    alt: "Prospero"
+  - aspect: "0.7491"
+    url: https://emhastings.github.io/images/tempest/miranda.JPG
+    image_path: https://emhastings.github.io/images/tempest/miranda-th.jpg
+    alt: "Miranda"
+  - aspect: "0.7491"
     url: https://emhastings.github.io/images/tempest/spirits.JPG
     image_path: https://emhastings.github.io/images/tempest/spirits-th.jpg
-    alt: "Spirits and Ariel"
+    alt: "Spirits"
+  - aspect: "0.7491"
+    url: https://emhastings.github.io/images/tempest/ariel.JPG
+    image_path: https://emhastings.github.io/images/tempest/ariel-th.jpg
+    alt: "Ariel"
     end_row: "true"
-  - aspect: "1.3333"
-    url: https://emhastings.github.io/images/tempest/naples.JPG
-    image_path: https://emhastings.github.io/images/tempest/naples-th.jpg
-    alt: "Alonso and Ferdinand"
-  - aspect: "1.3333"
-    url: https://emhastings.github.io/images/tempest/other.JPG
-    image_path: https://emhastings.github.io/images/tempest/other-th.jpg
-    alt: "Trinculo and Boatswain"
+  - aspect: "0.7491"
+    url: https://emhastings.github.io/images/tempest/alonso.JPG
+    image_path: https://emhastings.github.io/images/tempest/alonso-th.jpg
+    alt: "Alonso"
+  - aspect: "0.7491"
+    url: https://emhastings.github.io/images/tempest/ferdinand.JPG
+    image_path: https://emhastings.github.io/images/tempest/ferdinand-th.jpg
+    alt: "Ferdinand"
+  - aspect: "0.7491"
+    url: https://emhastings.github.io/images/tempest/trinculo.JPG
+    image_path: https://emhastings.github.io/images/tempest/trinculo-th.jpg
+    alt: "Trinculo"
+  - aspect: "0.7491"
+    url: https://emhastings.github.io/images/tempest/boatswain.JPG
+    image_path: https://emhastings.github.io/images/tempest/boatswain-th.jpg
+    alt: "Boatswain"	
   - aspect: "0.7491"
     url: https://emhastings.github.io/images/tempest/mood.jpg
     image_path: https://emhastings.github.io/images/tempest/mood-th.jpg
