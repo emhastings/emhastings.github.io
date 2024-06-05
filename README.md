@@ -4,8 +4,6 @@ Thanks to @iyeraravind for the flexgallery include (https://github.com/iyeraravi
 
 TODO:
 * Creative
-  * Costumes: 
-	* new faire, smock
   * Punchneedle, cross-stitch, weaving, spinning
 * Mentoring on CV
 * fix NIST citation (issue number), check others to be consistent (fixed on doc)
