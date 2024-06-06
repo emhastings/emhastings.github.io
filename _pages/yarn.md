@@ -105,7 +105,7 @@ I am also working on writing patterns for some of my other designs, to be publis
 ---
 
 ## Selected Projects  
-I have over 350 projects [on Ravelry](https://www.ravelry.com/projects/Emily-H)! These are a few of my favorites.
+I have over 400 projects [on Ravelry](https://www.ravelry.com/projects/Emily-H)! These are a few of my favorites.
 
 {% include flexgallery id="favorites" caption="Some projects."%}
 
