@@ -4,16 +4,13 @@ Thanks to @iyeraravind for the flexgallery include (https://github.com/iyeraravi
 
 TODO:
 * Creative
-  * Punchneedle, cross-stitch, weaving, spinning
+  * Punchneedle, cross-stitch, weaving, spinning?
 * Mentoring on CV
 * fix NIST citation (issue number), check others to be consistent (fixed on doc)
 * SIGCSE paper/presentation
-* New portraits
 * grad academy somewhere--teaching?
 * STARS https://cs.illinois.edu/broadening-participation-computing/programs/csambassadors (Simran: https://cs.illinois.edu/broadening-participation-computing/programs/csambassadors/participants/43164)
 * Rising Stars poster
-* 465 evals
 * new paper, presentation
 * UWEC page
-* New course pages
 * EIT conference on confs, cv
