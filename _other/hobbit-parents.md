@@ -1,30 +1,31 @@
 ---
 title: "Hobbit Parents"
 author: Creative
-date: 2018-10-30
+date: 2021-10-13
 author_profile: true
 layout: archive
 excerpt: "Portraits of my parents in the style of Bungo and Belladonna Baggins."
 header:
   teaser: https://emhastings.github.io/images/other/both.jpg
 flexgallery:
+  - aspect: "0.7505"
+    url: https://emhastings.github.io/images/other/mama.jpg
+    image_path: https://emhastings.github.io/images/other/mama-th.jpg
+    alt: "Updated portrait of Emily's mom."  
+  - aspect: "0.7505"
+    url: https://emhastings.github.io/images/other/dad.jpg
+    image_path: https://emhastings.github.io/images/other/dad-th.jpg
+    alt: "Updated portrait of Emily's dad." 
   - aspect: "1.3333"
     url: https://emhastings.github.io/images/other/both.jpg
     image_path: https://emhastings.github.io/images/other/both-th.jpg
-    alt: "Portraits"    
-  - aspect: "0.7143"
-    url: https://emhastings.github.io/images/other/mama.jpg
-    image_path: https://emhastings.github.io/images/other/mama-th.jpg
-    alt: "Portraits"  
-  - aspect: "0.7143"
-    url: https://emhastings.github.io/images/other/dad.jpg
-    image_path: https://emhastings.github.io/images/other/dad-th.jpg
-    alt: "Portraits"     
+    alt: "Original portraits framed."    
     end_row: "true"
 
 ---
 
 Portraits I painted of my parents to look like those of Bungo and Belladonna Baggins hanging above the fireplace of Bag End in the Hobbit and Lord of the Rings movies (see image below by Criatura del Bosque on Flickr).
+Originals (right) were painted in 2018, updated versions (left) in 2021.
 
 {% include flexgallery caption="" %}
 
