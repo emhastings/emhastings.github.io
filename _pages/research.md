@@ -14,14 +14,14 @@ I have also previously conducted research outside of CS for my undergraduate min
 
 # Current Projects
 
-I am currently establishing my research agenda at UW-Eau Claire. Check back for updates!
+I am currently establishing my research agenda at UW-Eau Claire, in the realm of human-computer interaction and CS education. Check back for updates, or feel free to reach out if you are looking to collaborate!
 
 ---
 
 # Past Projects
 
 ## Learner-Centered Algorithmic Team Formation
-_Fall 2016 – 2024  
+_Fall 2016 – 2024_  
 _Advisors: [Brian Bailey](http://orchid.cs.illinois.edu/people/bailey/index.html), [Karrie Karahalios](http://social.cs.uiuc.edu/people/karriekarahalios.html), [Darko Marinov](http://mir.cs.illinois.edu/marinov/)_ _ 
 
 Instructors are increasingly adopting team-based learning in their courses in a response to demands from industry. One of the first decisions instructors encounter when adopting this approach is how exactly the teams should be formed. A popular approach supported by the literature is a criteria-based one, where students are grouped into teams according to criteria such as demographics, skills, and working styles. As course enrollments grow, instructors are increasingly turning to algorithmic tools like [CATME](https://info.catme.org) to implement this team formation approach in their courses. However, not much is known about how to most effectively use these tools to support student learning and promote good teamwork experiences.  
