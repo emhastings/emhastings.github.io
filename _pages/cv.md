@@ -111,6 +111,9 @@ Awards and Honors
 
 Certifications
 ======
+* Social and Behavioral Responsible Conduct of Research
+  * [By CITI Program](https://about.citiprogram.org/series/responsible-conduct-of-research-rcr/?gad_source=1&gclid=CjwKCAjw4_K0BhBsEiwAfVVZ_ztFs3oN4ucwwXKHHs7D1JX0tA1pWANpfNo9quvdaYxukbWR_wYAtRoCqzgQAvD_BwE)
+  * Credentials: [Social and Behavioral Research Basic Course](https://www.citiprogram.org/verify/?w8eceb7e9-0938-4519-931a-8c8b0d3e353f-48346627), [Social and Behavioral RCR](https://www.citiprogram.org/verify/?w77b3eae2-2d83-404f-acd1-6db27604584c-47901278) 
 * Certificate in Foundations of Teaching
   * [By University of Illinois Urbana-Champaign Center for Innovation in Teaching and Learning (CITL)](https://citl.illinois.edu/citl-101/teaching-learning/teaching-certificates/certificate-in-foundations-of-teaching)
   * [Certificate](https://emhastings.github.io/files/CITLFoundationsCert.pdf) 
