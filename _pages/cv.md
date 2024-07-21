@@ -91,7 +91,7 @@ Talks and Posters
   
 Awards and Honors
 ======
-* [List of Teachers Ranked as Excellent By Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent), University of Illinois, 2021
+* [List of Teachers Ranked as Excellent By Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent), University of Illinois, 2021-2022
 * Inducted into [Tau Beta Pi](https://www.tbp.org/recruit/recruitHome.cfm), University of Illinois, 2021
 * Invited participant to [Rising Stars in EECS 2020](https://eecs.berkeley.edu/rising-stars-2020)
 * [Mavis Future Faculty Fellowship](https://publish.illinois.edu/engr-mavis/), University of Illinois, 2020-2021
@@ -144,7 +144,13 @@ Skills
 Service and Leadership
 ======
 * Registration co-chair for [IEEE EIT 2024](https://www.eit-conference.org/eit2024/index.php)
-* Reviewer for [ACM CHI](https://chi.acm.org/), [ACM CSCW](https://cscw.acm.org/), [Behaviour and Information Technology](https://www.tandfonline.com/toc/tbit20/current)
+* Reviewer for [ACM CHI](https://chi.acm.org/), [ACM CSCW](https://cscw.acm.org/), [Behaviour and Information Technology](https://www.tandfonline.com/toc/tbit20/current), [IEEE EIT](https://www.eit-conference.org/eit2024/)
+* [CS STARS](https://cs.illinois.edu/broadening-participation-computing/programs/csambassadors) Research Mentor
+  * University of Illinois, 2022
+  * Supervised [undergraduate student research project](https://cs.illinois.edu/broadening-participation-computing/programs/csambassadors/participants/43164).
+* Grad Academy Small Group Leader
+  * University of Illinois, 2021
+  * Co-led a training session for new CS teaching assistants.
 * [Girls Who Code](https://girlswhocode.com/) Facilitator	
   * University of Illinois, 2017
   * Assisted students during weekly club meetings.
