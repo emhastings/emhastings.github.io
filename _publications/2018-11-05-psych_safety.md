@@ -7,8 +7,8 @@ date: 2018-11-05
 venue: 'Proceedings of the ACM on Human-Computer Interaction - CSCW'
 paperurl: 'https://dl.acm.org/citation.cfm?id=3274337'
 download: 'https://emhastings.github.io/files/structure-or-nurture.pdf'
-citation: 'Hastings, E. M., Jahanbakhsh, F., Karahalios, K., Marinov, D., &amp; Bailey, B. P. (2018). Structure or Nurture?: The Effects of Team-Building Activities and Team Composition on Team Outcomes. *Proceedings of the ACM on Human-Computer Interaction, 2*(CSCW), 68.'
-citationnital: 'Hastings, E. M., Jahanbakhsh, F., Karahalios, K., Marinov, D., &amp; Bailey, B. P. (2018). Structure or Nurture?: The Effects of Team-Building Activities and Team Composition on Team Outcomes. Proceedings of the ACM on Human-Computer Interaction, 2(CSCW), 68.'
+citation: 'Emily M. Hastings, Farnaz Jahanbakhsh, Karrie Karahalios, Darko Marinov, and Brian P. Bailey. 2018. Structure or Nurture? The Effects of Team-Building Activities and Team Composition on Team Outcomes. *Proc. ACM Hum.-Comput. Interact. 2*, CSCW, Article 68 (November 2018), 21 pages. https://doi.org/10.1145/3274337'
+citationnital: 'Emily M. Hastings, Farnaz Jahanbakhsh, Karrie Karahalios, Darko Marinov, and Brian P. Bailey. 2018. Structure or Nurture? The Effects of Team-Building Activities and Team Composition on Team Outcomes. Proc. ACM Hum.-Comput. Interact. 2, CSCW, Article 68 (November 2018), 21 pages. https://doi.org/10.1145/3274337'
 tags: [team]
 ---
 
@@ -18,4 +18,4 @@ How can instructors group students into teams that interact and learn effectivel
 
 [Download author copy here](https://emhastings.github.io/files/structure-or-nurture.pdf)
 
-Recommended citation: Hastings, E. M., Jahanbakhsh, F., Karahalios, K., Marinov, D., & Bailey, B. P. (2018). Structure or Nurture?: The Effects of Team-Building Activities and Team Composition on Team Outcomes. *Proceedings of the ACM on Human-Computer Interaction, 2*(CSCW), 68.
+Recommended citation: Emily M. Hastings, Farnaz Jahanbakhsh, Karrie Karahalios, Darko Marinov, and Brian P. Bailey. 2018. Structure or Nurture? The Effects of Team-Building Activities and Team Composition on Team Outcomes. *Proc. ACM Hum.-Comput. Interact. 2*, CSCW, Article 68 (November 2018), 21 pages. https://doi.org/10.1145/3274337
