@@ -7,6 +7,5 @@ TODO:
   * Punchneedle, cross-stitch, weaving, spinning?
 * Mentoring on CV? (Simran, Vidushi, Jared? Maybe just start as professor)
 * Fix IJPHM paper link (download okay so not urgent)
+* Jared EIT poster? Maybe start new section. New student tab with prior mentees?
 
-
-*Update CV doc on page, LinkedIn, etc.
