@@ -8,4 +8,5 @@ TODO:
 * Mentoring on CV? (Simran, Vidushi, Jared? Maybe just start as professor)
 * Fix IJPHM paper link (download okay so not urgent)
 * Jared EIT poster? Maybe start new section. New student tab with prior mentees?
+* Try to add EIT reviews to Publons?
 
