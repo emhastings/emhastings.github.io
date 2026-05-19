@@ -146,6 +146,8 @@ Skills
 
 Service and Leadership
 ======
+* Faculty advisor for UWEC SACM
+  * University of Wisconsin-Eau Claire, 2024-present
 * Registration co-chair for [IEEE EIT 2024](https://www.eit-conference.org/eit2024/index.php)
 * Reviewer for [ACM CHI](https://chi.acm.org/), [ACM CSCW](https://cscw.acm.org/), [Behaviour and Information Technology](https://www.tandfonline.com/toc/tbit20/current), [IEEE EIT](https://www.eit-conference.org/eit2024/)
 * [CS STARS](https://cs.illinois.edu/broadening-participation-computing/programs/csambassadors) Research Mentor
