@@ -7,6 +7,9 @@ excerpt: "Places Emily and her work have been featured around the web."
 ---
 
 ## Academic
+  * [UW-Eau Claire faculty honored with University Fellows, Karlgaard awards \| University of Wisconsin-Eau Claire](https://www.uwec.edu/stories/uw-eau-claire-faculty-honored-university-fellows-karlgaard-awards-0) 
+  * [New artificial intelligence majors bring excitement, innovation to UW-Eau Claire \| University of Wisconsin-Eau Claire](https://www.uwec.edu/stories/new-artificial-intelligence-majors-bring-excitement-innovation-uw-eau-claire) 
+  * [Major in AI? UW System launches new programs \| The Daily Cardinal](https://www.dailycardinal.com/article/2025/11/major-in-ai-uw-system-launches-new-programs) 
   * [Fall 2022 List of Teachers Ranked as Excellent by Their Students \| University of Illinois Center for Innovation in Teaching and Learning](https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2022-fall.pdf)
   * [2022 Celebration of Excellence \| University of Illinois Computer Science](https://cs.illinois.edu/about/awards/celebration-2022)
   * [Spring 2021 List of Teachers Ranked as Excellent by Their Students \| University of Illinois Center for Innovation in Teaching and Learning](https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2021-spring.pdf)

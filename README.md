@@ -12,11 +12,9 @@ TODO:
   * Ethan
     *  Ethan CERCA
   * Sydney
-  * Hunter
+  * Ethan/Hunter
 * Fix IJPHM paper link (download okay so not urgent)
-* Try to add EIT reviews to Publons?
 * Fix Knoxel link
-* Panel link on press page? flyer
 * New CV doc upload
 * update CITI certificates
 * Teaching pages for FA courses
@@ -29,12 +27,8 @@ TODO:
   * Celebration of Scholarship
   * Math colloquium
 * Research section on e-textiles
-* Karlgaard award on cv page
-* SK Day on cv page
-* Children's museum on cv page
-* WEbsite editor on cv page
-* Madison article on press page
-* home page courses
 * revamp CV doc to be more accessible? (headings, etc)
-* ai article on press page
+* MICS attendance
+* new faculty orientation/workshops on courses page
+* Update LinkedIn
 

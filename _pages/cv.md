@@ -91,6 +91,7 @@ Talks and Posters
   
 Awards and Honors
 ======
+* [Karlgaard Faculty Excellence Award](https://www.uwec.edu/stories/uw-eau-claire-faculty-honored-university-fellows-karlgaard-awards-0), University of Wisconsin-Eau Claire, 2025-2026
 * [List of Teachers Ranked as Excellent By Their Students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent), University of Illinois, 2021-2022
 * Inducted into [Tau Beta Pi](https://www.tbp.org/recruit/recruitHome.cfm), University of Illinois, 2021
 * Invited participant to [Rising Stars in EECS 2020](https://eecs.berkeley.edu/rising-stars-2020)
@@ -146,9 +147,22 @@ Skills
 
 Service and Leadership
 ======
-* Faculty advisor for UWEC SACM
+* Honors College Affiliate
+  * University of Wisconsin-Eau Claire, 2026-2027
+* Member of CS Department Curriculum and Scholarship Committees
+  * University of Wisconsin-Eau Claire, 2026-present
+* Session chair for [MICS 2026](https://micsymposium.org/mics2026/)
+* [Brains & Bytes: Adventures of Search and Sort Games](https://www.facebook.com/events/1519392432643604/?rdid=sVhQOLOF30Wl3WPp&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F17LQrjB3i1%2F#) 
+  * University of Wisconsin-Eau Claire, 2025 
+  * Outreach event at The Children’s Museum of Eau Claire sponsored by the CS department. Assisted with planning and facilitating activities during the event. 
+* Website Editor for [UWEC Department of Computer Science](https://www.uwec.edu/academics/college-arts-and-sciences/departments-programs/computer-science-department)
+  * University of Wisconsin-Eau Claire, 2025-present
+* Faculty advisor for UWEC Student Association for Computing Machinery (SACM)
   * University of Wisconsin-Eau Claire, 2024-present
-* Registration co-chair for [IEEE EIT 2024](https://www.eit-conference.org/eit2024/index.php)
+* [Sonia Kovalevsky Day](https://www.uwec.edu/mathematics-department/sonia-kovalevsky-day)
+  * University of Wisconsin-Eau Claire, 2024
+  * Committee member and volunteer coordinator. Assisted with planning and facilitating activities during the event.
+* Registration co-chair, session chair for [IEEE EIT 2024](https://www.eit-conference.org/eit2024/index.php)
 * Reviewer for [ACM CHI](https://chi.acm.org/), [ACM CSCW](https://cscw.acm.org/), [Behaviour and Information Technology](https://www.tandfonline.com/toc/tbit20/current), [IEEE EIT](https://www.eit-conference.org/eit2024/)
 * [CS STARS](https://cs.illinois.edu/broadening-participation-computing/programs/csambassadors) Research Mentor
   * University of Illinois, 2022
