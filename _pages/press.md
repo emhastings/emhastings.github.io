@@ -7,7 +7,10 @@ excerpt: "Places Emily and her work have been featured around the web."
 ---
 
 ## Academic
+  * [UWEC CS Department LinkedIn on Karlgaard Award](https://www.linkedin.com/posts/uwec-department-of-computer-science_nine-high-achieving-faculty-members-from-activity-7459620781082451969-1sTn?utm_source=share&utm_medium=member_desktop&rcm=ACoAABqew3EBWK7ktc9IwzJhiMDTs0GFVWKYST8) 
   * [UW-Eau Claire faculty honored with University Fellows, Karlgaard awards \| University of Wisconsin-Eau Claire](https://www.uwec.edu/stories/uw-eau-claire-faculty-honored-university-fellows-karlgaard-awards-0) 
+  * UWEC Sustainability Coordinator LinkedIn posts on Sustainability and AI panel: [1](https://www.linkedin.com/posts/lily-strehlow_one-of-our-stellar-students-at-the-university-activity-7445099529588125697-rh5A?utm_source=share&utm_medium=member_desktop&rcm=ACoAABqew3EBWK7ktc9IwzJhiMDTs0GFVWKYST8), [2](https://www.linkedin.com/posts/lily-strehlow_yesterday-was-the-sustainability-and-ai-panel-ugcPost-7450886532514701313-5N6X?utm_source=share&utm_medium=member_desktop&rcm=ACoAABqew3EBWK7ktc9IwzJhiMDTs0GFVWKYST8)
+  * [UWEC CS Department LinkedIn on e-textiles workshop](https://www.linkedin.com/posts/uwec-department-of-computer-science_last-week-emily-hastings-phdand-student-ugcPost-7432147784163622912-E0WD?utm_source=share&utm_medium=member_desktop&rcm=ACoAABqew3EBWK7ktc9IwzJhiMDTs0GFVWKYST8)
   * [New artificial intelligence majors bring excitement, innovation to UW-Eau Claire \| University of Wisconsin-Eau Claire](https://www.uwec.edu/stories/new-artificial-intelligence-majors-bring-excitement-innovation-uw-eau-claire) 
   * [Major in AI? UW System launches new programs \| The Daily Cardinal](https://www.dailycardinal.com/article/2025/11/major-in-ai-uw-system-launches-new-programs) 
   * [Fall 2022 List of Teachers Ranked as Excellent by Their Students \| University of Illinois Center for Innovation in Teaching and Learning](https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2022-fall.pdf)

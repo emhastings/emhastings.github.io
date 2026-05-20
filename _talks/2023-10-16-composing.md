@@ -8,7 +8,7 @@ date: 2023-10-16
 location: "Minneapolis, MN"
 excerpt: "Presentation of [conference paper](https://emhastings.github.io/publication/2023-10-14-composing).  
 [Download](https://emhastings.github.io/files/composing.pptx)"
-
+tags: [team]
 ---
 
 Conference presentation  

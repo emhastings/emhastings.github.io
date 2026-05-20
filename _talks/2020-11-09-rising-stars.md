@@ -5,7 +5,7 @@ type: "Poster"
 permalink: /talks/2020-11-09-rising-stars
 venue: "EECS Rising Stars 2020"
 excerpt: "[Download](https://emhastings.github.io/files/rising-stars.pptx)"
-
+tags: [team]
 ---
 
 Poster  
