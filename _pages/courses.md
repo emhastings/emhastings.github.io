@@ -102,7 +102,14 @@ excerpt: "List of courses taken by Emily."
 
 ### Workshops
 * [What You Need to Know: Essentials of Course Design](https://citl.illinois.edu/docs/default-source/workshop-series/2021-teaching-essentials-flyer.pdf?sfvrsn=2) (8 sessions, offered by UIUC CITL) 
+* Summer Learning: Supporting Student Success (course offered by UWEC CETL, [certificate](https://emhastings.github.io/files/certificates/ssc.pdf))
+* Kognito At-Risk Mental Health for Faculty and Staff ([certificate](https://emhastings.github.io/files/certificates/kognito.pdf))
 * [UWEC Teaching Academy for New Faculty](https://www.uwec.edu/center-excellence-teaching-learning/new-faculty-resources/)
+  * Accessibility Training for Instructors
+  * Your Syllabus as a Tool to Promote Student Equity, Belonging, and Growth
+  * Transparent Design Framework
+  * Creating Inclusive Classrooms
+  * Universal Design for Learning
 
 ### Coursera
 * [An Introduction to Accessibility and Inclusive Design (with Honors)](https://www.coursera.org/learn/accessibility) ([certificate](https://www.coursera.org/account/accomplishments/verify/MW2CR3TDPMB7))

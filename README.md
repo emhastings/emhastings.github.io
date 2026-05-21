@@ -13,13 +13,9 @@ TODO:
     *  Ethan CERCA
   * Sydney
   * Ethan/Hunter
-* Fix IJPHM paper link (download okay so not urgent)
-* Fix Knoxel link
 * New CV doc upload
-* update CITI certificates
 * Research section on e-textiles
 * revamp CV doc to be more accessible? (headings, etc)
-* new faculty orientation/workshops on courses page
 * Update LinkedIn
 * Sync with upstream changes?
 * MICS 2026 paper link when posted. Check https://micsymposium.org/earlier.htm

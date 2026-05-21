@@ -72,7 +72,7 @@ _Advisor: [Jaime Spacco](https://www.knox.edu/academics/majors-and-minors/comput
 
 During my ASSET scholarship, I worked with a team to develop an educational plugin for the game Minecraft that helps teach introductory computer science students to program in Java and similar languages. One of the main objectives of Minecraft is to build various structures out of blocks. Our project, which we named [Knoxel (formerly Knoxcraft)](https://github.com/knoxcraft), forces students to do this by writing code in Java (or another language of their instructor’s choice—we support Java, Python, and Blockly, and have a framework for users to extend Knoxel to work with potentially any programming language). This environment allows students to become comfortable with the process of programming in a fun and visual context they may already be familiar with, and may help make computer science as a field more accessible to those groups who are currently underrepresented.  
 
-We piloted Knoxel in CS 141 during the Fall 2015 term and received very positive feedback from students. Since my time on the project has ended, Knoxel has grown to include a [simple web interface](knoxcraft.github.io) for students who do not have or wish to buy the full Minecraft game.
+We piloted Knoxel in CS 141 during the Fall 2015 term and received very positive feedback from students. Since my time on the project has ended, Knoxel has grown to include a [simple web interface](https://jspacco.github.io/knoxel/) for students who do not have or wish to buy the full Minecraft game.
 
 _Associated Presentations:_
   <ul>{% for post in site.talks reversed %}
