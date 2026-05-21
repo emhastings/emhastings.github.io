@@ -21,14 +21,8 @@ TODO:
 * Paper pages for 
   * Jared paper https://micsymposium.org/mics2025/wp-content/uploads/2025/04/Proceedings_of_MICS_2025.pdf , Ethan paper
   * Ethan paper/C&C conf/presentations https://dl.acm.org/doi/10.1145/3698061.3733252 
-* Presentation pages for
-  * AI panel (flyer)
-  * Ethan C&C
-  * Celebration of Scholarship
-  * Math colloquium
 * Research section on e-textiles
 * revamp CV doc to be more accessible? (headings, etc)
-* MICS attendance
 * new faculty orientation/workshops on courses page
 * Update LinkedIn
 
