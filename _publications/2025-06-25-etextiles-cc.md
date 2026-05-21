@@ -1,0 +1,21 @@
+---
+title: "A Review of E-Textiles in Learning Environments"
+collection: publications
+permalink: /publication/2025-06-25-etextiles-cc
+excerpt: 'The field of electronic textiles (e-textiles) combines digital technology with textile objects, and has applications in fields such as wearable computing, theatrical design, and medicine. Prior work has examined deploying this technology in educational settings, to teach such skills as circuit design, computer programming, and iterative design. However, e-textile-based learning materials are still not commonly used, and more validated examples of such interventions would be valuable. The aim of this project is to investigate the state of the art in e-textile technology, especially in educational contexts, and to develop and evaluate an e-textiles intervention which could be deployed in a classroom or extra-curricular setting to teach introductory programming skills. So far, we have conducted a literature review examining applications of e-textiles in learning environments. For example, in one study, the researchers provided a safe environment for children with ASD (Autism Spectrum Disorder) to create their own sensory haptic toy. We found that many of the studies targeted middle and high school age children as a way to gauge and increase their knowledge of electricity and sewing techniques, but not many examined undergraduates. Therefore, in future work, we plan to conduct an experiment investigating the effectiveness of e-textiles in undergraduate learning.'
+date: 2025-06-25
+venue: 'Proceedings of the 2025 Conference on Creativity and Cognition (C&amp;C &apos;25)'
+paperurl: 'https://dl.acm.org/doi/full/10.1145/3698061.3733252'
+download: 'https://emhastings.github.io/files/ethan.pdf'
+citation: 'Ethan Behrendt and Emily M. Hastings. 2025. A Review of E-Textiles in Learning Environments. In *Proceedings of the 2025 Conference on Creativity and Cognition (C&amp;C &apos;25)*. Association for Computing Machinery, New York, NY, USA, 508-511. https://doi.org/10.1145/3698061.3733252'
+citationnital: 'Ethan Behrendt and Emily M. Hastings. 2025. A Review of E-Textiles in Learning Environments. In Proceedings of the 2025 Conference on Creativity and Cognition (C&amp;C &apos;25). Association for Computing Machinery, New York, NY, USA, 508-511. https://doi.org/10.1145/3698061.3733252'
+tags: [etextiles]
+---
+
+The field of electronic textiles (e-textiles) combines digital technology with textile objects, and has applications in fields such as wearable computing, theatrical design, and medicine. Prior work has examined deploying this technology in educational settings, to teach such skills as circuit design, computer programming, and iterative design. However, e-textile-based learning materials are still not commonly used, and more validated examples of such interventions would be valuable. The aim of this project is to investigate the state of the art in e-textile technology, especially in educational contexts, and to develop and evaluate an e-textiles intervention which could be deployed in a classroom or extra-curricular setting to teach introductory programming skills. So far, we have conducted a literature review examining applications of e-textiles in learning environments. For example, in one study, the researchers provided a safe environment for children with ASD (Autism Spectrum Disorder) to create their own sensory haptic toy. We found that many of the studies targeted middle and high school age children as a way to gauge and increase their knowledge of electricity and sewing techniques, but not many examined undergraduates. Therefore, in future work, we plan to conduct an experiment investigating the effectiveness of e-textiles in undergraduate learning.
+
+[Access online here](https://dl.acm.org/doi/full/10.1145/3698061.3733252)
+
+[Download author copy here](https://emhastings.github.io/files/ethan.pdf)
+
+Recommended citation: Ethan Behrendt and Emily M. Hastings. 2025. A Review of E-Textiles in Learning Environments. In *Proceedings of the 2025 Conference on Creativity and Cognition (C&C '25)*. Association for Computing Machinery, New York, NY, USA, 508-511. https://doi.org/10.1145/3698061.3733252
