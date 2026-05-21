@@ -17,12 +17,10 @@ TODO:
 * Fix Knoxel link
 * New CV doc upload
 * update CITI certificates
-* Teaching pages for FA courses
-* Paper pages for 
-  * Jared paper https://micsymposium.org/mics2025/wp-content/uploads/2025/04/Proceedings_of_MICS_2025.pdf , Ethan paper
-  * Ethan paper/C&C conf/presentations https://dl.acm.org/doi/10.1145/3698061.3733252 
 * Research section on e-textiles
 * revamp CV doc to be more accessible? (headings, etc)
 * new faculty orientation/workshops on courses page
 * Update LinkedIn
+* Sync with upstream changes?
+* MICS 2026 paper link when posted. Check https://micsymposium.org/earlier.htm
 
