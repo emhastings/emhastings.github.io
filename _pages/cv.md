@@ -80,7 +80,7 @@ Teaching Experience
 Student Research Supervised
 ======
   <ul>{% for post in site.students reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-student-cv.html %}
   {% endfor %}</ul>
 
 Publications

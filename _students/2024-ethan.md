@@ -1,6 +1,7 @@
 ---
 title: "Ethan Behrendt"
 collection: students
+type: "Undergraduate research"
 permalink: /student/2024-ethan
 excerpt: 'A Review of E-Textiles in Learning Environments'
 date: 2024-09-01

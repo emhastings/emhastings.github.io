@@ -8,6 +8,6 @@ excerpt: "Research and Honors students advised by Emily."
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+{% for post in site.students reversed %}
   {% include archive-single.html %}
 {% endfor %}

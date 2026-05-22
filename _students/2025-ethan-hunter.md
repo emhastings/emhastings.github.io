@@ -1,6 +1,7 @@
 ---
 title: "Ethan Behrendt and Hunter McDaniel"
 collection: students
+type: "Undergraduate research"
 permalink: /student/2025-ethan-hunter
 excerpt: 'Using E-Textiles for Undergraduate Learning'
 date: 2025-09-03

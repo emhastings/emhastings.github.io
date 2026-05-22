@@ -246,6 +246,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _students
+  - scope:
+      path: ""
+      type: students
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:

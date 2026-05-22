@@ -1,6 +1,7 @@
 ---
 title: "Jared B. Jones (with Drs. Jim Seliya and Ben Fine)"
 collection: students
+type: "Undergraduate research"
 permalink: /student/2024-jared
 excerpt: 'An Overview of Gender and Politcal Biases in LLMs'
 date: 2024-02-01

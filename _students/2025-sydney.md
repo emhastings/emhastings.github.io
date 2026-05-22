@@ -1,6 +1,7 @@
 ---
 title: "Sydney Hoffman (with Dr. Jennine Fox)"
 collection: students
+type: "Honors thesis"
 permalink: /student/2025-sydney
 excerpt: 'Consumer Perceptions of AI-Generated vs. Human-Generated Marketing: Insights and Best Practices'
 date: 2025-08-03
