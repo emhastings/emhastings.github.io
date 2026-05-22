@@ -9,7 +9,7 @@ venue: "University of Wisconsin-Eau Claire, Mark Stephen Cosby Honors College"
 tags: [ai]
 ---
 
-Fall 2025
+Fall 2025  
 [Sydney's LinkedIn](https://www.linkedin.com/in/sydney-hoffman-uwec/)
 
 Honors thesis co-supervised with Dr. Jennine Fox. First Honors thesis from the UWEC College of Business.

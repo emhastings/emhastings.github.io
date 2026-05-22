@@ -17,7 +17,7 @@ flexgallery:
     image_path: https://emhastings.github.io/images/ethan-hunter/hunter-th.jpg
     alt: "Hunter presenting at MICS"  
   - aspect: "0.75"
-    url: https://emhastings.github.io/images/ethan-hunter/cerca.JPG
+    url: https://emhastings.github.io/images/ethan-hunter/cerca.jpg
     image_path: https://emhastings.github.io/images/ethan-hunter/cerca-th.jpg
     alt: "Ethan and Hunter presenting their CERCA poster"     
     end_row: "true"
