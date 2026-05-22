@@ -77,6 +77,12 @@ Teaching Experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Student Research Supervised
+======
+  <ul>{% for post in site.students reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}

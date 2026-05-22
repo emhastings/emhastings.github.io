@@ -11,6 +11,9 @@ main:
     
   - title: "Research"
     url: /research/
+    
+  - title: "Students"
+    url: /students/
 
   - title: "Teaching"
     url: /teaching/
@@ -21,6 +24,4 @@ main:
   - title: "Press"
     url: /press/
     
-  - title: "Blog Posts"
-    url: /year-archive/
     

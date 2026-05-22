@@ -5,14 +5,6 @@ Thanks to @iyeraravind for the flexgallery include (https://github.com/iyeraravi
 TODO:
 * Creative
   * Punchneedle, cross-stitch, weaving, spinning? Elizabethan embroidery
-* Mentoring on CV page
-  * Jared
-    * Jared EIT poster (2nd place)(have the poster somewhere)
-	* MICS presentation
-  * Ethan
-    *  Ethan CERCA
-  * Sydney
-  * Ethan/Hunter
 * New CV doc upload
 * Research section on e-textiles
 * revamp CV doc to be more accessible? (headings, etc)
