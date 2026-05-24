@@ -8,7 +8,7 @@ date: 2024-10-02
 location: "Eau Claire, WI"
 excerpt: "See [flyer](https://emhastings.github.io/files/ai-panel.pdf). Panel can be seen [here](https://youtu.be/eKExrPfPvSA?).  
 "
-
+tags: [ai]
 ---
 
 Panel discussion  

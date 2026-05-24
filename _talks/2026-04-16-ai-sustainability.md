@@ -8,7 +8,7 @@ date: 2026-04-16
 location: "Eau Claire, WI"
 excerpt: "See [flyer](https://emhastings.github.io/files/ai-sustainability-poster.pdf).  
 [Download](https://emhastings.github.io/files/ai-sustainability.pdf)"
-
+tags: [ai]
 ---
 
 Talk  
