@@ -6,7 +6,6 @@ TODO:
 * Creative
   * weaving (especially e-textiles- maybe whole section?), Elizabethan embroidered box
   * Stardew portraits? St. Cecilia page, lake painting, helmet, flower paintings?, machine covers, red dress?
-* Research section on e-textiles, ai
 * revamp CV doc to be more accessible? (headings, etc)
 * Update LinkedIn
 * Sync with upstream changes from template?

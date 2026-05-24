@@ -3,18 +3,70 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-excerpt: "My overarching research interest lies in using technology to create educational tools, particularly for CS or broader STEM education. My dissertation research focused on the use of algorithmic team formation tools in courses implementing team-based approaches to learning. I also worked on a project for my fellowship with NIST on quantifying human skill level from historical data, which is useful both in the context of team formation and in other disciplines such as manufacturing maintenance. I have also previously conducted research outside of CS for my undergraduate minor in Renaissance and Medieval Studies, and I remain interested in similar work and in projects combining CS with other academic fields or creative endeavors (e.g., digital humanities, e-textiles, etc.)."
+excerpt: "My overarching interest lies in using technology to create educational tools, particularly for computer science or broader STEM education. Most of my work is interdisciplinary in nature and draws on knowledge and techniques from human-computer interaction and other related areas. My current research examines possibilities for using electronic textiles (e-textiles) for teaching CS and technology content at an undergraduate level. My dissertation research focused on the use of algorithmic team formation tools in courses implementing team-based approaches to learning. I also worked on a project for my fellowship with NIST on quantifying human skill level from historical data, which is useful both in the context of team formation and in other disciplines such as manufacturing maintenance. I have also previously conducted research outside of CS for my undergraduate minor in Renaissance and Medieval Studies, and I remain interested in similar work and in projects combining CS with other academic fields or creative endeavors (e.g., digital humanities, etc.). Check back for updates, or feel free to reach out if you are looking to collaborate!"
 ---
 
-My overarching research interest lies in using technology to create educational tools, particularly for CS or broader STEM education. My dissertation research focused on the use of algorithmic team formation tools in courses implementing team-based approaches to learning. I also worked on a project for my fellowship with NIST on quantifying human skill level from historical data, which is useful both in the context of team formation and in other disciplines such as manufacturing maintenance.
+My overarching interest lies in using technology to create educational tools, particularly for computer science or broader STEM education. Most of my work is interdisciplinary in nature and draws on knowledge and techniques from human-computer interaction and other related areas. My current research examines possibilities for using electronic textiles (e-textiles) for teaching CS and technology content at an undergraduate level. My dissertation research focused on the use of algorithmic team formation tools in courses implementing team-based approaches to learning. I also worked on a project for my fellowship with NIST on quantifying human skill level from historical data, which is useful both in the context of team formation and in other disciplines such as manufacturing maintenance.
 
-I have also previously conducted research outside of CS for my undergraduate minor in Renaissance and Medieval Studies, and I remain interested in similar work and in projects combining CS with other academic fields or creative endeavors (e.g., digital humanities, e-textiles, etc.).
+I have also previously conducted research outside of CS for my undergraduate minor in Renaissance and Medieval Studies, and I remain interested in similar work and in projects combining CS with other academic fields or creative endeavors (e.g., digital humanities, etc.).
+
+Check back for updates, or feel free to reach out if you are looking to collaborate!
 
 ---
 
 # Current Projects
 
-I am currently establishing my research agenda at UW-Eau Claire, in the realm of human-computer interaction and CS education. Check back for updates, or feel free to reach out if you are looking to collaborate!
+## E-Textiles for Undergraduate Learning
+_Fall 2024 – present_  
+
+The field of electronic textiles (e-textiles) combines digital technology with textile objects, and has applications in fields such as wearable computing, theatrical design, and medicine. Prior work has examined deploying this technology in educational settings, to teach such skills as circuit design, computer programming, and iterative design. However, e-textile-based learning materials are still not commonly used, and more validated examples of such interventions would be valuable. The aim of this project is to investigate the state of the art in e-textile technology, especially in educational contexts, and to develop and evaluate e-textiles interventions which could be deployed in a classroom or extra-curricular setting to teach introductory programming skills. 
+
+_Associated Presentations:_
+  <ul>{% for post in site.talks reversed %}
+    {% if post.tags contains 'etextiles' %}
+	  {% include archive-single-talk-cv.html %}
+	{% endif %}
+  {% endfor %}</ul>
+
+_Associated Publications:_
+  <ul>{% for post in site.publications reversed %}
+    {% if post.tags contains 'etextiles' %}
+      {% include archive-single-cv.html %}
+	{% endif %}
+  {% endfor %}</ul>
+  
+_Students:_
+  <ul>{% for post in site.students reversed %}
+    {% if post.tags contains 'etextiles' %}
+	  {% include archive-single-student-cv.html %}
+	{% endif %}
+  {% endfor %}</ul>
+  
+## AI Ethics
+_Spring 2024 – present_  
+
+In addition to my e-textiles work, I am also interested in the ethics of AI and algorithmic systems and have been involved in several events and student projects in this area.
+
+_Associated Presentations:_
+  <ul>{% for post in site.talks reversed %}
+    {% if post.tags contains 'ai' %}
+	  {% include archive-single-talk-cv.html %}
+	{% endif %}
+  {% endfor %}</ul>
+  
+_Associated Publications:_
+  <ul>{% for post in site.publications reversed %}
+    {% if post.tags contains 'ai' %}
+      {% include archive-single-cv.html %}
+	{% endif %}
+  {% endfor %}</ul>
+  
+_Students:_
+  <ul>{% for post in site.students reversed %}
+    {% if post.tags contains 'ai' %}
+	  {% include archive-single-student-cv.html %}
+	{% endif %}
+  {% endfor %}</ul>
 
 ---
 
@@ -22,12 +74,11 @@ I am currently establishing my research agenda at UW-Eau Claire, in the realm of
 
 ## Learner-Centered Algorithmic Team Formation
 _Fall 2016 – 2023_  
-_Advisors: [Brian Bailey](http://orchid.cs.illinois.edu/people/bailey/index.html), [Karrie Karahalios](http://social.cs.uiuc.edu/people/karriekarahalios.html), [Darko Marinov](http://mir.cs.illinois.edu/marinov/)_ 
+_Advisors: [Brian Bailey](http://orchid.cs.illinois.edu/people/bailey/index.html), [Karrie Karahalios](https://www.karriekarahalios.com/), [Darko Marinov](http://mir.cs.illinois.edu/marinov/)_ 
 
 Instructors are increasingly adopting team-based learning in their courses in a response to demands from industry. One of the first decisions instructors encounter when adopting this approach is how exactly the teams should be formed. A popular approach supported by the literature is a criteria-based one, where students are grouped into teams according to criteria such as demographics, skills, and working styles. As course enrollments grow, instructors are increasingly turning to algorithmic tools like [CATME](https://info.catme.org) to implement this team formation approach in their courses. However, not much is known about how to most effectively use these tools to support student learning and promote good teamwork experiences.  
 
 This line of work examines stakeholder perceptions of algorithmic team formation tools, identifies strengths and weaknesses of current tools, and aims to create a more learner-centered approach to algorithmic team formation, in which students have more control over a previously-inaccessible process.  Now [funded by the NSF!](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2016908&HistoricalAwards=false)
-
 
 _Associated Presentations:_
   <ul>{% for post in site.talks reversed %}
@@ -45,7 +96,7 @@ _Associated Publications:_
 
 ## Quantifying Maintenance Technician Capability
 _Summer 2018 – 2020_  
-_Advisors: [Michael Brundage](https://www.nist.gov/people/michael-p-brundage), [Rachael Sexton](https://www.nist.gov/people/rachael-sexton)_
+_Advisors: [Michael Brundage](https://me.umd.edu/clark/faculty/1823/Michael-Brundage), [Rachael Sexton](https://www.nist.gov/people/rachael-sexton)_
 
 During my time as a GMSE fellow, I worked with the [Knowledge Extraction and Application team](https://www.researchgate.net/project/Knowledge-Extraction-and-Application-for-Smart-Manufacturing) in NIST's Engineering Laboratory toward quantifying human skill level from historical data. The team is using human-in-the-loop machine learning to make analysis of jargon- and misspelling-filled maintenance work order documents (MWOs) feasible. Using the toolkit [Nestor](https://github.com/usnistgov/nestor), users can classify and annotate the words used in a set of MWOs to produce a clean set of tags that can be used in further analysis.  
 
@@ -62,7 +113,7 @@ _Associated Publications:_
 
 ## Beyond the Black Box: Understanding & Designing for Users’ Expectations of Algorithms
 _January 2018 – May 2019_  
-_Advisors: [Karrie Karahalios](http://social.cs.uiuc.edu/people/karriekarahalios.html), [Christian Sandvig](http://www-personal.umich.edu/~csandvig/)_
+_Advisors: [Karrie Karahalios](https://www.karriekarahalios.com/), [Christian Sandvig](http://www-personal.umich.edu/~csandvig/)_
 
 During my time on this project, I worked with a team across multiple universities to plan a large-scale survey aimed at better understanding people's awareness of and literacy about algorithms, especially those of social media platforms like Facebook and Twitter. I specifically contributed to the design of a sub-section of the larger survey which would assess the effects of different visual design cues on algorithmic awareness.  
 
@@ -122,7 +173,7 @@ _Associated Publications:_
   
 ## The History and Construction of Elizabethan English Costume
 _Spring 2013, Spring 2016_  
-_Advisor: [Margo Shively](http://knoxtheatre.org/people/Margo_Shively)_
+_Advisor: [Margo Shively](https://knoxtheatre.org/retired-faculty/#Margo)_
   
 In an independent research project bookending my time at Knox, I researched the dress of English women of the 1560s-70s, from both the working- and upper-classes. This research took the form of examining both primary sources (mostly art) and the work of costume scholars such as Janet Arnold, Margo Anderson, and Drea Leed. I then used the knowledge I had gained to design and construct an outfit representative of each class, consisting of garments from the skin out. The techniques and materials used were as historically accurate as I could afford. This project offered an extraordinary opportunity to step into the shoes (in a nearly literal sense) of the subjects of Elizabethan portraits, and taught me skills I still use in my creative projects.  
 
