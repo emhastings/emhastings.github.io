@@ -11,5 +11,4 @@ TODO:
 * Update LinkedIn
 * Sync with upstream changes from template?
 * MICS 2026 paper link when posted. Check https://micsymposium.org/earlier.htm
-* talk photos?
 

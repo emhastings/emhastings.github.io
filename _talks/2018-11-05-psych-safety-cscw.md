@@ -17,4 +17,8 @@ Jersey City, NJ
 
 Presentation of [conference paper](https://emhastings.github.io/publication/2018-11-05-psych_safety).
 
+![Emily and Farnaz before the presentation.](https://emhastings.github.io/images/farnaz.jpg)
+
+_Photo by Emily Hastings._
+
 [Download slides here](https://emhastings.github.io/files/psych-safety-cscw.pptx)
