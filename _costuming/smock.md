@@ -4,7 +4,7 @@ author: Creative
 date: 2023-06-20
 author_profile: true
 layout: archive
-excerpt: "Elizatbethan Blackwork Smock and Coif"
+excerpt: "Elizatbethan Blackwork Smock and Coif."
 header:
   teaser: https://emhastings.github.io/images/smock/smock4.jpg
 flexgallery:
