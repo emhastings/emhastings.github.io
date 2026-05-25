@@ -16,7 +16,7 @@ flexgallery:
     url: https://emhastings.github.io/images/helmet/rotate.gif
     image_path: https://emhastings.github.io/images/helmet/rotate.gif
     alt: "360-degree view of the helmet."  
-	end_row: "true"
+    end_row: "true"
   - aspect: "0.75"
     url: https://emhastings.github.io/images/helmet/inside1.jpg
     image_path: https://emhastings.github.io/images/helmet/inside1-th.jpg
@@ -33,6 +33,6 @@ flexgallery:
 	
 ---
 
-Papercraft helmet from Dragon Age 2 (will hopefully make the full armor some day). [Model by rundown on Papercraft Plaza.](https://www.papercraftplaza.com/gray-warden-helmet/)
+Papercraft helmet from Dragon Age 2 (will hopefully make the full armor some day). [Model by rundown on Papercraft Plaza.](https://www.papercraftplaza.com/gray-warden-helmet/)  
 
 {% include flexgallery caption="" %}
