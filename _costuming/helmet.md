@@ -30,7 +30,7 @@ flexgallery:
     image_path: https://emhastings.github.io/images/helmet/inside3-th.jpg
     alt: "Inside of helmet in progress."   
     end_row: "true"
-
+	
 ---
 
 Papercraft helmet from Dragon Age 2 (will hopefully make the full armor some day). [Model by rundown on Papercraft Plaza.](https://www.papercraftplaza.com/gray-warden-helmet/)
