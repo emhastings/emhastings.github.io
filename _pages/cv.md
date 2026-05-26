@@ -10,7 +10,7 @@ excerpt: "Emily M. Hastings Curriculum Vitae. Includes download link for CV."
 
 {% include base_path %}
 
-_Download: [Abridged CV](https://emhastings.github.io/files/cv.pdf) (Updated July 2024)_  
+_Download: [Abridged CV](https://emhastings.github.io/files/cv.pdf) (Updated May 2026)_  
 
 Education
 ======
@@ -72,6 +72,7 @@ Research Experience
 Teaching Experience
 ======
   _[Teaching Philosophy Statement](https://emhastings.github.io/files/teaching-phil.pdf)_
+  -[Course Materials](https://drive.google.com/drive/folders/1T7NqL3GnSGfWsC4LXipmoenyS5yge8Qs?usp=drive_link)_
   
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
