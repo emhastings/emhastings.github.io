@@ -71,8 +71,8 @@ Research Experience
 
 Teaching Experience
 ======
-  _[Teaching Philosophy Statement](https://emhastings.github.io/files/teaching-phil.pdf)_
-  -[Course Materials](https://drive.google.com/drive/folders/1T7NqL3GnSGfWsC4LXipmoenyS5yge8Qs?usp=drive_link)_
+  _[Teaching Philosophy Statement](https://emhastings.github.io/files/teaching-phil.pdf)_  
+  _[Course Materials](https://drive.google.com/drive/folders/1T7NqL3GnSGfWsC4LXipmoenyS5yge8Qs?usp=drive_link)_  
   
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
