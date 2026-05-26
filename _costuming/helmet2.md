@@ -6,26 +6,24 @@ author_profile: true
 layout: archive
 excerpt: "Papercraft helmet from Dragon Age 2."
 header:
-  teaser: https://emhastings.github.io/images/gown/sidebyside.png
+  teaser: https://emhastings.github.io/images/helmet/helmet.jpg
 gallery:
-  - url: https://emhastings.github.io/images/gown/gown.jpg
-    image_path: https://emhastings.github.io/images/gown/gown-th.jpg
-    alt: "Emily wearing the gown (minus sleeves)"
-  - url: https://emhastings.github.io/images/gown/360.gif
-    image_path: https://emhastings.github.io/images/gown/360-th.gif
-    alt: "360-degree view of the gown"
-  - url: https://emhastings.github.io/images/gown/gown2.jpg
-    image_path: https://emhastings.github.io/images/gown/gown2-th.jpg
-    alt: "Emily wearing the gown (minus sleeves)"
-  - url: https://emhastings.github.io/images/gown/underpinnings.jpg
-    image_path: https://emhastings.github.io/images/gown/underpinnings-th.jpg
-    alt: "Underpinnings worn beneath the gown"
-  - url: https://emhastings.github.io/images/gown/catch.jpg
-    image_path: https://emhastings.github.io/images/gown/catch-th.jpg
-    alt: "Underpinnings worn beneath the gown"
-  - url: https://emhastings.github.io/images/gown/plate.png
-    image_path: https://emhastings.github.io/images/gown/plate-th.png
-    alt: "Fashion plate drawn before constructing the gown"
+  - url: https://emhastings.github.io/images/helmet/helmet.jpg
+    image_path: https://emhastings.github.io/images/helmet/helmet-th.jpg
+    alt: "Helmet with in-game model (modded into DAO)."
+  - url: https://emhastings.github.io/images/helmet/rotate.gif
+    image_path: https://emhastings.github.io/images/helmet/rotate.gif
+    alt: "360-degree view of the helmet."
+  - url: https://emhastings.github.io/images/helmet/inside1.jpg
+    image_path: https://emhastings.github.io/images/helmet/inside1-th.jpg
+    alt: "Inside of helmet in progress."
+  - url: https://emhastings.github.io/images/helmet/inside2.jpg
+    image_path: https://emhastings.github.io/images/helmet/inside2-th.jpg
+    alt: "Inside of helmet in progress."
+  - url: https://emhastings.github.io/images/helmet/inside3.jpg
+    image_path: https://emhastings.github.io/images/helmet/inside3-th.jpg
+    alt: "Inside of helmet in progress."
+
 ---
 
 Papercraft helmet from Dragon Age 2. [Model by rundown on Papercraft Plaza.](https://www.papercraftplaza.com/gray-warden-helmet/) 
