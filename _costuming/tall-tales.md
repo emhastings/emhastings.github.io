@@ -24,7 +24,7 @@ flexgallery:
   - aspect: "1.3325"
     url: https://emhastings.github.io/images/tall-tales/mood.jpg
     image_path: https://emhastings.github.io/images/tall-tales/mood-th.jpg
-    alt: "Poster"
+    alt: "Poster of inspiration images"
   - aspect: "1.2941"
     url: https://emhastings.github.io/images/tall-tales/mood2.jpg
     image_path: https://emhastings.github.io/images/tall-tales/mood2-th.jpg
@@ -37,8 +37,6 @@ I designed costumes for JT, young Mary Ann, and Lallie from Robert Schenkkan's _
 {% include flexgallery %}
 
 ## Documents and Links:
-* [Mood board](https://emhastings.github.io/files/tall-tales-mood.pdf)
-* [Inspiration images (poster in second image)](https://emhastings.github.io/files/tall_tales_inspo.pdf)
 * [Bibliography](https://emhastings.github.io/files/tall-tales-sources.pdf)
 
 
