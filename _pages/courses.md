@@ -99,7 +99,7 @@ excerpt: "List of courses taken by Emily."
 ---
 
 ## Other
-* [Be There Certificate](https://www.betherecertificate.org/)  (Mental health literacy workshop offered by Jack.org and Born This Way Foundation, [certificate](https://emhastings.github.io/files/certificates/be_there.pdf))))
+* [Be There Certificate](https://www.betherecertificate.org/)  (Mental health literacy workshop offered by Jack.org and Born This Way Foundation, [certificate](https://emhastings.github.io/files/certificates/be_there.pdf))
 
 ### Workshops
 * [What You Need to Know: Essentials of Course Design](https://citl.illinois.edu/docs/default-source/workshop-series/2021-teaching-essentials-flyer.pdf?sfvrsn=2) (8 sessions, offered by UIUC CITL) 

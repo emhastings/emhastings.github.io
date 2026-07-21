@@ -20,7 +20,7 @@ flexgallery:
     url: https://emhastings.github.io/images/tall-tales/mary-ann.jpg
     image_path: https://emhastings.github.io/images/tall-tales/mary-ann-th.jpg
     alt: "Mary Ann"
-	end_row: "true"
+    end_row: "true"
   - aspect: "1.3325"
     url: https://emhastings.github.io/images/tall-tales/mood.jpg
     image_path: https://emhastings.github.io/images/tall-tales/mood-th.jpg
