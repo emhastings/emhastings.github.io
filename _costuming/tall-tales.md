@@ -16,14 +16,18 @@ flexgallery:
     url: https://emhastings.github.io/images/tall-tales/lallie.jpg
     image_path: https://emhastings.github.io/images/tall-tales/lallie-th.jpg
     alt: "Lallie"
-    end_row: "true"
   - aspect: "0.7491"
     url: https://emhastings.github.io/images/tall-tales/mary-ann.jpg
     image_path: https://emhastings.github.io/images/tall-tales/mary-ann-th.jpg
     alt: "Mary Ann"
+	end_row: "true"
   - aspect: "1.3325"
     url: https://emhastings.github.io/images/tall-tales/mood.jpg
     image_path: https://emhastings.github.io/images/tall-tales/mood-th.jpg
+    alt: "Poster"
+  - aspect: "1.2941"
+    url: https://emhastings.github.io/images/tall-tales/mood2.jpg
+    image_path: https://emhastings.github.io/images/tall-tales/mood2-th.jpg
     alt: "Mood board"
 
 ---

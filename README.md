@@ -4,7 +4,5 @@ Thanks to @iyeraravind for the flexgallery include (https://github.com/iyeraravi
 
 TODO:
 * revamp CV doc to be more accessible? (headings, etc)
-* Update LinkedIn
 * Sync with upstream changes from template?
 * MICS 2026 paper link when posted. Check https://micsymposium.org/earlier.htm
-

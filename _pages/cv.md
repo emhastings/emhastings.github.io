@@ -27,7 +27,7 @@ Education
   * [Thesis: LIFT: Integrating Stakeholder Voices into Algorithmic Team Formation](http://hdl.handle.net/2142/104866)
 * **B.A. in Computer Science, summa cum laude**	
   * Knox College, Galesburg, IL, 2012-2016
-  * Independent Minor: Renaissance and Medieval Studies
+  * [Independent Minor](https://www.knox.edu/academics/majors-and-minors/self-designed-studies): Renaissance and Medieval Studies
   * [Courses taken](https://emhastings.github.io/courses-taken/)
 
 Research Experience
