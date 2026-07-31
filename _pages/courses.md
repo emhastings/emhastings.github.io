@@ -98,9 +98,6 @@ excerpt: "List of courses taken by Emily."
 
 ---
 
-## Other
-* [Be There Certificate](https://www.betherecertificate.org/)  (Mental health literacy workshop offered by Jack.org and Born This Way Foundation, [certificate](https://emhastings.github.io/files/certificates/be_there.pdf))
-
 ### Workshops
 * [What You Need to Know: Essentials of Course Design](https://citl.illinois.edu/docs/default-source/workshop-series/2021-teaching-essentials-flyer.pdf?sfvrsn=2) (8 sessions, offered by UIUC CITL) 
 * Summer Learning: Supporting Student Success (course offered by UWEC CETL, [certificate](https://emhastings.github.io/files/certificates/ssc.pdf))
@@ -111,6 +108,8 @@ excerpt: "List of courses taken by Emily."
   * Transparent Design Framework
   * Creating Inclusive Classrooms
   * Universal Design for Learning
+* [Be There Certificate](https://www.betherecertificate.org/)  (Mental health literacy workshop offered by Jack.org and Born This Way Foundation, [certificate](https://emhastings.github.io/files/certificates/be_there.pdf)) 
+* Implementing Accessible Use of Images/Visuals in Your Instruction by [UWEC CETL](https://www.uwec.edu/offices-services/center-excellence-teaching-and-learning) 
 
 ### Coursera
 * [An Introduction to Accessibility and Inclusive Design (with Honors)](https://www.coursera.org/learn/accessibility) ([certificate](https://www.coursera.org/account/accomplishments/verify/MW2CR3TDPMB7))
