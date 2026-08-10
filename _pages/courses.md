@@ -109,7 +109,8 @@ excerpt: "List of courses taken by Emily."
   * Creating Inclusive Classrooms
   * Universal Design for Learning
 * [Be There Certificate](https://www.betherecertificate.org/)  (Mental health literacy workshop offered by Jack.org and Born This Way Foundation, [certificate](https://emhastings.github.io/files/certificates/be_there.pdf)) 
-* Implementing Accessible Use of Images/Visuals in Your Instruction by [UWEC CETL](https://www.uwec.edu/offices-services/center-excellence-teaching-and-learning) 
+* Implementing Accessible Use of Images/Visuals in Your Instruction by [UWEC CETL](https://www.uwec.edu/offices-services/center-excellence-teaching-and-learning)  
+* Digital Accessibility Overview by [UWEC LTS](https://www.uwec.edu/offices-services/learning-and-technology-services)
 
 ### Coursera
 * [An Introduction to Accessibility and Inclusive Design (with Honors)](https://www.coursera.org/learn/accessibility) ([certificate](https://www.coursera.org/account/accomplishments/verify/MW2CR3TDPMB7))
