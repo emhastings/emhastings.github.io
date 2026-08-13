@@ -7,6 +7,7 @@ excerpt: "Places Emily and her work have been featured around the web."
 ---
 
 ## Academic
+  * [Computer Science \| Knox College](https://www.knox.edu/academics/majors-and-minors/computer-science)  
   * [Self-Designed Studies \| Knox College](https://www.knox.edu/academics/majors-and-minors/self-designed-studies)  
   * [UWEC CS Department LinkedIn on Karlgaard Award](https://www.linkedin.com/posts/uwec-department-of-computer-science_nine-high-achieving-faculty-members-from-activity-7459620781082451969-1sTn?utm_source=share&utm_medium=member_desktop&rcm=ACoAABqew3EBWK7ktc9IwzJhiMDTs0GFVWKYST8) 
   * [UW-Eau Claire faculty honored with University Fellows, Karlgaard awards \| University of Wisconsin-Eau Claire](https://www.uwec.edu/stories/uw-eau-claire-faculty-honored-university-fellows-karlgaard-awards-0) 
